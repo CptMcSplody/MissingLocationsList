@@ -2744,12 +2744,6 @@
     url: [ '' ]
   - name: 'HM_HotkeyMod.esp'
     url: [ '' ]
-  - name: 'Warburg''s 3D Paper World Map - Texture 1.esp'
-    url: [ '' ]
-  - name: 'Warburg''s 3D Paper World Map - Texture 2.esp'
-    url: [ '' ]
-  - name: 'Warburg''s 3D Paper World Map - Texture 3.esp'
-    url: [ '' ]
   - name: 'CombatDramaOverhaul.esp'
     url: [ '' ]
   - name: 'LakeviewManorRoad.esp'
