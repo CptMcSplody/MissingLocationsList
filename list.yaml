@@ -2748,24 +2748,6 @@
     url: [ '' ]
   - name: 'MoreAndBetterMM.esp'
     url: [ '' ]
-  - name: 'smakit_house_markers.esp'
-    url: [ '' ]
-  - name: 'smakit_house_markers_french.esp'
-    url: [ '' ]
-  - name: 'smakit_house_markers_german.esp'
-    url: [ '' ]
-  - name: 'smakit_house_markers_italian.esp'
-    url: [ '' ]
-  - name: 'smakit_house_markers_plus.esp'
-    url: [ '' ]
-  - name: 'smakit_house_markers_plus_russian.esp'
-    url: [ '' ]
-  - name: 'smakit_house_markers_polish.esp'
-    url: [ '' ]
-  - name: 'smakit_house_markers_russian.esp'
-    url: [ '' ]
-  - name: 'smakit_house_markers_spanish.esp'
-    url: [ '' ]
   - name: 'SoundPropagationOverhaul DSAMG Patch.esp'
     url: [ '' ]
   - name: 'BalancedModeNoRespClear.esp'
