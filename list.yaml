@@ -1,7 +1,5 @@
   - name: 'ChangeMaleModels.esp'
     url: [ '' ]
-  - name: 'SMIM-ShackRoofFixesDragonborn.esp'
-    url: [ '' ]
   - name: 'SurvivalistIngenuity.esp'
     url: [ '' ]
   - name: 'Economics of Skyrim.esp'
@@ -12,11 +10,7 @@
     url: [ '' ]
   - name: 'AK- Placeable Statics.esp'
     url: [ '' ]
-  - name: 'AllFemaleGuards.esp'
-    url: [ '' ]
   - name: 'anon_soullevelsrevealed.esp'
-    url: [ '' ]
-  - name: 'ArgonianfemGuild.esp'
     url: [ '' ]
   - name: 'Armor and Clothing Diversity.esp'
     url: [ '' ]
@@ -159,8 +153,6 @@
   - name: 'JAWS.esp'
     url: [ '' ]
   - name: 'JBS_banking_redux.esp'
-    url: [ '' ]
-  - name: 'KhajiitfemGuild.esp'
     url: [ '' ]
   - name: 'kuerteeProfessions.esp'
     url: [ '' ]
