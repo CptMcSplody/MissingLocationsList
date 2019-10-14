@@ -16,19 +16,13 @@
     url: [ '' ]
   - name: 'bladesfactionfix.esp'
     url: [ '' ]
-  - name: 'Bloody Cannibalism.esp'
-    url: [ '' ]
   - name: 'Bob The Merchant.esp'
     url: [ '' ]
   - name: 'Cabbage In Pot.esp'
     url: [ '' ]
-  - name: 'CarryWeightSpells.esp'
-    url: [ '' ]
   - name: 'Carriage1.esp'
     url: [ '' ]
   - name: 'Cart in Each Big Town.esp'
-    url: [ '' ]
-  - name: 'Catsofskyrim.esp'
     url: [ '' ]
   - name: 'Chesko_WearableLantern.esp'
     url: [ '' ]
@@ -47,8 +41,6 @@
   - name: 'DF127EnchantedArrows2.0.esp'
     url: [ '' ]
   - name: 'DF127EnchantedArrowsandBolts.esp'
-    url: [ '' ]
-  - name: 'Dogsofskyrim.esp'
     url: [ '' ]
   - name: 'Dovahtracker.esp'
     url: [ '' ]
