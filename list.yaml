@@ -1540,8 +1540,6 @@
     url: [ '' ]
   - name: 'tos_oakwood_hf.esp'
     url: [ '' ]
-  - name: 'L0S and TaVE patch.esp'
-    url: [ '' ]
   - name: 'WhiterunInEnhanced.esp'
     url: [ '' ]
   - name: 'Whiterun Repaired Plus.esp'
