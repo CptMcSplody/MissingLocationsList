@@ -1046,14 +1046,6 @@
     url: [ '' ]
   - name: 'Sharphook.esp'
     url: [ '' ]
-  - name: 'ShezriesBreezehome.esp'
-    url: [ '' ]
-  - name: 'ShezriesHFKitchen.esp'
-    url: [ '' ]
-  - name: 'ShezriesHFKitchenHel.esp'
-    url: [ '' ]
-  - name: 'ShezriesWinstadHearthfireKitchen.esp'
-    url: [ '' ]
   - name: 'Shrine Of Kharjo.esp'
     url: [ '' ]
   - name: 'Shrouded Lair.esp'
@@ -1209,28 +1201,6 @@
   - name: '(TWE) Riften Brothel..esp'
     url: [ '' ]
   - name: 'BBLuxurySuiteUndergroundBathhouse.esp'
-    url: [ '' ]
-  - name: 'ub_bbls_merge.esp'
-    url: [ '' ]
-  - name: 'ub_bbls_merge_classier.esp'
-    url: [ '' ]
-  - name: 'ub_cell_armory.esp'
-    url: [ '' ]
-  - name: 'ub_cell_bedroom.esp'
-    url: [ '' ]
-  - name: 'ub_cell_cavern.esp'
-    url: [ '' ]
-  - name: 'ub_cell_darkarea.esp'
-    url: [ '' ]
-  - name: 'ub_cell_dislayroom.esp'
-    url: [ '' ]
-  - name: 'ub_cell_kitchen.esp'
-    url: [ '' ]
-  - name: 'ub_cell_maintenance_room.esp'
-    url: [ '' ]
-  - name: 'ub_cell_teleportroom.esp'
-    url: [ '' ]
-  - name: 'ub_disable_teleportroom.esp'
     url: [ '' ]
   - name: 'UDO.esm'
     url: [ '' ]
