@@ -1534,23 +1534,11 @@
     url: [ '' ]
   - name: 'NerniesThiefPack.esp'
     url: [ '' ]
-  - name: 'RiverwoodEnhancedPlugin.esp'
-    url: [ '' ]
-  - name: 'TAVERiften.esp'
-    url: [ '' ]
-  - name: 'TAVESolitude.esp'
-    url: [ '' ]
-  - name: 'TAVEWindhelm.esp'
-    url: [ '' ]
-  - name: 'tavevillages.esp'
-    url: [ '' ]
   - name: 'tos_amber_guard.esp'
     url: [ '' ]
   - name: 'tos_oakwood.esp'
     url: [ '' ]
   - name: 'tos_oakwood_hf.esp'
-    url: [ '' ]
-  - name: 'TownsAndCitiesEnhanced.esp'
     url: [ '' ]
   - name: 'L0S and TaVE patch.esp'
     url: [ '' ]
@@ -1589,8 +1577,6 @@
   - name: 'Oblivion Gates.esp'
     url: [ '' ]
   - name: 'SummerSkyrim.esp'
-    url: [ '' ]
-  - name: 'tavefalkreath.esp'
     url: [ '' ]
   - name: 'Tundra to forest.esp'
     url: [ '' ]
