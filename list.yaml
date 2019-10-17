@@ -2244,20 +2244,6 @@
     url: [ '' ]
   - name: 'Feline Friendship.esp'
     url: [ '' ]
-  - name: 'FFBretonClaribelle.esp'
-    url: [ '' ]
-  - name: 'FFNordDawsyn.esp'
-    url: [ '' ]
-  - name: 'FFNordKaadi.esp'
-    url: [ '' ]
-  - name: 'FFNordLiann.esp'
-    url: [ '' ]
-  - name: 'FFNordNatilde.esp'
-    url: [ '' ]
-  - name: 'FFNordYsilia.esp'
-    url: [ '' ]
-  - name: 'FFNords.esp'
-    url: [ '' ]
   - name: 'FollowerBerserker.esp'
     url: [ '' ]
   - name: 'FollowerSaber.esp'
