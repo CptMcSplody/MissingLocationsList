@@ -1274,8 +1274,6 @@
     url: [ '' ]
   - name: 'WindhelmFletcher.esp'
     url: [ '' ]
-  - name: 'Windmill_Shelter.esp'
-    url: [ '' ]
   - name: 'Winterhold_Improvements.esp'
     url: [ '' ]
   - name: 'Winterhold Fully Restored.esp'
@@ -2257,16 +2255,6 @@
   - name: 'Alternate Visuals for Spell Effects.esp'
     url: [ '' ]
   - name: 'Replacer Visuals for Spell Effects.esp'
-    url: [ '' ]
-  - name: 'RealShelter.esp'
-    url: [ '' ]
-  - name: 'Hot Volcanic Water.esp'
-    url: [ '' ]
-  - name: 'Purewaters.esp'
-    url: [ '' ]
-  - name: 'WATER Plants.esp'
-    url: [ '' ]
-  - name: 'waves.esp'
     url: [ '' ]
   - name: 'cartographers map markers.esp'
     url: [ '' ]
