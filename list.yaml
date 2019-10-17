@@ -50,57 +50,21 @@
     url: [ '' ]
   - name: 'riverwood flora.esp'
     url: [ '' ]
-  - name: 'AmazingRiverwoodRetex.esp'
-    url: [ '' ]
-  - name: 'RPChoppingAndMining.esp'
-    url: [ '' ]
-  - name: 'RWB - Realistic Wolf Behavior.esp'
-    url: [ '' ]
-  - name: 'SaltSacks.esp'
-    url: [ '' ]
-  - name: 'SDO Full-LOD - Giant Campfires.esp'
-    url: [ '' ]
-  - name: 'SDO Full-LOD - The Morthal Swamp Complete.esp'
-    url: [ '' ]
-  - name: 'SDO Full-LOD - The Morthal Swamp Light.esp'
-    url: [ '' ]
-  - name: 'SDO Full-LOD - Waterfall Effects.esp'
-    url: [ '' ]
-  - name: 'SDO Full-LOD - Whiterun Trundra Creeks.esp'
-    url: [ '' ]
-  - name: 'See Your Neighbor.esp'
-    url: [ '' ]
-  - name: 'SignTown_by_YURIL.esp'
-    url: [ '' ]
-  - name: 'SignTown_by_YURIL_1o5.esp'
-    url: [ '' ]
   - name: 'simple_crafter_breakdown.esp'
     url: [ '' ]
   - name: 'Skinripper Materials Chest.esp'
     url: [ '' ]
-  - name: 'SkyEx.esp'
-    url: [ '' ]
   - name: 'Skyforge Smelter.esp'
     url: [ '' ]
-  - name: 'Skyhighrim.esp'
-    url: [ '' ]
   - name: 'SleepingDangers-SandsofTime.esp'
-    url: [ '' ]
-  - name: 'Skyrim Flora Overhaul.esp'
     url: [ '' ]
   - name: 'SkyrimCoinReplacer.esp'
     url: [ '' ]
   - name: 'SlotMachine.esp'
     url: [ '' ]
-  - name: 'Smelter_Riften & Solitude.esp'
-    url: [ '' ]
   - name: 'smeltorswheretheyshouldbe.esp'
     url: [ '' ]
-  - name: 'smithingsupplies.esp'
-    url: [ '' ]
   - name: 'susi!!.esp'
-    url: [ '' ]
-  - name: 'Syynx Stubborn Skeletons.esp'
     url: [ '' ]
   - name: 'Tailoring.esp'
     url: [ '' ]
@@ -110,61 +74,19 @@
     url: [ '' ]
   - name: 'TorchesForSkyrim.esp'
     url: [ '' ]
-  - name: 'two_handed_rebalance.esp'
-    url: [ '' ]
-  - name: 'Underwater_Treasure.esp'
-    url: [ '' ]
-  - name: 'Unicorn.esp'
-    url: [ '' ]
-  - name: 'UniqueEverything.esp'
-    url: [ '' ]
   - name: 'WantedPosters.esp'
     url: [ '' ]
   - name: 'weighted gold.esp'
-    url: [ '' ]
-  - name: 'Wild Horses of Skyrim.esp'
-    url: [ '' ]
-  - name: 'IMAGINATOR - Visual Control for Skyrim.esp'
-    url: [ '' ]
-  - name: 'kuerteeAutoFirstThirdPersonView.esp'
-    url: [ '' ]
-  - name: 'kuerteeAutoSaveAndTime.esp'
-    url: [ '' ]
-  - name: 'abimod.esp'
     url: [ '' ]
   - name: 'ACB Harley.esp'
     url: [ '' ]
   - name: 'ACB Hellequin.esp'
     url: [ '' ]
-  - name: 'AetheriumSwordsnArmor.esp'
-    url: [ '' ]
   - name: 'akavirisharpkatana.esp'
-    url: [ '' ]
-  - name: 'AlchemistSatchel.esp'
-    url: [ '' ]
-  - name: 'AlexScorpionsShop.esp'
     url: [ '' ]
   - name: 'Alchemic Tomes.esp'
     url: [ '' ]
-  - name: 'Althirs Camping Tools English.esp'
-    url: [ '' ]
-  - name: 'Althirs Camping Tools German.esp'
-    url: [ '' ]
-  - name: 'AmbrosiaFashions.esp'
-    url: [ '' ]
-  - name: 'ArcaneArchery.esp'
-    url: [ '' ]
   - name: 'archdemonplushighdragon.esp'
-    url: [ '' ]
-  - name: 'AronsHybrid.esp'
-    url: [ '' ]
-  - name: 'AronsMechaDragons.esp'
-    url: [ '' ]
-  - name: 'Avatar of Baltazar.esp'
-    url: [ '' ]
-  - name: 'Avatar Of Grenth.esp'
-    url: [ '' ]
-  - name: 'BadGremlinsJarHunt.esp'
     url: [ '' ]
   - name: 'Battledress Armor.esp'
     url: [ '' ]
@@ -2564,5 +2486,9 @@
     url: [ '' ]
   - name: 'Skyrim_Ice_Shader_Fix.esp'
     url: [ '' ]
-  - name: 'Unique Grasses.esp'
+
+# Deleted
+  - name: 'SignTown_by_YURIL.esp'
+    url: [ '' ]
+  - name: 'SignTown_by_YURIL_1o5.esp'
     url: [ '' ]
