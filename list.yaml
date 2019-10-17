@@ -888,14 +888,6 @@
     url: [ '' ]
   - name: 'MammothHome.esp'
     url: [ '' ]
-  - name: 'Mapseller.esp'
-    url: [ '' ]
-  - name: 'MapsellerDV.esp'
-    url: [ '' ]
-  - name: 'MapsellerDawnguard.esp'
-    url: [ '' ]
-  - name: 'MapsellerDawnguardDV.esp'
-    url: [ '' ]
   - name: 'Markarth_plus.esp'
     url: [ '' ]
   - name: 'MarkarthAbandonedHouseClean.esp'
