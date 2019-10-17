@@ -2304,14 +2304,6 @@
     url: [ '' ]
   - name: 'SloadCompanion.esp'
     url: [ '' ]
-  - name: 'SprigganFollower.esp'
-    url: [ '' ]
-  - name: 'SprigganFollower_lvl25.esp'
-    url: [ '' ]
-  - name: 'SprigganFollower_lvl50.esp'
-    url: [ '' ]
-  - name: 'SprigganFollower_lvl1.esp'
-    url: [ '' ]
   - name: 'SRIsaka.esp'
     url: [ '' ]
   - name: 'Suky_Companion.esp'
