@@ -836,14 +836,6 @@
     url: [ '' ]
   - name: 'ksVampireRestingPlaces.esp'
     url: [ '' ]
-  - name: 'L''Antre Dwemer v1.7.esp'
-    url: [ '' ]
-  - name: 'L''Antre Dwemer v1.6.esp'
-    url: [ '' ]
-  - name: 'L''Antre Dwemer v1.5.esp'
-    url: [ '' ]
-  - name: 'L''Antre Dwemer v1.4.esp'
-    url: [ '' ]
   - name: 'Lakeshore.esp'
     url: [ '' ]
   - name: 'LakeSideHome.esp'
