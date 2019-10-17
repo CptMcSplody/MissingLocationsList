@@ -48,8 +48,6 @@
     url: [ '' ]
   - name: 'riftenratwaypassage.esp'
     url: [ '' ]
-  - name: 'riverwood flora.esp'
-    url: [ '' ]
   - name: 'simple_crafter_breakdown.esp'
     url: [ '' ]
   - name: 'Skinripper Materials Chest.esp'
@@ -1536,12 +1534,6 @@
     url: [ '' ]
   - name: 'NerniesThiefPack.esp'
     url: [ '' ]
-  - name: 'Riverwood Enhanced.esp'
-    url: [ '' ]
-  - name: 'Riverwood Enhanced - Detailed Cities.esp'
-    url: [ '' ]
-  - name: 'Riverwood Enhanced   - NO NPC.esp'
-    url: [ '' ]
   - name: 'RiverwoodEnhancedPlugin.esp'
     url: [ '' ]
   - name: 'TAVERiften.esp'
@@ -1677,14 +1669,6 @@
   - name: 'Ancient Spells.esp'
     url: [ '' ]
   - name: 'Ancient Spells 2.esp'
-    url: [ '' ]
-  - name: 'ArcaneFist - Expert to Master NS.esp'
-    url: [ '' ]
-  - name: 'ArcaneFist - Expert to Master.esp'
-    url: [ '' ]
-  - name: 'ArcaneFist   - Nerf Version NS.esp'
-    url: [ '' ]
-  - name: 'ArcaneFist   - Nerf Version.esp'
     url: [ '' ]
   - name: 'bankai.esp'
     url: [ '' ]
