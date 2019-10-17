@@ -522,18 +522,6 @@
     url: [ '' ]
   - name: 'Bluecreek Estate.esp'
     url: [ '' ]
-  - name: 'BreezehomeRenovationFemJP.esp'
-    url: [ '' ]
-  - name: 'BreezehomeRenovationFem.esp'
-    url: [ '' ]
-  - name: 'BreezehomeRenovationFSWJP.esp'
-    url: [ '' ]
-  - name: 'BreezehomeRenovationFSW.esp'
-    url: [ '' ]
-  - name: 'BreezehomeRenovationJP.esp'
-    url: [ '' ]
-  - name: 'BreezehomeRenovation.esp'
-    url: [ '' ]
   - name: 'BreezehomeEnchantingTable.esp'
     url: [ '' ]
   - name: 'Briar''sEndCourierQuest.esp'
@@ -2440,28 +2428,6 @@
     url: [ '' ]
   - name: 'jorrvaskr.esp'
     url: [ '' ]
-  - name: 'Map Markers Camps & Shacks.esp'
-    url: [ 'https://www.nexusmods.com/skyrim/mods/25294' ]
-  - name: 'Map Markers Cities.esp'
-    url: [ 'https://www.nexusmods.com/skyrim/mods/25455' ]
-  - name: 'Map Markers Cities OC.esp'
-    url: [ 'https://www.nexusmods.com/skyrim/mods/25455' ]
-  - name: 'Map Markers Complete.esp'
-    url: [ 'https://www.nexusmods.com/skyrim/mods/25603' ]
-  - name: 'Map Markers Complete nC.esp'
-    url: [ 'https://www.nexusmods.com/skyrim/mods/25603' ]
-  - name: 'Map Markers Complete OC.esp'
-    url: [ 'https://www.nexusmods.com/skyrim/mods/25603' ]
-  - name: 'Map Markers Landmarks.esp'
-    url: [ 'https://www.nexusmods.com/skyrim/mods/26246' ]
-  - name: 'Map Markers Misc.esp'
-    url: [ 'https://www.nexusmods.com/skyrim/mods/26688' ]
-  - name: 'Map Markers Shrines.esp'
-    url: [ 'https://www.nexusmods.com/skyrim/mods/25217' ]
-  - name: 'Map Markers Shrines nC.esp'
-    url: [ 'https://www.nexusmods.com/skyrim/mods/25217' ]
-  - name: 'Map Markers Shrines OC.esp'
-    url: [ 'https://www.nexusmods.com/skyrim/mods/25217' ]
   - name: 'MoreAndBetterMM.esp'
     url: [ '' ]
   - name: 'SoundPropagationOverhaul DSAMG Patch.esp'
@@ -2483,13 +2449,4 @@
   - name: '_tck_SpellCrafting.esp'
     url: [ '' ]
   - name: 'Skyrim_Ice_Shader_Fix.esp'
-    url: [ '' ]
-
-# Deleted
-  - name: 'Map Markers Places of Interest.esp'
-    url: [ '' ]
-
-  - name: 'SignTown_by_YURIL.esp'
-    url: [ '' ]
-  - name: 'SignTown_by_YURIL_1o5.esp'
     url: [ '' ]
