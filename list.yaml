@@ -1504,18 +1504,6 @@
     url: [ '' ]
   - name: 'workhorse.esp'
     url: [ '' ]
-  - name: 'Skyrim unleashed_items.esp'
-    url: [ '' ]
-  - name: 'Skyrim unleashed_npc.esp'
-    url: [ '' ]
-  - name: 'Skyrim unleashed_Hardcore_npc_addon.esp'
-    url: [ '' ]
-  - name: 'Skyrim unleashed_crafting.esp'
-    url: [ '' ]
-  - name: 'Skyrim unleashed Xtra_items.esp'
-    url: [ '' ]
-  - name: 'Skyrim unleashed Xtra_npc.esp'
-    url: [ '' ]
   - name: 'Unique Region Names - Dragonborn.esp'
     url: [ '' ]
   - name: 'aaaadaedric1.esp'
