@@ -2441,29 +2441,27 @@
   - name: 'jorrvaskr.esp'
     url: [ '' ]
   - name: 'Map Markers Camps & Shacks.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/skyrim/mods/25294' ]
   - name: 'Map Markers Cities.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/skyrim/mods/25455' ]
   - name: 'Map Markers Cities OC.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/skyrim/mods/25455' ]
   - name: 'Map Markers Complete.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/skyrim/mods/25603' ]
   - name: 'Map Markers Complete nC.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/skyrim/mods/25603' ]
   - name: 'Map Markers Complete OC.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/skyrim/mods/25603' ]
   - name: 'Map Markers Landmarks.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/skyrim/mods/26246' ]
   - name: 'Map Markers Misc.esp'
-    url: [ '' ]
-  - name: 'Map Markers Places of Interest.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/skyrim/mods/26688' ]
   - name: 'Map Markers Shrines.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/skyrim/mods/25217' ]
   - name: 'Map Markers Shrines nC.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/skyrim/mods/25217' ]
   - name: 'Map Markers Shrines OC.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/skyrim/mods/25217' ]
   - name: 'MoreAndBetterMM.esp'
     url: [ '' ]
   - name: 'SoundPropagationOverhaul DSAMG Patch.esp'
@@ -2488,6 +2486,9 @@
     url: [ '' ]
 
 # Deleted
+  - name: 'Map Markers Places of Interest.esp'
+    url: [ '' ]
+
   - name: 'SignTown_by_YURIL.esp'
     url: [ '' ]
   - name: 'SignTown_by_YURIL_1o5.esp'
