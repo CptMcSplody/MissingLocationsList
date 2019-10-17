@@ -2,8 +2,6 @@
     url: [ '' ]
   - name: 'SurvivalistIngenuity.esp'
     url: [ '' ]
-  - name: 'Economics of Skyrim.esp'
-    url: [ '' ]
   - name: 'ADV HB-Style.esp'
     url: [ '' ]
   - name: 'ADV GenStoresPlugin.esp'
@@ -24,8 +22,6 @@
     url: [ '' ]
   - name: 'Cart in Each Big Town.esp'
     url: [ '' ]
-  - name: 'DF127EnchantedArrows2.0.esp'
-    url: [ '' ]
   - name: 'fgc.esp'
     url: [ '' ]
   - name: 'Four New Dragons.esp'
@@ -33,8 +29,6 @@
   - name: 'guard''s don''t change outfits.esp'
     url: [ '' ]
   - name: 'Immersive Battles.esp'
-    url: [ '' ]
-  - name: 'Immersive Patrols.esp'
     url: [ '' ]
   - name: 'JBS_banking_redux.esp'
     url: [ '' ]
