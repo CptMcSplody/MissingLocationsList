@@ -10,30 +10,6 @@
     url: [ '' ]
   - name: 'TamRes.esp'
     url: [ '' ]
-# No source
-  - name: 'Gold is now Gold.esp'
-    url: [ '' ]
-# No source
-  - name: 'Grand Potions.esp'
-    url: [ '' ]
-# No source
-  - name: 'GuildOwnership1.2.esp'
-    url: [ '' ]
-# No source
-  - name: 'Inebriation Rus.esp'
-    url: [ '' ]
-# No source
-  - name: 'JQPotionBottlesTest.esp'
-    url: [ '' ]
-# No source
-  - name: 'Gâteaux et sucreries.esp'
-    url: [ '' ]
-# No source
-  - name: 'Lock Bash v99.9.esp'
-    url: [ '' ]
-# No source
-  - name: 'MageGuild_simbol.esp'
-    url: [ '' ]
   - name: 'MeosPotionReplacer.esp'
     url: [ '' ]
   - name: 'MigStatsCheck.esp'
@@ -48,18 +24,18 @@
     url: [ '' ]
   - name: 'More Drinks.esp'
     url: [ '' ]
-  - name: 'More_Vegetables.esp'
-    url: [ '' ]
   - name: 'BetterMusicSystem.esp'
     url: [ '' ]
   - name: 'Mud Crabs!(_(coMbO|MMM|OOO))?\.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12982' ]
   - name: 'Mud Crabs!_coMbO.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12982' ]
   - name: 'NR500.esp'
     url: [ '' ]
+  - name: 'JQPotionBottlesTest.esp'
+    url: [ 'https://www.nexusmods.com/oblivion/mods/33946' ]
   - name: 'New Potions by Tealpanda.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/33946' ]
   - name: 'New Potions.esp'
     url: [ '' ]
   - name: 'New_Potions_Fixed_Icons-25822.esp'
@@ -213,7 +189,7 @@
   - name: 'GoldAdjustment.esp'
     url: [ '' ]
   - name: 'moDem''s City Life.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/9450' ]
   - name: 'Oblivion Alive.esp'
     url: [ '' ]
   - name: 'Bards of Cyrodiil.esp'
@@ -1852,8 +1828,6 @@
     url: [ '' ]
   - name: 'Gift of Kynareth.esp'
     url: [ '' ]
-  - name: 'Giskards Tales From the Tomb.esp'
-    url: [ '' ]
   - name: 'Gold Coast''s Hillsborough Estate.esp'
     url: [ '' ]
   - name: 'GoldenCrest.esp'
@@ -2192,8 +2166,6 @@
     url: [ '' ]
   - name: 'CMWaterskin.esp'
     url: [ '' ]
-  - name: 'Sheogoraths_Accords_of_Madness.esp'
-    url: [ '' ]
   - name: 'Silgrad_Tower.esp'
     url: [ '' ]
   - name: 'Silvercliff.esp'
@@ -2285,8 +2257,6 @@
   - name: 'The Retreat-AN compatible.esp'
     url: [ '' ]
   - name: 'TLC2.esp'
-    url: [ '' ]
-  - name: 'TheElderCouncil_TempleOfTheOne.esp'
     url: [ '' ]
   - name: 'TheForgottenShields.esp'
     url: [ '' ]
@@ -2464,12 +2434,6 @@
     url: [ '' ]
   - name: 'Slof''s Oblivion Robe Trader - OOO Patch.esp'
     url: [ '' ]
-# No Source
-  - name: 'Lynges_Thieves_Highway.esp'
-    url: [ '' ]
-# # No Source
-  - name: 'Lynges Thieves Highway.esp'
-    url: [ '' ]
   - name: 'DSoSFrostCragRebornExteriorStairsFix.esp'
     url: [ '' ]
   - name: 'DLCFrostcrag Reborn.esp'
@@ -2549,8 +2513,6 @@
   - name: 'Origin of the Mages Guild.esp'
     url: [ '' ]
   - name: 'The Mystery of the Dulan cult.esp'
-    url: [ '' ]
-  - name: 'TheNecromancer.esp'
     url: [ '' ]
   - name: 'Hoarfrost Raid.esp'
     url: [ '' ]
@@ -2668,15 +2630,7 @@
     url: [ '' ]
   - name: 'Chorrol Jewelry Company.esp'
     url: [ '' ]
-  - name: 'CUO_Bruma.esp'
-    url: [ '' ]
-  - name: 'CUO_Chorrol.esp'
-    url: [ '' ]
-  - name: 'CUO_Leyawiin.esp'
-    url: [ '' ]
   - name: 'xulBrenaRiverRavine02.esp'
-    url: [ '' ]
-  - name: 'TheNecromancer-StendarrValley patch.esp'
     url: [ '' ]
   - name: 'Ravenpride-Stendarr patch.esp'
     url: [ '' ]
@@ -2787,7 +2741,7 @@
   - name: 'Cardac-xulAspenWood-patch.esp'
     url: [ '' ]
   - name: 'OotD_UL_Jerall_Patch.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/45611' ]
   - name: 'ULII-Roads-Patch.esp'
     url: [ '' ]
   - name: 'LtPD+NRB4+UL-II Patch.esp'
@@ -2843,19 +2797,17 @@
   - name: 'Salmo WV, Cobl.esp'
     url: [ '' ]
   - name: 'OotDPS-Necro-FAR-FotA-Patch.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/45611' ]
   - name: 'OotDPS-FAR-FotA-Patch.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/45611' ]
   - name: 'OotDPS-FotA.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/45611' ]
   - name: 'OotDPS_Necro_FotA_Patch.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/45611' ]
   - name: 'OotD_FAR_Necromancer_Patch.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/45611' ]
   - name: 'OotD_FAR_Patch.esp'
-    url: [ '' ]
-  - name: 'OotD_ULJerall_TheNecromancer_Patch.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/45611' ]
   - name: 'OBCBravil-Barrowfields patch.esp'
     url: [ '' ]
   - name: 'OBCBravilB&M-Barrowfields patch.esp'
@@ -2949,8 +2901,6 @@
   - name: 'Better Abandoned House OC Cheydinhal.esp'
     url: [ '' ]
   - name: 'BarrowFields-Blood&Mud-Patch.esp'
-    url: [ '' ]
-  - name: 'FightersGuildContracts.esp'
     url: [ '' ]
   - name: '(JQ) Fighters Guild United.esp'
     url: [ '' ]
@@ -3100,16 +3050,6 @@
     url: [ '' ]
   - name: 'Cyrodiil City Guards.esp'
     url: [ '' ]
-  - name: 'CUO_FightersGuildContracts_SAFE.esp'
-    url: [ '' ]
-  - name: 'CUO_UnLeveledPotions.esp'
-    url: [ '' ]
-  - name: 'CUO_NewFactionDialog_SAFE.esp'
-    url: [ '' ]
-  - name: 'CUO_BadGuy_Specific_Loot_DIRTY.esp'
-    url: [ '' ]
-  - name: 'CUO_UnleveledNpcs&Creatures.esp'
-    url: [ '' ]
   - name: 'DarkUI Fix.esp'
     url: [ '' ]
   - name: 'DDJailShackles.esp'
@@ -3232,7 +3172,6 @@
     url: [ '' ]
   - name: 'Shadow''s Merged Value Fixesv3.0.esp'
     url: [ '' ]
-# Mage Guild Teleports, Mage Guild Teleporter, Mage_Guild_Teleport 3_1
   - name: 'Magic Spell Perks Balanced.esp'
     url: [ '' ]
   - name: 'Mg_Global Item Mod.esp'
@@ -3284,10 +3223,6 @@
   - name: 'Oblivion grass overhaul.esp'
     url: [ '' ]
   - name: 'OriginalLeather.esp'
-    url: [ '' ]
-  - name: 'omg-shadows-v1.esp'
-    url: [ '' ]
-  - name: 'omg-shadows-v1-all-activated.esp'
     url: [ '' ]
   - name: 'OriginalLeatherSI.esp'
     url: [ '' ]
@@ -3628,8 +3563,6 @@
   - name: 'Midas SMHolyHeal.esp'
     url: [ '' ]
   - name: 'Midas SMPoison.esp'
-    url: [ '' ]
-  - name: 'OSPS-TalesftTomb-MidasMagic-Patch.esp'
     url: [ '' ]
   - name: 'CALSUDG.esp'
     url: [ '' ]
@@ -4788,7 +4721,7 @@
   - name: 'ArgonianFeets.esp'
     url: [ '' ]
   - name: 'KT_CustomRaceFix.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/1815/' ]
   - name: 'CustomRaceFix.esp'
     url: [ '' ]
   - name: 'Custom Race Fix.esp'
@@ -4797,195 +4730,9 @@
     url: [ '' ]
   - name: 'RaceFix_1C.esp'
     url: [ '' ]
-  - name: 'BC Skingrad Reduced - EV.esp'
-    url: [ '' ]
-  - name: 'Better Cities Full - B&M Edition FPS Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities Skingrad FPS Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities Leyawiin FPS Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities Chorrol FPS Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities Cheydinhal FPS Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities Bruma FPS Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities Bravil FPS Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities Bravil - Blood & Mud FPS Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities Anvil FPS Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Temple FPS Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Talos Plaza FPS Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Prison FPS Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Market FPS Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Green Emperor Way FPS Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Elven Gardens FPS Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Arena FPS Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Arcane University FPS Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Arboretum FPS Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities( Full)?( B&M)? - CUO Bravil( Patch)?\.esp'
-    url: [ '' ]
-  - name: 'BCBravilFULL-Barrowfields patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities( Full)?( B&M)? - CUO Chorrol Patch\.esp'
-    url: [ '' ]
-  - name: 'BCChorrol-ChorrolHinterland fix.esp'
-    url: [ '' ]
-  - name: 'BCChorrol-ChorrolHinterland patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities - Unique Landscape Chorrol Hinterland.esp'
-    url: [ '' ]
-  - name: 'BCCheydinhal(FULL)?(B&M)?-CheydinhalFalls patch\.esp'
-    url: [ '' ]
-  - name: 'Better Cities( Full)?( B&M)? - Unique Landscape Cheydinhal Falls\.esp'
-    url: [ '' ]
-  - name: 'Better Cities Full - CUO Bruma Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities Full B&M - CUO Bruma Patch.esp'
-    url: [ '' ]
-  - name: 'BCSkingrad-SkingradOutskirts patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities - Unique Landscape Skingrad Outskirts.esp'
-    url: [ '' ]
   - name: 'BICDist_OotD_Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities - OMG( Patch)?.*\.esp'
-    url: [ '' ]
-  - name: 'Better Imperial City - OMG( Patch)?.*\.esp'
-    url: [ '' ]
-  - name: 'Better Cities - Stranded Light.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Districts.esp'
-    url: [ '' ]
-  - name: 'BCAnvil-LostCoast Fix.esp'
-    url: [ '' ]
-  - name: 'Better Cities - Unique Landscape Lost Coast.esp'
-    url: [ '' ]
-  - name: 'Better Cities Full - City Defences.esp'
-    url: [ '' ]
-  - name: 'Better Cities - TESFU.esp'
-    url: [ '' ]
-  - name: 'Better Cities ICMarket.esp'
-    url: [ '' ]
-  - name: 'Better Cities - ICMarket Additions.esp'
-    url: [ '' ]
-  - name: 'Better Cities - ICMarket FPS Improver.esp'
-    url: [ '' ]
-  - name: 'Better Cities - SKINGRAD Additions.esp'
-    url: [ '' ]
-  - name: 'Better Cities - Skingrad FPS Improver.esp'
-    url: [ '' ]
-  - name: 'Better Cities - Bravil FPS Improver.esp'
-    url: [ '' ]
-  - name: 'Better Cities - ANVIL Additions.esp'
-    url: [ '' ]
-  - name: 'Better Cities - Anvil FPS Improver.esp'
-    url: [ '' ]
-  - name: 'Better Cities - CHORROL Additions.esp'
-    url: [ '' ]
-  - name: 'Better Cities - Chorrol FPS Improver.esp'
-    url: [ '' ]
-  - name: 'Better Cities - CHEYDINHAL Additions.esp'
-    url: [ '' ]
-  - name: 'Better Cities - Cheydinhal FPS Improver.esp'
-    url: [ '' ]
-  - name: 'Better Cities - LEYAWIIN Additions.esp'
-    url: [ '' ]
-  - name: 'Better Cities - Leyawiin FPS Improver.esp'
-    url: [ '' ]
-  - name: 'Better Cities - Auriel''s Books.esp'
-    url: [ '' ]
-  - name: 'Better Cities - Blood&Mud.esp'
-    url: [ '' ]
-  - name: 'Better Cities - Full Additions.esp'
-    url: [ '' ]
-  - name: 'Better Cities - Lost Spires.esp'
-    url: [ '' ]
-  - name: 'Better Cities - B&M LS RTT TotF.esp'
-    url: [ '' ]
-  - name: 'Better Cities - B&M LS RTT.esp'
-    url: [ '' ]
-  - name: 'Better Cities - B&M LS ToTF RTT.esp'
-    url: [ '' ]
-  - name: 'Better Cities - B&M LS ToTF.esp'
-    url: [ '' ]
-  - name: 'Better Cities - B&M RTT.esp'
-    url: [ '' ]
-  - name: 'Better Cities - B&M ToTF RTT.esp'
-    url: [ '' ]
-  - name: 'Better Cities - B&M ToTF.esp'
-    url: [ '' ]
-  - name: 'Better Cities - Blood&Mud LostSpires.esp'
-    url: [ '' ]
-  - name: 'Better Cities - LS RTT TotF.esp'
-    url: [ '' ]
-  - name: 'Better Cities - LS RTT.esp'
-    url: [ '' ]
-  - name: 'Better Cities - LS TotF.esp'
-    url: [ '' ]
-  - name: 'Better Cities - RTT TotF.esp'
-    url: [ '' ]
-  - name: 'Better Cities - Bruma FPS Improver.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/45611' ]
   - name: 'WBA Arboretum.esp'
-    url: [ '' ]
-  - name: 'Better Cities - WBA FPS Improver.esp'
-    url: [ '' ]
-  - name: 'Better Cities LEYAWIIN - No Flooding.esp'
-    url: [ '' ]
-  - name: 'Better Cities Full - LEYAWIIN No Flooding.esp'
-    url: [ '' ]
-  - name: 'Better Cities Full Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities Full - B&M Edition Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities Skingrad Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities Leyawiin Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities Chorrol Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities Cheydinhal Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities Bruma Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities Bravil Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities Bravil - Blood & Mud Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities Anvil Patch.esp'
-    url: [ '' ]
-  - name: 'Better Imperial City Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Temple Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Talos Plaza Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Prison Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Market Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Green Emperor Way Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Elven Gardens Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Arena Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Arcane University Patch.esp'
-    url: [ '' ]
-  - name: 'Better Cities IC Arboretum Patch.esp'
     url: [ '' ]
   - name: 'CRpatchForXULskingradOutskirts.esp'
     url: [ '' ]
@@ -4998,10 +4745,6 @@
   - name: 'HTSCl_wac.esp'
     url: [ '' ]
   - name: 'HTSCl_wac_ItemLootFix.esp'
-    url: [ '' ]
-  - name: 'HTSCl_cuo.esp'
-    url: [ '' ]
-  - name: 'HTSCl_cuo_inElderCouncil.esp'
     url: [ '' ]
   - name: 'HTSCl_elsweyr.esp'
     url: [ '' ]
@@ -5072,8 +4815,6 @@
   - name: 'SDR_Detect Life Shader Patch [Oblivion].esp'
     url: [ '' ]
   - name: 'a4VnlObSI_HiResHGEC-BBB-Fems+RmMales.esp'
-    url: [ '' ]
-  - name: 'Enhanced Economy - Soulgems.esp'
     url: [ '' ]
   - name: 'JazzJRKhajiitfeets.esp'
     url: [ '' ]
