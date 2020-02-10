@@ -26,16 +26,8 @@
     url: [ '' ]
   - name: 'BetterMusicSystem.esp'
     url: [ '' ]
-  - name: 'Mud Crabs!(_(coMbO|MMM|OOO))?\.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/12982' ]
-  - name: 'Mud Crabs!_coMbO.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/12982' ]
   - name: 'NR500.esp'
     url: [ '' ]
-  - name: 'JQPotionBottlesTest.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/33946' ]
-  - name: 'New Potions by Tealpanda.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/33946' ]
   - name: 'New Potions.esp'
     url: [ '' ]
   - name: 'New_Potions_Fixed_Icons-25822.esp'
@@ -47,21 +39,17 @@
   - name: 'Passion Fruit.esp'
     url: [ '' ]
   - name: 'personality_idles4.esp'
-    url: [ '' ]
-  - name: 'Personality Idles 4 - Cleanned version.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/14280' ]
   - name: 'Personality Idles - Modified version.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/30829' ]
   - name: 'personality_idles4_C.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/14280' ]
   - name: 'personality_idles4_nnpc_C.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/14280' ]
   - name: 'personality_idles4_nnpc.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/14280' ]
   - name: 'personality_idles4_nopc.esp'
-    url: [ '' ]
-  - name: 'personality_idles_custom.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/14280' ]
   - name: 'P1DseeYouSleep.esp'
     url: [ '' ]
   - name: 'P-Froggys Corpse Carry DV.esp'
@@ -81,8 +69,6 @@
   - name: 'MoreMoldyIngredients&Vegeteables.esp'
     url: [ '' ]
   - name: 'Q-Core - Icons.esp'
-    url: [ '' ]
-  - name: 'Qarl''s Harvest 1.1.esp'
     url: [ '' ]
   - name: 'QQuix - Rock, rock, rock your ship - V2.0.esp'
     url: [ '' ]
@@ -189,7 +175,9 @@
   - name: 'GoldAdjustment.esp'
     url: [ '' ]
   - name: 'moDem''s City Life.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/9450' ]
+    url:
+      - 'https://www.nexusmods.com/oblivion/mods/9450'
+      - 'https://www.nexusmods.com/oblivion/mods/11351'
   - name: 'Oblivion Alive.esp'
     url: [ '' ]
   - name: 'Bards of Cyrodiil.esp'
@@ -4333,7 +4321,7 @@
   - name: 'ahtata dremora.esp'
     url: [ '' ]
   - name: 'Ahtata Arquamer female got hair.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/20338' ]
   - name: 'ahtata Ork.esp'
     url: [ '' ]
   - name: 'Arabian Elves.esp'
@@ -4842,21 +4830,7 @@
     url: [ '' ]
   - name: 'NRB4 OCLR Road Record.esp'
     url: [ '' ]
-  - name: 'Oscuro''s_Oblivion_Overhaul - Harvest Containers - SI.esp'
-    url: [ '' ]
   - name: 'The Big Merger.esp'
     url: [ '' ]
-  - name: 'SDR Perks and Patches [Oblivion].esp'
-    url: [ '' ]
   - name: 'Ahtata Arquamer spike4hair.esp'
-    url: [ '' ]
-  - name: 'LoversIdleForceReset.esp'
-    url: [ '' ]
-  - name: 'ASTnehrimHotfixes01(EN).esp'
-    url: [ '' ]
-  - name: 'SDR Perks And Patches - Oblivion.esp'
-    url: [ '' ]
-  - name: 'SDR_Perks And Patches (Oblivion).esp'
-    url: [ '' ]
-  - name: 'Realistic Sneak for NPCs.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/20338' ]
