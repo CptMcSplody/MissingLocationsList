@@ -14,18 +14,16 @@
     url: [ '' ]
   - name: 'MigStatsCheck.esp'
     url: [ '' ]
-  - name: 'MONSTERGIRL-APOCALYPSE.esp'
-    url: [ '' ]
-  - name: 'MONSTERGIRL-CoC.esp'
-    url: [ '' ]
   - name: 'More_Animals.esp'
-    url: [ '' ]
+    url:
+      - 'https://www.nexusmods.com/oblivion/mods/18275'
+      - 'https://www.nexusmods.com/oblivion/mods/41777'
   - name: 'More_Animals_1C.esp'
     url: [ '' ]
   - name: 'More Drinks.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/5763' ]
   - name: 'BetterMusicSystem.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/26892' ]
   - name: 'NR500.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/35978' ]
   - name: 'New Potions.esp'
@@ -2523,7 +2521,7 @@
   - name: 'ElsweyrAnequina DV.esp'
     url: [ '' ]
   - name: 'BetterMusicSystem(Elsweyr).esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/26892' ]
   - name: 'Elsweyr - HGEC RM Patch DV.esp'
     url: [ '' ]
   - name: 'ElsweyrMinotaurPatch.esp'
