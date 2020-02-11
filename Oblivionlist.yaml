@@ -3967,7 +3967,7 @@
   - name: 'VipCxj_HairEyeSet.esp'
     url: [ '' ]
   - name: 'CM Partners.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/7819' ]
   - name: '300_Anthems_Enhanced_Races-7820.esp'
     url: [ '' ]
   - name: 'AinmhiRace-RensBeautyPackHairsOnly.esp'
@@ -4153,7 +4153,7 @@
   - name: 'Dark_Seducer_and_Golden_Saint_Race.esp'
     url: [ '' ]
   - name: 'DAPlayableTrollRace.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/20082' ]
   - name: 'DemonRace.esp'
     url: [ '' ]
   - name: 'DesertArgonian.esp'
@@ -4163,7 +4163,7 @@
   - name: 'Dremora Race Playable.esp'
     url: [ '' ]
   - name: 'Dremora Race with Tail.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/11002' ]
   - name: 'DremoraFemales.esp'
     url: [ '' ]
   - name: 'The Complete Dremora.esp'
@@ -4419,21 +4419,19 @@
   - name: 'AsharasCharactersAsNPCs.esp'
     url: [ '' ]
   - name: 'CM Partners Special NPCs.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/7819' ]
   - name: 'CM Partners NPC.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/7819' ]
   - name: 'CM Partners (NPC( NE)?|More NPCs( NE)?)\.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/7819' ]
   - name: 'CM Partners Marker NPCs.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/7819' ]
   - name: 'CM Partners Extra NPCs.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/7819' ]
   - name: 'amQuests.esp'
     url: [ '' ]
-  - name: 'CM Partners Beasts.esp'
-    url: [ '' ]
   - name: 'CM Partners Eileen.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/20203' ]
   - name: 'Xena Warrior Princess.esp'
     url: [ '' ]
   - name: 'CM Alexander.esp'
@@ -4481,7 +4479,7 @@
   - name: 'TealcCM2partner.esp'
     url: [ '' ]
   - name: 'Terimer.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/18207' ]
   - name: 'Siliane.esp'
     url: [ '' ]
   - name: '1em_Vilja MMM Fix.esp'
@@ -4491,7 +4489,7 @@
   - name: 'LakesideHome.esp'
     url: [ '' ]
   - name: 'Aliyah.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12082' ]
   - name: 'Arwen companion.esp'
     url: [ '' ]
   - name: 'Baddy.esp'
@@ -4507,13 +4505,13 @@
   - name: 'Eluna.esp'
     url: [ '' ]
   - name: 'DAEluna.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13429' ]
   - name: 'DAJadeTabaxi.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13786' ]
   - name: 'DAJadeWhite.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13786' ]
   - name: 'DAPan.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16985' ]
   - name: 'GGIlli.esp'
     url: [ '' ]
   - name: 'GG_Valeria_Revived.esp'
@@ -4569,89 +4567,89 @@
   - name: 'Tyrael Companion.esp'
     url: [ '' ]
   - name: 'Tamara.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12048' ]
   - name: 'RhiannaII-essential.esp'
     url: [ '' ]
   - name: 'Wolf Companions -TcS-.esp'
     url: [ '' ]
   - name: 'DAAanila.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12161' ]
   - name: 'DAAltair.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/19469' ]
   - name: 'DACog-Rein.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12663' ]
   - name: 'DAJynx.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/15959' ]
   - name: 'DAClair.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/15581' ]
   - name: 'DAConan.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/15866' ]
   - name: 'DABrinn.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12245' ]
   - name: 'DAEva.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16807' ]
   - name: 'DAGimli.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12184' ]
   - name: 'DAValeriaCuteElf.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/17118' ]
   - name: 'DARaewyn.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12134' ]
   - name: 'DASakura.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13637' ]
   - name: 'DATalitha.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12330' ]
   - name: 'DAFeria.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/15150' ]
   - name: 'DADemons.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/15351' ]
   - name: 'DAIsrithr.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13894' ]
   - name: 'DAJackSparrow.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/17483' ]
   - name: 'DAJadeAmberSheevaTabaxi.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13786' ]
   - name: 'DAKaleahSuccubus.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13350' ]
   - name: 'DAKaleah.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13350' ]
   - name: 'Nec-Elf_Kaleah.esp'
     url: [ '' ]
   - name: 'Kaleah.esp'
     url: [ '' ]
   - name: 'DAXivilai.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13236' ]
   - name: 'DAWerewolf.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/14692' ]
   - name: 'DALeonidas.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12496' ]
   - name: 'DAMeridiaKatrina.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12869' ]
   - name: 'DANECSSONNET.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16330' ]
   - name: 'DANecsKarla.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/18616' ]
   - name: 'DASephirothCompanion.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13506' ]
   - name: 'DATiamsGirls.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/18752' ]
   - name: 'Merina.esp'
     url: [ '' ]
   - name: 'Isrithr.esp'
     url: [ '' ]
   - name: 'DADark Seducers.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13037' ]
   - name: 'DAGolden Saint.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12931' ]
   - name: 'DALineage2Elves.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12739' ]
   - name: 'DAMerpeople.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/19247' ]
   - name: 'DAAlien.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/24263' ]
   - name: 'DASatyr.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/14382' ]
   - name: 'DACompilation_GO_APN.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/33739' ]
   - name: 'OCOv2-BR.esp'
     url: [ '' ]
   - name: 'Jjiinx_Long Ears.esp'
