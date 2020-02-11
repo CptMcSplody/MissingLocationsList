@@ -27,17 +27,15 @@
   - name: 'BetterMusicSystem.esp'
     url: [ '' ]
   - name: 'NR500.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/35978' ]
   - name: 'New Potions.esp'
-    url: [ '' ]
-  - name: 'New_Potions_Fixed_Icons-25822.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/25822' ]
   - name: 'Oblivion Cats v0.22b.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/2912' ]
   - name: 'Oblivion Collectible Cards.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/19140' ]
   - name: 'Passion Fruit.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/14620' ]
   - name: 'personality_idles4.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/14280' ]
   - name: 'Personality Idles - Modified version.esp'
@@ -51,17 +49,17 @@
   - name: 'personality_idles4_nopc.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/14280' ]
   - name: 'P1DseeYouSleep.esp'
-    url: [ '' ]
-  - name: 'P-Froggys Corpse Carry DV.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16005' ]
   - name: 'P-Froggys Corpse Carry EV.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/28987' ]
   - name: 'pmRealTimeInteractions.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/39679' ]
   - name: 'Portable Campsite.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/5684' ]
   - name: 'Portable Campsite - Quickstart.esp'
-    url: [ '' ]
+    url:
+      - 'https://www.nexusmods.com/oblivion/mods/5684'
+      - 'https://www.nexusmods.com/oblivion/mods/47787'
   - name: 'Q - More and Moldy Ingredients v1.1.esp'
     url: [ '' ]
   - name: 'Q - More and Moldy Ingredients v1.1 - DV.esp'
@@ -77,11 +75,9 @@
   - name: 'QuickEquipSwap.esp'
     url: [ '' ]
   - name: 'Respawning Containers.esp'
-    url: [ '' ]
-  - name: 'RealitySpectre''sBetterPotions.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/25288' ]
   - name: 'RealWalk.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/27954' ]
   - name: 'REBetterLCB.esp'
     url: [ '' ]
   - name: 'REBetterDrinks.esp'
@@ -101,9 +97,9 @@
   - name: 'Sheepherder''s Vampirism Fix - OBSE.esp'
     url: [ '' ]
   - name: 'Shield on Back RC5-Public.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/15317' ]
   - name: 'Shield on Back 3.1.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/15317' ]
   - name: 'ShieldOnBack_1C.esp'
     url: [ '' ]
   - name: 'ShieldOnBack_GOTY_1C.esp'
@@ -113,9 +109,9 @@
   - name: 'Shouts of the Dovahkiin.esp'
     url: [ '' ]
   - name: 'SkinMannequinVan.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/31218' ]
   - name: 'SkinMannequinVan-nosleep.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/31218' ]
   - name: 'Skyrim Ingredients.esp'
     url: [ '' ]
   - name: 'SPARTANVIsDiverseCityGuards05BETA.esp'
@@ -611,7 +607,7 @@
   - name: 'KDClothCirclets.esp'
     url: [ '' ]
   - name: 'KhergitScimitar.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/23393' ]
   - name: 'Knight of Skeleton.esp'
     url: [ '' ]
   - name: 'KohdiBladesofAnkewan Delayer.esp'
@@ -659,23 +655,23 @@
   - name: 'Lightning Sword.esp'
     url: [ '' ]
   - name: 'LootableLichHelm_Lt.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/7036' ]
   - name: 'LootableLichHelm_Hvy.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/7036' ]
   - name: 'LSBSkullWeapons.1.esp'
-    url: [ '' ]
-  - name: 'LSB Skull Weapons.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/21863' ]
   - name: 'LSB Skull Weapons (Clean).esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/21863' ]
   - name: 'M&BAxes.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/23489' ]
   - name: 'M&BClubs&Hammers.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/23518' ]
   - name: 'M&BShields.esp'
-    url: [ '' ]
+    url:
+      - 'https://www.nexusmods.com/oblivion/mods/23273'
+      - 'https://www.nexusmods.com/oblivion/mods/23303'
   - name: 'MandBSwords.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/23371' ]
   - name: 'MDMM.esp'
     url: [ '' ]
   - name: 'MODArnTemplar.esp'
@@ -696,14 +692,6 @@
     url: [ '' ]
   - name: 'Nature''s_bounty.esp'
     url: [ '' ]
-  - name: 'Neck Seam Concealers Expanded LL Amulets Only.esp'
-    url: [ '' ]
-  - name: 'Neck Seam Concealers Expanded LL Amulets & Tail Slot.esp'
-    url: [ '' ]
-  - name: 'Neck Seam Concealers Expanded LL Amulets Only SI.esp'
-    url: [ '' ]
-  - name: 'Neck Seam Concealers Expanded LL Amulets & Tail Slot SI.esp'
-    url: [ '' ]
   - name: 'New Frostmourne Sword by Jojjo v1_0.esp'
     url: [ '' ]
   - name: 'NexonsArmoryENG.esp'
@@ -719,15 +707,15 @@
   - name: 'Oddbasket Glass Replace(RU)?( NoEnch)?( ALT)?\.esp'
     url: [ '' ]
   - name: 'pale_rider''s Armor of Dragon''s Nightmare.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/11981' ]
   - name: 'pale_rider''s Paladin Equipment_enchanted_eng.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13591' ]
   - name: 'pale_rider''s Paladin Equipment_enchanted_ger.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13591' ]
   - name: 'pale_rider''s Paladin Equipment_unenchanted_eng.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13591' ]
   - name: 'pale_rider''s Paladin Equipment_unenchanted_ger.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13591' ]
   - name: 'PhoenixEquipment.esp'
     url: [ '' ]
   - name: 'PhoenixWithoutArmorflame.esp'
@@ -751,11 +739,11 @@
   - name: 'royal garb.esp'
     url: [ '' ]
   - name: 'Royal Shields.esp'
-    url: [ '' ]
+    url: [ 'http://tesalliance.org/forums/index.php?/files/file/211-royal-shields/' ]
   - name: 'Royal Glass.esp'
-    url: [ '' ]
+    url: [ 'http://tesalliance.org/forums/index.php?/files/file/212-royal-glass/' ]
   - name: 'Rune of Independence.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/36694' ]
   - name: 'RTFemaleReplacerV12.esp'
     url: [ '' ]
   - name: 'Ryk_Sandals.esp'
@@ -777,7 +765,9 @@
   - name: 'Shdw_Armor Set_Sotonhorian.esp'
     url: [ '' ]
   - name: 'Shields Of Antiquity.esp'
-    url: [ '' ]
+    url:
+      - 'https://www.nexusmods.com/oblivion/mods/8445'
+      - 'https://www.nexusmods.com/oblivion/mods/14911'
   - name: 'Shivering Armor Variety - Test.esp'
     url: [ '' ]
   - name: 'Shrouded Armor X.esp'
@@ -4353,7 +4343,7 @@
   - name: 'Sharingan and Uchiha Clan.esp'
     url: [ '' ]
   - name: 'Synx.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/38471' ]
   - name: 'Wiedergaenger Race.esp'
     url: [ '' ]
   - name: 'KHStrangers.esp'
@@ -4471,11 +4461,11 @@
   - name: 'High_Imperial_Trio.esp'
     url: [ '' ]
   - name: 'kgt_Aida.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/17965' ]
   - name: 'kgt_Avve.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/32455' ]
   - name: 'SarahCM.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/30261' ]
   - name: 'TealcCM2partner.esp'
     url: [ '' ]
   - name: 'Terimer.esp'
