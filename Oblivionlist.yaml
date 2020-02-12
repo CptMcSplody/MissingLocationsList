@@ -147,7 +147,7 @@
   - name: 'Immersive Travelers.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/19060' ]
   - name: 'AutoEquip.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/34526' ]
   - name: 'CDM - Shivering Time.esp'
     url: [ '' ]
   - name: 'CBMS_V2.esp'
@@ -2883,9 +2883,7 @@
   - name: 'Armored Skeletons (LL).esp'
     url: [ '' ]
   - name: 'Book Placement v2.esp'
-    url: [ '' ]
-  - name: 'AutoBookPlacer_v2.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/6262' ]
   - name: 'Axebane_Hunters25.esp'
     url: [ '' ]
   - name: 'betterArena.esp'
