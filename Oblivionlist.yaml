@@ -91,71 +91,39 @@
   - name: 'SkinMannequinVan-nosleep.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/31218' ]
   - name: 'Skyrim Ingredients.esp'
-    url: [ '' ]
-  - name: 'SPARTANVIsDiverseCityGuards05BETA.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/41348' ]
   - name: 'SPARTAN VIs Diverse City Guards v1 2.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/11211' ]
   - name: 'Guard Torches.esp'
-    url: [ '' ]
-  - name: 'SummonChest_v2.0.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/7615' ]
   - name: 'TeddyBackpacks.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/42256' ]
   - name: 'TeddyBackpacksAcc.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/42256' ]
   - name: 'Teleport Arrows.esp'
-    url: [ '' ]
-  - name: 'the punished girlbox.esp'
-    url: [ '' ]
-  - name: 'Treasure Hunt.esp'
-    url: [ '' ]
-  - name: 'trfSolaris.esp'
-    url: [ '' ]
-  - name: 'BetterGold Rus.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13441' ]
   - name: 'AC_Gold_Coins.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/34536' ]
   - name: 'Vampire Alchemy V1.1.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/11154' ]
   - name: 'Vows and Covenants.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/20736' ]
   - name: 'Wasabi the Mouse.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/35999' ]
   - name: 'wd purse of wonders.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4744' ]
   - name: 'Willful Resistance.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/11237' ]
   - name: 'WWF - Gloom.esp'
-    url: [ '' ]
-  - name: 'WWF - Uniques.esp'
-    url: [ '' ]
-  - name: 'WWF - Weakest.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/28666' ]
   - name: 'Wyverex''s - Runes.esp'
-    url: [ '' ]
-  - name: 'Zombie Replacer_en.esp'
-    url: [ '' ]
-  - name: 'Zombie Replacer_cn.esp'
-    url: [ '' ]
-  - name: 'Living Economy.esp'
-    url: [ '' ]
-  - name: 'Living Economy - SI.esp'
-    url: [ '' ]
-  - name: 'SI Living Economy.esp'
-    url: [ '' ]
-  - name: 'Living Economy - Items.esp'
-    url: [ '' ]
-  - name: 'GoldAdjustment.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/10717' ]
   - name: 'moDem''s City Life.esp'
     url:
       - 'https://www.nexusmods.com/oblivion/mods/9450'
       - 'https://www.nexusmods.com/oblivion/mods/11351'
-  - name: 'Oblivion Alive.esp'
-    url: [ '' ]
   - name: 'Bards of Cyrodiil.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/31671' ]
   - name: 'Crowded Cities 15.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/6665' ]
   - name: 'Crowded Cities 30.esp'
@@ -169,17 +137,15 @@
   - name: 'Crowded Roads Revisited.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/20575' ]
   - name: 'travellers a.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/3958' ]
   - name: 'travellers b.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/3958' ]
   - name: 'travellers c.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/3958' ]
   - name: 'travellers d.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/3958' ]
   - name: 'Immersive Travelers.esp'
-    url: [ '' ]
-  - name: 'C&C&EQR.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/19060' ]
   - name: 'AutoEquip.esp'
     url: [ '' ]
   - name: 'CDM - Shivering Time.esp'
@@ -1141,7 +1107,7 @@
   - name: 'MTCDirtierBandits.esp'
     url: [ '' ]
   - name: 'Choices and Consequences - MMM.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/14560' ]
   - name: 'C&C&EQR - MMM.esp'
     url: [ '' ]
   - name: 'MMM - UberhulkParalyzeFix.esp'
@@ -1167,7 +1133,7 @@
   - name: 'Master-Crafting-1.1-MMM.esp'
     url: [ '' ]
   - name: 'Choices and Consequences - MMM - Looting NPCs & Creatures.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/14560' ]
   - name: 'OWC - Seaworld.esp'
     url: [ '' ]
   - name: 'OWC - New Dimension.esp'
@@ -1187,29 +1153,29 @@
   - name: 'OWC - KelbQuenitoArgonian.esp'
     url: [ '' ]
   - name: 'TamrielTravellers.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4387' ]
   - name: 'TamrielTravellers4MMM.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4387' ]
   - name: 'Travellers4MMMHostileFactions.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4387' ]
   - name: 'TamrielTravellersFactionAll.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4387' ]
   - name: 'TamrielTravellers4OOO.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4387' ]
   - name: 'TamrielTravellersItemsNPC.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4387' ]
   - name: 'TamrielTravellersItemsCobl.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4387' ]
   - name: 'TamrielTravellersItemsVendor.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4387' ]
   - name: 'TamrielTravellersItemsUnscaled.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4387' ]
   - name: 'ShiveringIsleTravellers.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4387' ]
   - name: 'TamrielTravellersHorseTextures.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16407' ]
   - name: 'Choices and Consequences - FCOM - Diverse Guards.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/14560' ]
   - name: 'Cobl Patch - MMM Gems and Gem Dust.esp'
     url: [ '' ]
   - name: 'WAC - ItemLootFix4v1.0bTIE.esp'
@@ -1247,7 +1213,7 @@
   - name: 'Oblivion Intensity.esp'
     url: [ '' ]
   - name: 'Choices and Consequences - FCOM.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/14560' ]
   - name: 'Dangerous_Overhaul_v0.2.esp'
     url: [ '' ]
   - name: 'Balance fixes.esp'
@@ -2252,24 +2218,22 @@
     url: [ '' ]
   - name: 'Trashdog''s SPB Heavy AB Shop.esp'
     url: [ '' ]
-  - name: 'treasure maps v1.esp'
-    url: [ '' ]
   - name: 'Treasure Maps-UL edition.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/41987' ]
   - name: 'Treasure Maps compilation-UL edition.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/41987' ]
   - name: 'Treasure Maps complete compilation-UL edition.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/41987' ]
   - name: 'Treasure Maps-Blood Ransom-UL edition.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/41987' ]
   - name: 'treasure maps captus demus.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/15249' ]
   - name: 'Treasure Maps-Meridias Womb-UL edition.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/41987' ]
   - name: 'Treasure Maps-Revenge of the Nords-UL edition.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/41987' ]
   - name: 'Treasuresofthedeep.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/35044' ]
   - name: 'Torynwyll.esp'
     url: [ '' ]
   - name: 'Unholy Cathedral.esp'
@@ -2951,7 +2915,7 @@
   - name: 'TimeWizard.esp'
     url: [ '' ]
   - name: 'Buried_Treasure.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16129' ]
   - name: '!BurningItems 0.4.esp'
     url: [ '' ]
   - name: 'BurningItems 0.2.esp'
@@ -3577,7 +3541,7 @@
   - name: 'Soolie''sBetterEnchantmentEffects.esp'
     url: [ '' ]
   - name: 'BookLooting.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/19111' ]
   - name: 'Jail Break Routes.esp'
     url: [ '' ]
   - name: 'pmCrimeHandler.esp'
@@ -4617,8 +4581,6 @@
   - name: 'MergedMouth.esp'
     url: [ '' ]
   - name: 'JoinedJaws.esp'
-    url: [ '' ]
-  - name: 'TamrielTravellers Cosmetics Cobl or RBP.esp'
     url: [ '' ]
   - name: 'ZUAmberMadnessOverhaul.esp'
     url: [ '' ]
