@@ -1461,17 +1461,7 @@
   - name: 'AbuEmir01.esp'
     url: [ '' ]
   - name: 'AdenseEpicDungeon.esp'
-    url: [ '' ]
-  - name: 'AdenseEpicDungeon1_1.esp'
-    url: [ '' ]
-  - name: 'AdenseEpicDungeon1_2.esp'
-    url: [ '' ]
-  - name: 'AdenseEpicDungeon1_3.esp'
-    url: [ '' ]
-  - name: 'AdenseEpicDungeon1_4.esp'
-    url: [ '' ]
-  - name: 'AdenseEpicDungeon1_5.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/27520' ]
   - name: 'Aetheric Cuteblade.esp'
     url: [ '' ]
   - name: 'A Family Problem.esp'
@@ -2299,11 +2289,9 @@
   - name: 'Unholy Cathedral.esp'
     url: [ '' ]
   - name: 'Unique Dungeons - Lichs Lair.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/19282' ]
   - name: 'Unique Dungeons - Lost Glory.esp'
-    url: [ '' ]
-  - name: 'Ushnar''s Re-Skinned Hound(-(Default|Atronach|Dog|Wolf))?\.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/21603' ]
   - name: 'Valley_View_Estate.esp'
     url: [ '' ]
   - name: 'VaultsofCyrodiil.esp'
