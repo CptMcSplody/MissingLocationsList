@@ -70,36 +70,22 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/25288' ]
   - name: 'RealWalk.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/27954' ]
-  - name: 'REBetterLCB.esp'
-    url: [ '' ]
-  - name: 'REBetterDrinks.esp'
-    url: [ '' ]
   - name: 'Redecoration.esp'
-    url: [ '' ]
-  - name: 'Real_Mannequin.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/24498' ]
   - name: 'Rings of Infiltration.esp'
-    url: [ '' ]
-  - name: 'Sexual_SpiderDaedra.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/15222' ]
   - name: 'OSM-All Genders.esp'
-    url: [ '' ]
-  - name: 'Shads Hunting & Fauna.esp'
-    url: [ '' ]
-  - name: 'Sheepherder''s Vampirism Fix - OBSE.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/32838' ]
   - name: 'Shield on Back RC5-Public.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/15317' ]
   - name: 'Shield on Back 3.1.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/15317' ]
   - name: 'ShieldOnBack_1C.esp'
-    url: [ '' ]
-  - name: 'ShieldOnBack_GOTY_1C.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/20572' ]
   - name: '1HweaponOnBack.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/24541' ]
   - name: 'Shouts of the Dovahkiin.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/39896' ]
   - name: 'SkinMannequinVan.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/31218' ]
   - name: 'SkinMannequinVan-nosleep.esp'
@@ -1993,7 +1979,7 @@
   - name: 'Nanaelas Heartbreak.esp'
     url: [ '' ]
   - name: 'NecromancerHunting.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/29562' ]
   - name: 'New Anvil Flora.esp'
     url: [ '' ]
   - name: 'New Imperial City.esp'
