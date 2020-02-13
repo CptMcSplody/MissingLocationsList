@@ -375,9 +375,7 @@
   - name: 'DarkLeatherArmor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/2392' ]
   - name: 'DFSLChina.esp'
-    url: [ '' ]
-  - name: 'Dress WBBW DMRA+.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/21941' ]
   - name: 'dwr.esp'
     url: [ '' ]
   - name: 'Deceiver''s Armour.esp'
@@ -1098,8 +1096,6 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/14560' ]
   - name: 'Cobl Patch - MMM Gems and Gem Dust.esp'
     url: [ '' ]
-  - name: 'WAC - ItemLootFix4v1.0bTIE.esp'
-    url: [ '' ]
   - name: 'AFK_Tweaks.esp'
     url: [ '' ]
   - name: 'T.I.E4MODS.esp'
@@ -1171,52 +1167,6 @@
   - name: 'Adventurers_1.0.esp'
     url: [ '' ]
   - name: 'un-leveled-shops.esp'
-    url: [ '' ]
-  - name: 'WAC - ItemLootFix4v1\.0b(Fran|OOO|MMM|MMMorFCOM|OWCND|VNT)?\.esp'
-    url: [ '' ]
-  - name: 'WAC - ItemLootFix4v1.0bOWCND.esp'
-    url: [ '' ]
-  - name: 'WAC OgrePatch.esp'
-    url: [ '' ]
-  - name: 'WAC v1 BulkyMonsters.esp'
-    url: [ '' ]
-  - name: 'WAC Giants Patch.esp'
-    url: [ '' ]
-  - name: 'WAC GiantPatch plus.esp'
-    url: [ '' ]
-  - name: 'WAC BM plus.esp'
-    url: [ '' ]
-  - name: 'WAC MinotaurPatch plus.esp'
-    url: [ '' ]
-  - name: 'WAC - OverSpawn4OOO.esp'
-    url: [ '' ]
-  - name: 'WAC - OverSpawn4v1.0bOWCND.esp'
-    url: [ '' ]
-  - name: 'WAC - OverSpawn4v1.0bOWCND ILF.esp'
-    url: [ '' ]
-  - name: 'WAC HorsePath v1.esp'
-    url: [ '' ]
-  - name: 'WAC - TCOS Invent only.esp'
-    url: [ '' ]
-  - name: 'WAC - TCOSFix.esp'
-    url: [ '' ]
-  - name: 'WAC - Legion_FemaleFix.esp'
-    url: [ '' ]
-  - name: 'WAC - QuietFeet.esp'
-    url: [ '' ]
-  - name: 'WACESM_MiscItemsRebal.esp'
-    url: [ '' ]
-  - name: 'WACESM_Ingredients_Rebalance.esp'
-    url: [ '' ]
-  - name: 'WAC-OOO.esp'
-    url: [ '' ]
-  - name: 'WAC - Cat Crash Fix.esp'
-    url: [ '' ]
-  - name: 'WAC - Female Armor Refine -No Low Body.esp'
-    url: [ '' ]
-  - name: 'WAC - Female Armor Refine.esp'
-    url: [ '' ]
-  - name: 'WAC - HGEC Equipment Replacer.esp'
     url: [ '' ]
   - name: 'beardy.esp'
     url: [ '' ]
