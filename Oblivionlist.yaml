@@ -148,86 +148,66 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/19060' ]
   - name: 'AutoEquip.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/34526' ]
-  - name: 'CDM - Shivering Time.esp'
-    url: [ '' ]
-  - name: 'CBMS_V2.esp'
-    url: [ '' ]
   - name: 'DarNifiedUI Config Addon.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/34792' ]
   - name: 'Demolish Plugin - HUD Display.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/40046' ]
   - name: 'FormID Finder.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16704' ]
   - name: 'FormID Finder without Pluggy.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16704' ]
   - name: 'NameThatHorse.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/22269' ]
   - name: 'sycNiceToMeetYou.esp'
-    url: [ '' ]
-  - name: 'NPC Height Randomizer.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/38756' ]
   - name: 'NoBloodInside.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/42174' ]
   - name: 'NoHelmet.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/39404' ]
   - name: 'No Recharge.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/32342' ]
   - name: 'Note to Self.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/37909' ]
   - name: 'SimpleHUDClock.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/31431' ]
   - name: 'VipCxj_RadarSystem.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/35343' ]
   - name: 'Streamline 2.0.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/10400' ]
   - name: 'Streamline 2.1.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/10400' ]
   - name: 'Streamline 3.0.esp'
-    url: [ '' ]
-  - name: 'zzzItemGeneratingSystem.esp'
-    url: [ '' ]
-  - name: 'Map Marker Renamer.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/10400' ]
   - name: 'Landmarks.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/2502' ]
   - name: 'Landmarks, w Wells.esp'
-    url: [ '' ]
-  - name: 'Landmarks, w Wells_DV.esp'
-    url: [ '' ]
-  - name: 'Landmarks With Wells.esp'
-    url: [ '' ]
-  - name: 'Landmarks_w_Wells.esp'
-    url: [ '' ]
+    url:
+      - 'https://www.nexusmods.com/oblivion/mods/5475'
+      - 'https://www.nexusmods.com/oblivion/mods/46915'
   - name: 'HouseMapMarkersOnlyBought.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/3345' ]
   - name: 'Clock Hotkey.esp'
-    url: [ '' ]
-  - name: 'Expanded Hotkeys and Spell Delete v1.0.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/38514' ]
   - name: 'Expanded Hotkeys and Spell Delete V2.esp'
-    url: [ '' ]
-  - name: 'Expanded Hotkeys and Spell Delete V2a.esp'
-    url: [ '' ]
-  - name: 'Expanded Hotkeys Brief Equip Message.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/48869' ]
   - name: 'Hov''s Hotkeys.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13443' ]
   - name: 'Lem - Hotkey Cyclers.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/17402' ]
   - name: 'Uncommon Controls.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/18092' ]
   - name: 'FastShortcuts.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13718' ]
   - name: 'Improved Hotkeys.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/18571' ]
   - name: 'Improved Hotkeys_Extended.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/27156' ]
   - name: 'Quick Clothes and Spells.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/14794' ]
   - name: 'sr_super_hotkeys.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/22326' ]
   - name: 'STHotkeys.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/30673' ]
   - name: 'SellHorses_Incl_Saddlebags_and_CallSteed.esp'
     url: [ '' ]
   - name: 'C&C&EQR - SM Plugin Refurbish - Orrery.esp'
@@ -683,9 +663,9 @@
   - name: 'royal garb.esp'
     url: [ '' ]
   - name: 'Royal Shields.esp'
-    url: [ 'http://tesalliance.org/forums/index.php?/files/file/211-royal-shields/' ]
+    url: [ 'http://tesalliance.org/forums/index.php?/files/file/211-royal-shields' ]
   - name: 'Royal Glass.esp'
-    url: [ 'http://tesalliance.org/forums/index.php?/files/file/212-royal-glass/' ]
+    url: [ 'http://tesalliance.org/forums/index.php?/files/file/212-royal-glass' ]
   - name: 'Rune of Independence.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/36694' ]
   - name: 'RTFemaleReplacerV12.esp'
@@ -939,8 +919,6 @@
   - name: 'a4sFlamingNightmare3.esp'
     url: [ '' ]
   - name: 'Athletics While Riding.esp'
-    url: [ '' ]
-  - name: 'CDM-Horses.esp'
     url: [ '' ]
   - name: 'MigHorseArmor.esp'
     url: [ '' ]
@@ -2920,8 +2898,6 @@
     url: [ '' ]
   - name: 'CaesarOneWithNature.esp'
     url: [ '' ]
-  - name: 'CDM-Dogs.esp'
-    url: [ '' ]
   - name: 'CHILDREN ANNUAD.esp'
     url: [ '' ]
   - name: 'Cliff_BetterLetters.esp'
@@ -3649,10 +3625,6 @@
   - name: 'BFG''s Enhanced Armory.esp'
     url: [ '' ]
   - name: 'humantouchNPC.esp'
-    url: [ '' ]
-  1   - name: 'CDM-CGO (Horse Armor|Orrery|Thieves Den|Vile Lair|Battlehorn|Shivering Isles|Frostcrag) Compatibility\.esp'
-  1    url: [ '' ]
-  - name: 'CDM-CGO (Vanilla|Standard) Skill Levelling( Slower| Faster)?\.esp'
     url: [ '' ]
   - name: 'ExperienceBasedTraining.esp'
     url: [ '' ]
@@ -4623,7 +4595,7 @@
   - name: 'ArgonianFeets.esp'
     url: [ '' ]
   - name: 'KT_CustomRaceFix.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/1815/' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/1815' ]
   - name: 'CustomRaceFix.esp'
     url: [ '' ]
   - name: 'Custom Race Fix.esp'
