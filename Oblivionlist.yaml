@@ -601,125 +601,81 @@
   - name: 'wands.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/41398' ]
   - name: 'witchkingsword.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4543' ]
   - name: 'XiaValentinesDayGift07.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/9111' ]
   - name: 'Zatoichi.esp'
-    url: [ '' ]
+    url: [ 'http://tesalliance.org/forums/index.php?/files/file/535-zatoichi/' ]
   - name: 'Robes Staves and Fists.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/26975' ]
   - name: 'MEQ_NakakitaPatch.esp'
-    url: [ '' ]
-  - name: 'All Manly.esp'
-    url: [ '' ]
-  - name: 'Armor-Clothing-Weapons Merger.esp'
-    url: [ '' ]
-  - name: 'Babarized AleanneGlass.esp'
-    url: [ '' ]
-  - name: 'Babarized CompleteMagePack.esp'
-    url: [ '' ]
-  - name: 'Babarized DiverseImperialArmor.esp'
-    url: [ '' ]
-  - name: 'Babarized GlassArmorPack.esp'
-    url: [ '' ]
-  - name: 'Babarized Loths.esp'
-    url: [ '' ]
-  - name: 'Babarized Loths2.esp'
-    url: [ '' ]
-  - name: 'Babarized RegionalLegionSoldiers.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/45748' ]
   - name: 'Bloodrayne Armor.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/20623' ]
   - name: 'Chrome Amazon Armor.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/14555' ]
   - name: 'DMRA BBB Armamentarium Complete.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/42346' ]
   - name: 'DMRA BBB Complete Clothing and Armor Replacer.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/42033' ]
   - name: 'DMRA BBB Better Cities.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/42072' ]
   - name: 'DMRA BBB Skimpy Emperor Robe.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/41813' ]
   - name: 'DMRA BBB Skimpy Shivering Royalty.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/41894' ]
   - name: 'DMRA Stock Clothing Replacer.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/27931' ]
   - name: 'DMRA Stock Clothing Skimpy.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/28037' ]
   - name: 'DMRA Stock Robe Replacer.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/28607' ]
   - name: 'DMAC Armor.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/8043' ]
   - name: 'DMRA Stock Armor Skimpy.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/28288' ]
   - name: 'DMRA  Skimpy Armor Expanded.esp'
-    url: [ '' ]
-  - name: 'DMRA Skimpy Clothing Replacer.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/28912' ]
   - name: 'DMRA Stock Robe Skimpy Replacer.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/28650' ]
   - name: 'Dollparts'' Wild Flower Corsets of Cyrodiil.esp'
-    url: [ '' ]
-  - name: 'Dragon Princess.esp'
-    url: [ '' ]
-  - name: 'Fairy Wings Darkness.esp'
-    url: [ '' ]
-  - name: 'FF7 Swords 02 core apocalypse.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/38431' ]
   - name: 'GoddessArmor_Exnem.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/11025' ]
   - name: 'HGEC_AmazonArmor.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16499' ]
   - name: 'HGEC_Companionmail.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/18405' ]
   - name: 'HGEC Glass Replacement.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/28313' ]
   - name: 'HGEC_Rogue01.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/18404' ]
   - name: 'Imperial Armor Replace.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/6647' ]
   - name: 'Imperial_Palace_Armor-2474.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/2474' ]
   - name: 'IndigoArmor.esp'
-    url: [ '' ]
-  - name: 'LC-Compilation-Exnem.esp'
-    url: [ '' ]
-  - name: 'LC-Legion-Exnem.esp'
-    url: [ '' ]
-  - name: 'LC-Dragon-Exnem.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16645' ]
   - name: 'LexMiscClothesII.esp'
-    url: [ '' ]
-  - name: 'MW  Dremora Armor.esp'
-    url: [ '' ]
-  - name: 'New Exnem Compatible Armors.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/37202' ]
   - name: 'R18PN - Lingeries.esp'
-    url: [ '' ]
-  - name: 'Roberts Armamentium female.esp'
-    url: [ '' ]
-  - name: 'Sack of Pants.esp'
-    url: [ '' ]
-  - name: 'Sack of PantsRU.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/23589' ]
   - name: 'Sexy Ghost Armor.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/35631' ]
   - name: 'StockClothingArmorBBBHGEC_Standard_ECupLBotPPN.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16750' ]
   - name: 'StockClothingArmor-forExnems.esp'
-    url: [ '' ]
-  - name: 'StockClothingArmorHGECnormalD.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/11824' ]
   - name: 'StockClothingArmorHGECFighterD.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16750' ]
   - name: 'UFF Amazon Armor.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13339/' ]
   - name: 'UFF & RM Gold and Silver Daedric Armor.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/15948/' ]
   - name: 'Velveteen_Armor_HGEC.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/25375' ]
   - name: 'YAARM_Steel.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/33381' ]
   - name: 'Zombie Slayer Armor.esp'
     url: [ '' ]
   - name: 'Dark_Mistress.esp'
@@ -835,7 +791,7 @@
   - name: 'KDCircletsOOOOptimized - NPC Equip.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/10670' ]
   - name: '(FCOM_)?ExnemRuneskulls(_ru)?\.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/9412' ]
   - name: 'Slof''s Oblivion Robe Trader.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/48973' ]
   - name: 'Cobl Main RUS.esp'
