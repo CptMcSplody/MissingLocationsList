@@ -273,131 +273,107 @@
   - name: 'Altessian.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/3165' ]
   - name: 'AGEHA Tortured Souls.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/26486' ]
   - name: 'Bearclaw_Helm_Replacer.esp'
-    url: [ '' ]
-  - name: 'Beautiful Arena Armor.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/35522' ]
   - name: 'Bamboo Armor.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/3933' ]
   - name: 'Banes Steel Helm Replacer.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/36219' ]
   - name: 'BarbarianShop.esp'
-    url: [ '' ]
-  - name: 'Battle_Tattoos_v1.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/7106' ]
   - name: 'BBBRoseoftheGuard.esp'
-    url: [ '' ]
-  - name: 'bbClothesFinal.esp'
-    url: [ '' ]
+    url:
+      - 'https://www.nexusmods.com/oblivion/mods/34611'
+      - 'https://www.nexusmods.com/oblivion/mods/43444'
   - name: 'BetterBedroll.esp'
-    url: [ '' ]
-  - name: 'Better Unique Items.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/2524' ]
   - name: 'Belles Bouteilles.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/11956' ]
   - name: 'BlackGlovesEng.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/9237' ]
   - name: 'BlackGlovesEng_noNPCchanges.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/9237' ]
   - name: 'BlackGlovesRus.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/9237' ]
   - name: 'Blade Of Woe Replacer.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/30604' ]
   - name: 'Blade Of Woe Replacer by Allomerus.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/42760' ]
   - name: 'BladeofWoeReplacer9Tongues.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/43129' ]
   - name: 'Blood Glass Armor.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/35480/' ]
   - name: 'Blood Glass Weapons.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/35479/' ]
   - name: 'Bloodworm_Helm_Hornless.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/35544' ]
   - name: 'Bloodworm_Helm_Replacer.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/35544' ]
   - name: 'BisPainBringer.esp'
-    url: [ '' ]
-  - name: 'BladeofWoe.esp'
-    url: [ '' ]
-  - name: 'javbs_mod.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16838' ]
   - name: 'Blades Ceremonial Armour.esp'
-    url: [ '' ]
-  - name: 'Banes Archer Paradox.esp'
-    url: [ '' ]
-  - name: 'BlackPuppetLight.esp'
-    url: [ '' ]
-  - name: 'BlackPuppetUltraLight.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/2878' ]
   - name: 'Brigand''s Gear.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/10314' ]
   - name: 'BrivasArmor.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/5267' ]
   - name: 'CB Gothic Mistress.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/32682' ]
   - name: 'CG - Necessity Pack.esp'
-    url: [ '' ]
+    url: [ 'http://tesalliance.org/forums/index.php?/files/file/585-classy-gentlemen-necessity-pack/' ]
   - name: 'ClothGloves.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/3722' ]
   - name: 'Cloud Armor Compilation.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/36125' ]
   - name: 'ConjurationTome.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/33522' ]
   - name: 'ConjurationTomeOBSE.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/33522' ]
   - name: 'ConjurationTomeOOO.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/33522' ]
   - name: 'ConjurationTomeOOO-OBSE.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/33522' ]
   - name: 'cowlredux.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/27376' ]
   - name: 'crimson dagger.esp'
-    url: [ '' ]
-  - name: 'crusadercg.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/17043' ]
   - name: 'CV - Kilij.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/36457' ]
   - name: 'Daedric Healer Robes.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/33573/' ]
   - name: 'dan_HGEC-EcupTattooArmor.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16557' ]
   - name: 'DBShadowSet.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4091/' ]
   - name: 'DBShadowSet_NE.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4091/' ]
   - name: 'DBShadowSet_Argonian.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4091/' ]
   - name: 'DBShadowSet_Khajiit.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4091/' ]
   - name: 'DBShadowSet_Argonian_NE.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4091/' ]
   - name: 'DBShadowSet_Khajiit_NE.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4091/' ]
   - name: 'Daedric_Katana_0.4_leveled_only.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/3150' ]
   - name: 'Daedric_Katana_0.4_vendors_and_leveled.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/3150' ]
   - name: 'Daedric_Katana_0.4_vendors_only.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/3150' ]
   - name: 'daedric sky armor.esp'
-    url: [ '' ]
-  - name: 'DamascusGlamdring.esp'
-    url: [ '' ]
-  - name: 'Dark BrotherHood Hood Replacer V1.2.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/6785' ]
   - name: 'Dark Crusader Armor.esp'
-    url: [ '' ]
-  - name: 'replace_glass.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/7844' ]
   - name: 'DarkIllusionArmor.esp'
-    url: [ '' ]
+    url:
+      - 'https://www.nexusmods.com/oblivion/mods/12785'
+      - 'https://www.nexusmods.com/oblivion/mods/26201'
   - name: 'Dark Katana.esp'
-    url: [ '' ]
+    url: [ 'http://tesalliance.org/forums/index.php?/files/file/8-dark-katana/' ]
   - name: 'DarkLeatherArmor.esp'
-    url: [ '' ]
-  - name: 'Dark Mithril Armour.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/2392' ]
   - name: 'DFSLChina.esp'
     url: [ '' ]
   - name: 'Dress WBBW DMRA+.esp'
@@ -743,7 +719,7 @@
   - name: 'UU! Female Undies NPCs.esp'
     url: [ '' ]
   - name: 'VA_GlamdringSword.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16344' ]
   - name: 'Vampire Cuirass NPC.esp'
     url: [ '' ]
   - name: 'wands.esp'
@@ -1599,7 +1575,7 @@
   - name: 'Companion Gate_Load.esp'
     url: [ '' ]
   - name: 'CV - Templar Fortress.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/36364' ]
   - name: 'Daedric Armor of Darkness.esp'
     url: [ '' ]
   - name: 'Daemonengruft.esp'
