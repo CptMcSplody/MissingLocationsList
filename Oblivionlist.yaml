@@ -209,85 +209,57 @@
   - name: 'STHotkeys.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/30673' ]
   - name: 'SellHorses_Incl_Saddlebags_and_CallSteed.esp'
-    url: [ '' ]
-  - name: 'C&C&EQR - SM Plugin Refurbish - Orrery.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/6903' ]
   - name: 'Book Jackets DLC.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16247' ]
   - name: 'GrimbotsSpellTomes.esp'
-    url: [ '' ]
-  - name: 'Grimbots_Spell_Tomes.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16247' ]
   - name: 'Bab.esp'
-    url: [ '' ]
-  - name: 'Bodybuilder Body.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12536' ]
   - name: 'EyeCandy Compilation.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/26704' ]
   - name: 'HGEC_special_armor_repl.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/24194' ]
   - name: 'MaleBodyReplacerV3.esp'
-    url: [ '' ]
-  - name: 'Male Body Replacer v 3.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/8295' ]
   - name: 'MaleBodyReplacerV4.esp'
-    url: [ '' ]
-  - name: 'Male Body Replacer.esp'
-    url: [ '' ]
-  - name: 'MaleBodyReplacer.esp'
-    url: [ '' ]
-  - name: 'MaleBodyReplacerV5Beta.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/14942' ]
   - name: 'MaleBodyReplacerV5.esp'
-    url: [ '' ]
-  - name: 'NordFemaleMuscles.esp'
-    url: [ '' ]
+    url:
+      - 'https://www.nexusmods.com/oblivion/mods/33669'
+      - 'https://www.nexusmods.com/oblivion/mods/40532'
   - name: 'bodyshapes.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/36324' ]
   - name: 'VORB_no_mods.esp'
-    url: [ '' ]
-  - name: 'VORB_HGEC_special_armor_repl.esp'
-    url: [ '' ]
-  - name: 'Cryos Ordinator Lite.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/37013' ]
   - name: '01_SenTinel''s Katanas.esp'
-    url: [ '' ]
-  - name: '1DemonSword.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/8291' ]
   - name: '1SB_RavenousEleganceOutfit.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/33823' ]
   - name: 'AC Stock Armor.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/3515' ]
   - name: 'Akavirdownloadpack1.1.esp'
-    url: [ '' ]
-  - name: 'Akaviri Elements Bow v1-2.esp'
-    url: [ '' ]
-  - name: 'Alhemy.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/6301' ]
   - name: 'Alchemist''s Tome.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/26104' ]
   - name: 'Alir''sArmor.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/35421' ]
   - name: 'Alluring Books.esp'
-    url: [ '' ]
-  - name: 'AlteredPistols!.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/34110' ]
   - name: 'ArenaEyeCandyArmor.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/22177' ]
   - name: 'ArchmageSorceress.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/42646' ]
   - name: 'Armblade.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/19414' ]
   - name: 'armored coats.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/10017' ]
   - name: 'Armor_skirts.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4417' ]
   - name: 'Armor_skirts_nonlvl.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4417' ]
   - name: 'ArynnsDemonatrixHGEC.esp'
-    url: [ '' ]
-  - name: 'MODAssassinsCreed2_Revisited.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/19027' ]
   - name: 'ArmorOfTheWhiteFox.esp'
     url: [ '' ]
   - name: 'Aspiria_EV.esp'
@@ -4218,16 +4190,14 @@
     url: [ '' ]
   - name: 'Ash Elves.esp'
     url: [ '' ]
-  - name: 'Ancient Elven Sorcerer.esp'
-    url: [ '' ]
   - name: 'Ancient Elven Sorcerer - EV.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/21483' ]
   - name: 'Ancient Elven Sorcerer - DV.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/21483' ]
   - name: 'Ancient Elven Sorceress - EV.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/26225' ]
   - name: 'Ancient Elven Sorceress - DV.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/26225' ]
   - name: 'CapsAdmin.esp'
     url: [ '' ]
   - name: 'Dragorian and dranaugh( \(No Claws and Feet\))?\.esp'
@@ -4281,7 +4251,7 @@
   - name: 'soyaenbp.esp'
     url: [ '' ]
   - name: 'Beautiful PeopleV22 - MaleReplacerV4.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/14942' ]
   - name: 'BP + Robert''s + BR + Hair Packs.esp'
     url: [ '' ]
   - name: '_Ren_BeautyPack_full + Soya''s hair.esp'
