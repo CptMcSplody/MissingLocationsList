@@ -431,9 +431,9 @@
   - name: 'Knight of Skeleton.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/29527' ]
   - name: 'Kurese Recolours.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/25721' ]
   - name: 'Kusanagi.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/26221' ]
   - name: 'Lady Dark.esp'
     url: [ '' ]
   - name: 'LadyDeath.esp'
@@ -4085,22 +4085,6 @@
   - name: 'Wiedergaenger Race.esp'
     url: [ '' ]
   - name: 'KHStrangers.esp'
-    url: [ '' ]
-  - name: 'X.Demon.Race.esp'
-    url: [ '' ]
-  - name: 'X.Deus.Obscurus.esp'
-    url: [ '' ]
-  - name: 'X.Nature.Elf.esp'
-    url: [ '' ]
-  - name: 'X.Moon.Elf.esp'
-    url: [ '' ]
-  - name: 'X.Night.Elf.esp'
-    url: [ '' ]
-  - name: 'X.Night.Walker.esp'
-    url: [ '' ]
-  - name: 'X.Vampire.esp'
-    url: [ '' ]
-  - name: 'X.RC.RFM.esp'
     url: [ '' ]
   - name: 'Luchaire''s Dryad Race for MMM.esp'
     url: [ '' ]
