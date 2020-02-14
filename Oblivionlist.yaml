@@ -954,100 +954,68 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/4703' ]
   - name: 'Alternative Entrances.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/37848' ]
-  - name: 'AmVampireRing.esp'
-    url: [ '' ]
   - name: 'Ancient Ruins - Ayleid Edition.esp'
-    url: [ '' ]
-  - name: 'AnavirsPool.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/31734' ]
   - name: 'AnvilBayExpansion.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/10080' ]
   - name: 'Anvil_MorningGloryBetterCities_(Blue|Orange|Purple|Mixed)\.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/19039' ]
   - name: 'Aqua_City_01.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/11717' ]
   - name: 'Arcane Services.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/30962' ]
   - name: 'Archer Shop Ver. 4.2.esp'
-    url: [ '' ]
-  - name: 'ArchersLodge.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/28608' ]
   - name: 'ArchersLodge1.1.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/27763' ]
   - name: 'Arkshtrumz.esp'
-    url: [ '' ]
+    url: [ 'http://www.theassimilationlab.com/forums/files/file/1451-arkshtrumz-ev/' ]
   - name: 'Armageddon.esp'
-    url: [ '' ]
-  - name: 'Artifacts of the Ancestors.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/37487/' ]
   - name: 'Artefacts of the Ancestors.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/7079' ]
   - name: 'Artefakte der Ahnen.esp'
-    url: [ '' ]
-  - name: 'ArtifactsforArmaComplete.esp'
-    url: [ '' ]
-  - name: 'Artifacts for ArmaComplete.esp'
-    url: [ '' ]
-  - name: 'dmra_bbb_artifacts.esp'
-    url: [ '' ]
+    url: [ 'https://www.elderscrollsportal.de/ressourcen/artefakte-der-ahnen.249/' ]
   - name: 'DMRA BBB Artifacts Complete.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/42417' ]
   - name: 'AraenyaRealm.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/28512' ]
   - name: 'AStrangeCave.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/10540' ]
   - name: 'ATW_Castle_Vet_v1.3.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/41696/' ]
   - name: 'Auriel''s Books.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/14957' ]
   - name: 'Auriel''s_Retreat.esp'
-    url: [ '' ]
-  - name: 'AuriCloudRulerAddons.esp'
-    url: [ '' ]
+    url:
+      - 'https://www.nexusmods.com/oblivion/mods/27730'
+      - 'https://www.nexusmods.com/oblivion/mods/28558'
   - name: 'Automagicon.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/31543' ]
   - name: 'Automagicon_Cobl.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/31543' ]
   - name: 'AWitchTale.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/43009' ]
   - name: 'AyleidArrows.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/10740' ]
   - name: 'AyleidTemple.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/41613' ]
   - name: 'AzurasServices_de.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12187' ]
   - name: 'Bandit Hideouts.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/11260' ]
   - name: 'Basement for Cobl - Sheep Wool addition.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/21139' ]
   - name: 'BeastHeadInn.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/40990' ]
   - name: 'BeldaElysium.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/47300' ]
   - name: 'Benirus Manor Remade.esp'
-    url: [ '' ]
-  - name: 'Better Abandoned House - Interior Only.esp'
-    url: [ '' ]
-  - name: 'Better Abandoned House - Complete.esp'
-    url: [ '' ]
-  - name: 'Better Benirus Manor - Complete - AN-II Patch.esp'
-    url: [ '' ]
-  - name: 'Better Benirus Manor for Cobl - Complete - AN-II Patch.esp'
-    url: [ '' ]
-  - name: 'Better Benirus Manor - Interior Only - AN-II Patch.esp'
-    url: [ '' ]
-  - name: 'Better Benirus Manor for Cobl - Interior Only - AN-II Patch.esp'
-    url: [ '' ]
-  - name: 'Black_ocean.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12715' ]
   - name: 'BladeOfTheHaunted.esp'
-    url: [ '' ]
-  - name: 'BladeOfTheHauntedDV.esp'
-    url: [ '' ]
-  - name: 'Blade Of Shai''tan.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/33089' ]
   - name: 'BladeSong.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/49657' ]
   - name: 'BD&R - Laughing Maw.esp'
     url: [ '' ]
   - name: 'BD&R - Deepgrave.esp'
@@ -1449,32 +1417,6 @@
   - name: 'NordRuins.esp'
     url: [ '' ]
   - name: 'Northern Front.esp'
-    url: [ '' ]
-  - name: 'NNWARE2.esp'
-    url: [ '' ]
-  - name: 'NNWARE Series 1.esp'
-    url: [ '' ]
-  - name: 'NNWAREAyleidDungeons_Series1EV.esp'
-    url: [ '' ]
-  - name: 'NNWARE01EV-Sercen.esp'
-    url: [ '' ]
-  - name: 'NNWARE02EV-Trumbe.esp'
-    url: [ '' ]
-  - name: 'NNWARE03EV-Piukanda.esp'
-    url: [ '' ]
-  - name: 'NNWARE04EV-Veyond.esp'
-    url: [ '' ]
-  - name: 'NNWARE05EV-Bawn.esp'
-    url: [ '' ]
-  - name: 'NNWARE01-Sercen.esp'
-    url: [ '' ]
-  - name: 'NNWARE02-Trumbe.esp'
-    url: [ '' ]
-  - name: 'NNWARE03-Piukanda.esp'
-    url: [ '' ]
-  - name: 'NNWARE04-Veyond.esp'
-    url: [ '' ]
-  - name: 'NNWARE05-Bawn.esp'
     url: [ '' ]
   - name: 'Gates To Aesgaard Weather Patch.esp'
     url: [ '' ]
@@ -2054,8 +1996,6 @@
     url: [ '' ]
   - name: 'Sutch reborn Lighthouse Fix UL.esp'
     url: [ '' ]
-  - name: 'NNWARE1_Dungeon05ULPatch.esp'
-    url: [ '' ]
   - name: 'Cybiades - UL Beaches of Cyrodiil Patch.esp'
     url: [ '' ]
   - name: 'WAC - xulBCLostCoast.esp'
@@ -2259,8 +2199,6 @@
   - name: 'OC+ULSkingradOutskirts Patch.esp'
     url: [ '' ]
   - name: 'OC+ULSO+WestRoads Patch.esp'
-    url: [ '' ]
-  - name: 'Better Benirus Manor OC Patch.esp'
     url: [ '' ]
   - name: 'DBOO - Open(Cities| Cities)(Full| Outer Districts|Full + Outer Districts)\.esp'
     url: [ '' ]
