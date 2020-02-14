@@ -1017,109 +1017,87 @@
   - name: 'BladeSong.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/49657' ]
   - name: 'Bjornheim.esp'
-    url: [ '' ]
-  - name: 'Blacktache''s Secrets 3.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/6480' ]
   - name: 'BossPhaitCrab.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/38965' ]
   - name: 'BossPhaitDismal.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/39191' ]
   - name: 'BossPhaitStygainHalls.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/38744' ]
   - name: 'Bravil Docks.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/10126' ]
   - name: 'HackdirtTheDeepOnes.esp'
-    url: [ '' ]
-  - name: 'DeepHackdairt.esp'
-    url: [ '' ]
-  - name: 'Bullock.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/36224' ]
   - name: 'BuryCorpse.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/43134' ]
   - name: 'Butcher.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/37381' ]
   - name: 'BXX_Mines.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/8284' ]
   - name: 'BXX Tamriel Resource Exchange.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13320' ]
   - name: 'Cardac.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/40833' ]
   - name: 'Castlevania.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/39538' ]
   - name: 'CaveOfWishcraft 1_1.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/27926' ]
   - name: 'Castle Arpenia - Colovian Highlands.esp'
-    url: [ '' ]
-  - name: 'Castle.bedwyr 0.9.1.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/26709' ]
   - name: 'CastleInTheMountain.esp'
-    url: [ '' ]
-  - name: 'CaveOfLostSouls V1.esp'
-    url: [ '' ]
-  - name: 'Chateau_Domrose_V.1.2.1-Fr.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/9408' ]
   - name: 'Castle_Dunkerlore_V1.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/6507' ]
   - name: 'CastleLegacy_V2.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/38365' ]
   - name: 'CDEP-UnderpallCave.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13939' ]
   - name: 'ChangeinManagement.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/5751' ]
   - name: 'Clamshell_Cottage_v1.5.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/26785' ]
   - name: 'Cheydinhal Petshop.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/2054' ]
   - name: 'cloudcity mod V1.1.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/8722' ]
   - name: 'Comp_Cecilia.esp'
-    url: [ '' ]
-  - name: 'ConLoGnollkuppeMod.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/9252' ]
   - name: 'The Contented Prisoner V 2.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/17498/' ]
   - name: 'TCP Silence remover.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/17498' ]
   - name: 'Clintmichs Beautiful Imperial City Arboretum.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/30114' ]
   - name: 'Clintmichs Beautiful Imperial City Arboretum v1.1.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/30114' ]
   - name: 'Clintmichs Beautiful Arcane University.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/30119' ]
   - name: 'The Beautiful Market District.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/30012' ]
   - name: 'Clintmichs Beautiful Market District v1.3.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/30012' ]
   - name: 'Clintmichs Beautiful Elven Gardens District v1.0.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/30088' ]
   - name: 'Clintmichs Beautiful Elven Gardens District v1.1.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/30088' ]
   - name: 'Clintmichs Improved Prison District v1.1.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/30136' ]
   - name: 'Clintmichs Beautiful Talos Plaza District.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/30168' ]
   - name: 'COR-Episode1 Secret of Enourk.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/6875' ]
   - name: 'CompleteMagePack.esp'
-    url: [ '' ]
-  - name: 'Companion Gate.esp'
-    url: [ '' ]
-  - name: 'Companion Gate_Load.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/8385' ]
   - name: 'CV - Templar Fortress.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/36364' ]
   - name: 'Daedric Armor of Darkness.esp'
-    url: [ '' ]
-  - name: 'Daemonengruft.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/29152' ]
   - name: 'DarelothFrontDoorFix.esp'
-    url: [ '' ]
-  - name: 'Dark Brotherhood Outpost v2.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/33119' ]
   - name: 'Dark Brotherhood Outpost v3.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13277' ]
   - name: 'DarkQuest.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/42830' ]
   - name: 'DBSRebuiltComplete.esp'
     url: [ '' ]
   - name: 'DarknessHollows.esp'
@@ -2045,8 +2023,6 @@
   - name: 'LetThePeopleDrink-ImperialIsle-NRB4 patch.esp'
     url: [ '' ]
   - name: 'KvatchRebuilt-CheydinhalFalls patch.esp'
-    url: [ '' ]
-  - name: 'Cardac-xulAspenWood-patch.esp'
     url: [ '' ]
   - name: 'OotD_UL_Jerall_Patch.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/45611' ]
