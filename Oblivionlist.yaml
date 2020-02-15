@@ -1099,143 +1099,105 @@
   - name: 'DarkQuest.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/42830' ]
   - name: 'DBSRebuiltComplete.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/21125' ]
   - name: 'DarknessHollows.esp'
-    url: [ '' ]
+    url: [ 'http://tesalliance.org/forums/index.php?/files/file/659-darkness-hollows-tesas-2010-halloween-challenge/' ]
   - name: '(DC) Sutch Reborn.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/38921' ]
   - name: '(DC) County Sutch - New Haven.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/32298' ]
   - name: 'Deepwood Adventures.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/38017' ]
   - name: 'DibellaTempleWillowLakeVillagev1.esp'
-    url: [ '' ]
-  - name: 'Delivery Job - BC.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13285' ]
   - name: 'DJ Markov Manor.esp'
-    url: [ '' ]
-  - name: 'DMwardropemerged.esp'
-    url: [ '' ]
-  - name: 'DMwardropemergednoenchant.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/5313' ]
   - name: 'DragonInvasion.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13453' ]
   - name: 'DruidsTree.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/30364' ]
   - name: 'DSoSFortNocturnaSuppressio.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/41456' ]
   - name: 'DSoSMalamath.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/36968' ]
   - name: 'DSPirateIsleBeta.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/6886' ]
   - name: 'Dwarven Mines.esp'
-    url: [ '' ]
-  - name: 'dungeon.esp'
-    url: [ '' ]
-  - name: 'Dungeons.esp'
-    url: [ '' ]
-  - name: '[Keias]Dungeon Of Chaos.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/22268' ]
   - name: 'Edhildils Underdark.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/37671' ]
   - name: 'Eggs of History.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/35034' ]
   - name: 'Elven Baths.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/35004' ]
   - name: 'Emertxe.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4157' ]
   - name: 'EverHaus3.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/14862' ]
   - name: '_Faithless_EV.esp'
-    url: [ '' ]
-  - name: 'FHWS.esp'
-    url: [ '' ]
-  - name: 'Fort Ferrion.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/41068' ]
   - name: 'FiveBlindMiceBeta.esp'
-    url: [ '' ]
+    url:
+      - 'https://www.nexusmods.com/oblivion/mods/24580'
+      - 'https://www.nexusmods.com/oblivion/mods/35248'
   - name: 'Forgotten Tomb.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/2300' ]
   - name: 'Forgrum''s Travelogue.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/1960' ]
   - name: 'Forgrum''s Travelogue v2.0.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/3842' ]
   - name: 'Forgrum''s Travelogue v2.1 Beta.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/5711' ]
   - name: 'FuseSnailRacing.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4596' ]
   - name: 'GatewayRealm.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/33984' ]
   - name: 'GatewayRealmUL.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/33984' ]
   - name: 'Gift of Kynareth.esp'
-    url: [ '' ]
-  - name: 'Gold Coast''s Hillsborough Estate.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/7825' ]
   - name: 'GoldenCrest.esp'
-    url: [ '' ]
-  - name: 'HauntedHouse v1.3.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/33626' ]
   - name: 'HauntedHouse v1.4.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16879' ]
   - name: 'Haunted_House_v1.5.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16879' ]
   - name: 'HauntedLairMod.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/24521' ]
   - name: 'HazadirsArms.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12004' ]
   - name: 'HauntedHouse.esp'
-    url: [ '' ]
-  - name: 'Hentai ManiaC.esp'
-    url: [ '' ]
-  - name: 'Hentai Mania addon Break Undies.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/13699' ]
   - name: 'OOO_Hentai Mania.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/33339' ]
   - name: 'MMM_Hentai Mania.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/33339' ]
   - name: 'FCOM_Hentai Mania.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/33339' ]
-  - name: 'Hentai_mania_statuetki.esp'
-    url: [ '' ]
   - name: 'HilltopLodge.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/42119' ]
   - name: 'Holy Cathedral.esp'
-    url: [ '' ]
-  - name: 'SB IC Palace Tower Light Mod v1.1 - Constant Yellow Light.esp'
-    url: [ '' ]
-  - name: 'SB IC Palace Tower Light Mod v1.1 - Flicker Yellow Light.esp'
-    url: [ '' ]
-  - name: 'SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/25312' ]
   - name: 'Imperial_City_Cave_House-9473.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/9473' ]
   - name: 'Imperial City Manor.esp'
-    url: [ '' ]
-  - name: 'ImpeREAL Empire - Unique Castles.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/27818/' ]
   - name: 'IC Market District  malachi delacot.esp'
-    url: [ '' ]
-  1   - name: 'ImpeREAL City Unique Districts - .*\.esp'  # Over 40 plugin variations, so favouring brevity over specificity.
-  1    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/29449' ]
+  - name: 'ImpeREAL City Unique Districts - .*\.esp'  # Over 40 plugin variations, so favouring brevity over specificity.
+    url: [ 'https://www.nexusmods.com/oblivion/mods/19589' ]
   - name: 'ImpeREAL City Unique Districts - All the Districts - Merged.esp'
-    url: [ '' ]
-  - name: 'ImprovedChorrol.esp'
-    url: [ '' ]
-  - name: 'Improved Skingrad.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/19589' ]
   - name: 'IC Atmospheric Shops Mod.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/27973' ]
   - name: 'Dirtier Waterfront.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/12183' ]
   - name: 'Imperial City Miniature Model.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/4212' ]
   - name: 'Improved dungeons.esp'
-    url: [ '' ]
-  - name: 'In Sachen Ayleiden.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/29378' ]
   - name: 'Insomonias Ruins.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/38426' ]
   - name: 'JADICMothPriests.esp'
     url: [ '' ]
   - name: 'JADImperialApartments(01|02|03)Temple\.esp'
@@ -1317,7 +1279,7 @@
   - name: 'Lycanthrope 2.esp'
     url: [ '' ]
   - name: 'MasterQuestUltimateDungeon.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/44440' ]
   - name: 'MadMagesTower.esp'
     url: [ '' ]
   - name: 'MadMagesTowerBASIC.esp'
@@ -1745,7 +1707,7 @@
   - name: 'Ash''s DB Kah''Lil Quest.esp'
     url: [ '' ]
   - name: 'DSoSFrostCragRebornExteriorStairsFix.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/38278' ]
   - name: 'DLCFrostcrag Reborn.esp'
     url: [ '' ]
   - name: 'DLCFrostcragReborn.esp'
@@ -1761,8 +1723,6 @@
   - name: 'Traduccion mejorada KoT9.esp'
     url: [ '' ]
   - name: 'Oblivion_Deutsch_Patch_KotN.esp'
-    url: [ '' ]
-  - name: 'DMRA BBB Knights of the Nine Replacer.esp'
     url: [ '' ]
   - name: 'Knights_DMRA.esp'
     url: [ '' ]
@@ -1867,8 +1827,6 @@
   - name: 'BeyondCyrodiil-Camps.esp'
     url: [ '' ]
   - name: 'Elsweyr - Valenwood Patch DV.esp'
-    url: [ '' ]
-  - name: 'Improved Imperial Infrastructure.esp'
     url: [ '' ]
   - name: 'LetThePeopleDrink-NRB patch.esp'
     url: [ '' ]
@@ -1976,14 +1934,6 @@
     url: [ '' ]
   - name: 'UL Beaches of Cyrodiil - DMwardrobe patch.esp'
     url: [ '' ]
-  - name: 'HentaiMania2C.esp'
-    url: [ '' ]
-  - name: 'HentaiMania2_Merged_Hell.esp'
-    url: [ '' ]
-  - name: 'HentaiMania2_Merged_Nightmare.esp'
-    url: [ '' ]
-  - name: 'T-HMO.esp'
-    url: [ '' ]
   - name: 'LostSpires-BravilBarrowfields patch.esp'
     url: [ '' ]
   - name: 'VeronaHouseBloodlines-LushWoodlands fix.esp'
@@ -2033,8 +1983,6 @@
   - name: 'OblivionCollectibleCards-UniqueLandscapes Merged patch.esp'
     url: [ '' ]
   - name: 'TrailsOfCyrodiil-UL merged patch.esp'
-    url: [ '' ]
-  - name: 'ImpeREAL Empire - Unique Forts - Black Rock - OOO FCOM plugin by Xtudo.esp'
     url: [ '' ]
   - name: 'exhICMO.esp'
     url: [ '' ]
@@ -2343,8 +2291,6 @@
   - name: 'DS Portable Sorters.esp'
     url: [ '' ]
   - name: 'Dwemer_Rename.esp'
-    url: [ '' ]
-  - name: 'DMRA Replacer OOO Collection.esp'
     url: [ '' ]
   - name: 'Dwarven-S.esp'
     url: [ '' ]
