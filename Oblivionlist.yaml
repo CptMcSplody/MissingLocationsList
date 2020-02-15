@@ -1199,93 +1199,58 @@
   - name: 'Insomonias Ruins.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/38426' ]
   - name: 'JADICMothPriests.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/3771' ]
   - name: 'JADImperialApartments(01|02|03)Temple\.esp'
-    url: [ '' ]
+    url:
+      - 'https://www.nexusmods.com/oblivion/mods/4620'
+      - 'https://www.nexusmods.com/oblivion/mods/4650'
+      - 'https://www.nexusmods.com/oblivion/mods/4651'
   - name: 'Jagnot- Imperial City Library V1.3.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/3868' ]
   - name: 'Jail Break Escape Routes.esp'
-    url: [ '' ]
-  - name: 'JolardHome.esp'
-    url: [ '' ]
-  - name: 'JQ-AssassinQuest.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/39385' ]
   - name: 'Jade_Manor V1.26.esp'
-    url: [ '' ]
-  - name: 'kingdomofAlmar.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/17455' ]
   - name: 'Knights abode.esp'
-    url: [ '' ]
-  - name: '300_White Stallion+SB23.esp'
-    url: [ '' ]
-  - name: 'Feudal Empire 300.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/36095' ]
   - name: '300 Feudal Empire.esp'
-    url: [ '' ]
-  - name: 'Kvatch Rebuilt - Leveled Guards - FCOM.esp'
-    url: [ '' ]
-  - name: 'All Natural - Kvatch Rebuilt Weather Patch.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/22678' ]
   - name: 'KvatchCastleMakeover.esp'
-    url: [ '' ]
-  - name: 'KvatchRising.esp'
-    url: [ '' ]
-  - name: 'Gold Road Cottage - Classy.esp'
-    url: [ '' ]
-  - name: 'Gold Road Cottage - Rugged.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/23566' ]
   - name: 'EiAmod.esp'
-    url: [ '' ]
-  - name: 'Eiamod_delayer.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/21816' ]
   - name: 'Lady Stone Villa.esp'
-    url: [ '' ]
-  - name: 'Lady Stone Villa ULCompatable.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/39113' ]
   - name: 'Legacy of Faran.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/42883' ]
   - name: 'Legends - Baleful Eye.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/16203' ]
   - name: 'Legends - Zefaro Cottage.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/35627' ]
   - name: 'bladesfactionmod.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/21227' ]
   - name: 'GlenvarCastle.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/8235' ]
   - name: 'LetThePeopleDrink.esp'
-    url: [ '' ]
-  - name: 'LetThePeopleDrink-Cobl.esp'
-    url: [ '' ]
-  - name: 'LetThePeopleDrink-fountainonly.esp'
-    url: [ '' ]
-  - name: 'LetThePeopleDrink-fountainonly-Cobl.esp'
-    url: [ '' ]
-  - name: 'LeyawiinPort-AlphaRelease.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/10223' ]
   - name: 'Litterbug.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/39121' ]
   - name: 'Locked Doors and Knocking v1.02.esp'
-    url: [ '' ]
-  - name: 'Lost_Happ.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/24218' ]
   - name: 'LostSwordOfTheAylied.esp'
-    url: [ '' ]
-  - name: 'Lycanmoon.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/20184' ]
   - name: 'Lycanthrope.esp'
-    url: [ '' ]
-  - name: 'Lycanthrope v1.0.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/23599' ]
   - name: 'Lycanthrope 2.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/23597' ]
   - name: 'MasterQuestUltimateDungeon.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/44440' ]
   - name: 'MadMagesTower.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/20993' ]
   - name: 'MadMagesTowerBASIC.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/20993' ]
   - name: 'Mad Mike''s Crypts of Cyrodiil.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/15060' ]
   - name: 'Mafreseli.esp'
     url: [ '' ]
   - name: 'Mage''sSkyHouse.esp'
@@ -1355,10 +1320,6 @@
   - name: 'Northern Front.esp'
     url: [ '' ]
   - name: 'Gates To Aesgaard Weather Patch.esp'
-    url: [ '' ]
-  - name: 'GTAesgaard 1and2 Delayer.esp'
-    url: [ '' ]
-  - name: 'GTAesgaard I-II Delayer.esp'
     url: [ '' ]
   - name: 'OgramiradsUnmarkedPlaces.esp'
     url: [ '' ]
@@ -1778,8 +1739,6 @@
     url: [ '' ]
   - name: 'Blood&Mud - EE patch.esp'
     url: [ '' ]
-  - name: 'The Lost Spires_delayer.esp'
-    url: [ '' ]
   - name: 'Origin of the Mages Guild.esp'
     url: [ '' ]
   - name: 'The Mystery of the Dulan cult.esp'
@@ -1828,8 +1787,6 @@
     url: [ '' ]
   - name: 'Elsweyr - Valenwood Patch DV.esp'
     url: [ '' ]
-  - name: 'LetThePeopleDrink-NRB patch.esp'
-    url: [ '' ]
   - name: 'Fort Akatosh.esp'
     url: [ '' ]
   - name: 'FortAkatosh.esp'
@@ -1839,8 +1796,6 @@
   - name: 'OC-HOD-Patch.esp'
     url: [ '' ]
   - name: 'OC_HOD_delayer.esp'
-    url: [ '' ]
-  - name: 'HeartOftheDeadv6.3 Delayer.esp'
     url: [ '' ]
   - name: 'Dschinni.esp'
     url: [ '' ]
@@ -1969,8 +1924,6 @@
   - name: 'BladeOfTheHaunted_UL_ImperialIsle_Patch.esp'
     url: [ '' ]
   - name: 'ImperialCitySuburbs-ImperialIsle patch.esp'
-    url: [ '' ]
-  - name: 'LetThePeopleDrink-ImperialIsle-NRB4 patch.esp'
     url: [ '' ]
   - name: 'KvatchRebuilt-CheydinhalFalls patch.esp'
     url: [ '' ]
@@ -2639,7 +2592,7 @@
   - name: 'Wayshrines Improved.esp'
     url: [ '' ]
   - name: 'Werewolf-Legends.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/24453' ]
   - name: 'zzzNpcAIEnhanced.esp'
     url: [ '' ]
   - name: 'EnchantedGems_Geomancy.esp'
@@ -3281,7 +3234,7 @@
   - name: 'Lucha''s She Redguard.esp'
     url: [ '' ]
   - name: 'LycanRace.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/21726' ]
   - name: 'RGMsNavatar.esp'
     url: [ '' ]
   - name: 'Nec-Mystic Dark ElF.esp'
