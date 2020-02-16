@@ -10,22 +10,70 @@
     url: [ '' ]
   - name: 'TamRes.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/24822' ]
+# No source
+  - name: 'Gold is now Gold.esp'
+    url: [ '' ]
+# No source
+  - name: 'Grand Potions.esp'
+    url: [ '' ]
+# No source
+  - name: 'GuildOwnership1.2.esp'
+    url: [ '' ]
+# No source
+  - name: 'Inebriation Rus.esp'
+    url: [ '' ]
+# No source
+  - name: 'JQPotionBottlesTest.esp'
+    url: [ '' ]
+# No source
+  - name: 'Gâteaux et sucreries.esp'
+    url: [ '' ]
+# No source
+  - name: 'Lock Bash v99.9.esp'
+    url: [ '' ]
+# No source
+  - name: 'MageGuild_simbol.esp'
+    url: [ '' ]
   - name: 'MeosPotionReplacer.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/29422' ]
   - name: 'MigStatsCheck.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/44844' ]
+# No source
+  - name: 'MONSTERGIRL-APOCALYPSE.esp'
+    url: [ '' ]
+# No source
+  - name: 'MONSTERGIRL-CoC.esp'
+    url: [ '' ]
   - name: 'More_Animals.esp'
     url:
       - 'https://www.nexusmods.com/oblivion/mods/18275'
       - 'https://www.nexusmods.com/oblivion/mods/41777'
+# No source
+  - name: 'More_Animals_1C.esp'
+    url: [ '' ]
   - name: 'More Drinks.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/5763' ]
+# No source
+  - name: 'More_Vegetables.esp'
+    url: [ '' ]
   - name: 'BetterMusicSystem.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/26892' ]
+# No source
+  - name: 'Mud Crabs!(_(coMbO|MMM|OOO))?\.esp'
+    url: [ '' ]
+# No source
+  - name: 'Mud Crabs!_coMbO.esp'
+    url: [ '' ]
   - name: 'NR500.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/35978' ]
+# No source
+  - name: 'New Potions by Tealpanda.esp'
+    url: [ '' ]
   - name: 'New Potions.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/25822' ]
+# No source
+  - name: 'New_Potions_Fixed_Icons-25822.esp'
+    url: [ '' ]
   - name: 'Oblivion Cats v0.22b.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/2912' ]
   - name: 'Oblivion Collectible Cards.esp'
@@ -34,6 +82,9 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/14620' ]
   - name: 'personality_idles4.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/14280' ]
+# No source
+  - name: 'Personality Idles 4 - Cleanned version.esp'
+    url: [ '' ]
   - name: 'Personality Idles - Modified version.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/30829' ]
   - name: 'personality_idles4_C.esp'
@@ -44,8 +95,14 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/14280' ]
   - name: 'personality_idles4_nopc.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/14280' ]
+# No source
+  - name: 'personality_idles_custom.esp'
+    url: [ '' ]
   - name: 'P1DseeYouSleep.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/16005' ]
+# No source
+  - name: 'P-Froggys Corpse Carry DV.esp'
+    url: [ '' ]
   - name: 'P-Froggys Corpse Carry EV.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/28987' ]
   - name: 'pmRealTimeInteractions.esp'
@@ -58,8 +115,17 @@
       - 'https://www.nexusmods.com/oblivion/mods/47787'
   - name: 'Q - More and Moldy Ingredients v1.1.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/5065' ]
+# No source
+  - name: 'Q - More and Moldy Ingredients v1.1 - DV.esp'
+    url: [ '' ]
+# No source
+  - name: 'MoreMoldyIngredients&Vegeteables.esp'
+    url: [ '' ]
   - name: 'Q-Core - Icons.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/19378' ]
+# No source
+  - name: 'Qarl''s Harvest 1.1.esp'
+    url: [ '' ]
   - name: 'QQuix - Rock, rock, rock your ship - V2.0.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/29649' ]
   - name: 'QQuix - Rock, rock, rock your ship - V3.esp'
@@ -68,20 +134,44 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/39871' ]
   - name: 'Respawning Containers.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/25288' ]
+# No source
+  - name: 'RealitySpectre''sBetterPotions.esp'
+    url: [ '' ]
   - name: 'RealWalk.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/27954' ]
+# No source
+  - name: 'REBetterLCB.esp'
+    url: [ '' ]
+# No source
+  - name: 'REBetterDrinks.esp'
+    url: [ '' ]
   - name: 'Redecoration.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/24498' ]
+# No source
+  - name: 'Real_Mannequin.esp'
+    url: [ '' ]
   - name: 'Rings of Infiltration.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/15222' ]
+# No source
+  - name: 'Sexual_SpiderDaedra.esp'
+    url: [ '' ]
   - name: 'OSM-All Genders.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/32838' ]
+# No source
+  - name: 'Shads Hunting & Fauna.esp'
+    url: [ '' ]
+# No source
+  - name: 'Sheepherder''s Vampirism Fix - OBSE.esp'
+    url: [ '' ]
   - name: 'Shield on Back RC5-Public.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/15317' ]
   - name: 'Shield on Back 3.1.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/15317' ]
   - name: 'ShieldOnBack_1C.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/20572' ]
+# No source
+  - name: 'ShieldOnBack_GOTY_1C.esp'
+    url: [ '' ]
   - name: '1HweaponOnBack.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/24541' ]
   - name: 'Shouts of the Dovahkiin.esp'
@@ -92,16 +182,34 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/31218' ]
   - name: 'Skyrim Ingredients.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/41348' ]
+# No source
+  - name: 'SPARTANVIsDiverseCityGuards05BETA.esp'
+    url: [ '' ]
   - name: 'SPARTAN VIs Diverse City Guards v1 2.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/11211' ]
   - name: 'Guard Torches.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/7615' ]
+# No source
+  - name: 'SummonChest_v2.0.esp'
+    url: [ '' ]
   - name: 'TeddyBackpacks.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/42256' ]
   - name: 'TeddyBackpacksAcc.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/42256' ]
   - name: 'Teleport Arrows.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/13441' ]
+# No source
+  - name: 'the punished girlbox.esp'
+    url: [ '' ]
+# No source
+  - name: 'Treasure Hunt.esp'
+    url: [ '' ]
+# No source
+  - name: 'trfSolaris.esp'
+    url: [ '' ]
+# No source
+  - name: 'BetterGold Rus.esp'
+    url: [ '' ]
   - name: 'AC_Gold_Coins.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/34536' ]
   - name: 'Vampire Alchemy V1.1.esp'
@@ -116,12 +224,42 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/11237' ]
   - name: 'WWF - Gloom.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/28666' ]
+# No source
+  - name: 'WWF - Uniques.esp'
+    url: [ '' ]
+# No source
+  - name: 'WWF - Weakest.esp'
+    url: [ '' ]
   - name: 'Wyverex''s - Runes.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/10717' ]
+# No source
+  - name: 'Zombie Replacer_en.esp'
+    url: [ '' ]
+# No source
+  - name: 'Zombie Replacer_cn.esp'
+    url: [ '' ]
+# No source
+  - name: 'Living Economy.esp'
+    url: [ '' ]
+# No source
+  - name: 'Living Economy - SI.esp'
+    url: [ '' ]
+# No source
+  - name: 'SI Living Economy.esp'
+    url: [ '' ]
+# No source
+  - name: 'Living Economy - Items.esp'
+    url: [ '' ]
+# No source
+  - name: 'GoldAdjustment.esp'
+    url: [ '' ]
   - name: 'moDem''s City Life.esp'
     url:
       - 'https://www.nexusmods.com/oblivion/mods/9450'
       - 'https://www.nexusmods.com/oblivion/mods/11351'
+# No source
+  - name: 'Oblivion Alive.esp'
+    url: [ '' ]
   - name: 'Bards of Cyrodiil.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/31671' ]
   - name: 'Crowded Cities 15.esp'
@@ -146,8 +284,17 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/3958' ]
   - name: 'Immersive Travelers.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/19060' ]
+# No source
+  - name: 'C&C&EQR.esp'
+    url: [ '' ]
   - name: 'AutoEquip.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/34526' ]
+# No source
+  - name: 'CDM - Shivering Time.esp'
+    url: [ '' ]
+# No source
+  - name: 'CBMS_V2.esp'
+    url: [ '' ]
   - name: 'DarNifiedUI Config Addon.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/34792' ]
   - name: 'Demolish Plugin - HUD Display.esp'
@@ -160,6 +307,9 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/22269' ]
   - name: 'sycNiceToMeetYou.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/38756' ]
+# No source
+  - name: 'NPC Height Randomizer.esp'
+    url: [ '' ]
   - name: 'NoBloodInside.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/42174' ]
   - name: 'NoHelmet.esp'
@@ -178,18 +328,42 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/10400' ]
   - name: 'Streamline 3.0.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/10400' ]
+# No source
+  - name: 'zzzItemGeneratingSystem.esp'
+    url: [ '' ]
+# No source
+  - name: 'Map Marker Renamer.esp'
+    url: [ '' ]
   - name: 'Landmarks.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/2502' ]
   - name: 'Landmarks, w Wells.esp'
     url:
       - 'https://www.nexusmods.com/oblivion/mods/5475'
       - 'https://www.nexusmods.com/oblivion/mods/46915'
+# No source
+  - name: 'Landmarks, w Wells_DV.esp'
+    url: [ '' ]
+# No source
+  - name: 'Landmarks With Wells.esp'
+    url: [ '' ]
+# No source
+  - name: 'Landmarks_w_Wells.esp'
+    url: [ '' ]
   - name: 'HouseMapMarkersOnlyBought.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/3345' ]
   - name: 'Clock Hotkey.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/38514' ]
+# No source
+  - name: 'Expanded Hotkeys and Spell Delete v1.0.esp'
+    url: [ '' ]
   - name: 'Expanded Hotkeys and Spell Delete V2.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/48869' ]
+# No source
+  - name: 'Expanded Hotkeys and Spell Delete V2a.esp'
+    url: [ '' ]
+# No source
+  - name: 'Expanded Hotkeys Brief Equip Message.esp'
+    url: [ '' ]
   - name: 'Hov''s Hotkeys.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/13443' ]
   - name: 'Lem - Hotkey Cyclers.esp'
@@ -210,42 +384,84 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/30673' ]
   - name: 'SellHorses_Incl_Saddlebags_and_CallSteed.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/6903' ]
+# No source
+  - name: 'C&C&EQR - SM Plugin Refurbish - Orrery.esp'
+    url: [ '' ]
   - name: 'Book Jackets DLC.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/16247' ]
   - name: 'GrimbotsSpellTomes.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/16247' ]
+# No source
+  - name: 'Grimbots_Spell_Tomes.esp'
+    url: [ '' ]
   - name: 'Bab.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/12536' ]
+# No source
+  - name: 'Bodybuilder Body.esp'
+    url: [ '' ]
   - name: 'EyeCandy Compilation.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/26704' ]
   - name: 'HGEC_special_armor_repl.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/24194' ]
   - name: 'MaleBodyReplacerV3.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/8295' ]
+# No source
+  - name: 'Male Body Replacer v 3.esp'
+    url: [ '' ]
   - name: 'MaleBodyReplacerV4.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/14942' ]
+# No source
+  - name: 'Male Body Replacer.esp'
+    url: [ '' ]
+# No source
+  - name: 'MaleBodyReplacer.esp'
+    url: [ '' ]
+# No source
+  - name: 'MaleBodyReplacerV5Beta.esp'
+    url: [ '' ]
   - name: 'MaleBodyReplacerV5.esp'
     url:
       - 'https://www.nexusmods.com/oblivion/mods/33669'
       - 'https://www.nexusmods.com/oblivion/mods/40532'
+# No source
+  - name: 'NordFemaleMuscles.esp'
+    url: [ '' ]
   - name: 'bodyshapes.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/36324' ]
   - name: 'VORB_no_mods.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/37013' ]
+# No source
+  - name: 'VORB_HGEC_special_armor_repl.esp'
+    url: [ '' ]
+# No source
+  - name: 'Cryos Ordinator Lite.esp'
+    url: [ '' ]
   - name: '01_SenTinel''s Katanas.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/8291' ]
+# No source
+  - name: '1DemonSword.esp'
+    url: [ '' ]
   - name: '1SB_RavenousEleganceOutfit.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/33823' ]
   - name: 'AC Stock Armor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/3515' ]
   - name: 'Akavirdownloadpack1.1.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/6301' ]
+# No source
+  - name: 'Akaviri Elements Bow v1-2.esp'
+    url: [ '' ]
+# No source
+  - name: 'Alhemy.esp'
+    url: [ '' ]
   - name: 'Alchemist''s Tome.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/26104' ]
   - name: 'Alir''sArmor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/35421' ]
   - name: 'Alluring Books.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/34110' ]
+# No source
+  - name: 'AlteredPistols!.esp'
+    url: [ '' ]
   - name: 'ArenaEyeCandyArmor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/22177' ]
   - name: 'ArchmageSorceress.esp'
@@ -260,6 +476,9 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/4417' ]
   - name: 'ArynnsDemonatrixHGEC.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/19027' ]
+# No source
+  - name: 'MODAssassinsCreed2_Revisited.esp'
+    url: [ '' ]
   - name: 'ArmorOfTheWhiteFox.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/7208' ]
   - name: 'Aspiria_EV.esp'
@@ -272,22 +491,43 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/10568' ]
   - name: 'Altessian.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/3165' ]
+# No source
+  - name: 'ArmamentariumArmor4Npcs.esp'
+    url: [ '' ]
+# No source
+  - name: 'ArmamentariumWeapons4Npcs.esp'
+    url: [ '' ]
+# No source
+  - name: 'ArmamentariumKatanasRU.esp'
+    url: [ '' ]
   - name: 'AGEHA Tortured Souls.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/26486' ]
   - name: 'Bearclaw_Helm_Replacer.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/35522' ]
+# No source
+  - name: 'Beautiful Arena Armor.esp'
+    url: [ '' ]
   - name: 'Bamboo Armor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/3933' ]
   - name: 'Banes Steel Helm Replacer.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/36219' ]
   - name: 'BarbarianShop.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/7106' ]
+# No source
+  - name: 'Battle_Tattoos_v1.esp'
+    url: [ '' ]
   - name: 'BBBRoseoftheGuard.esp'
     url:
       - 'https://www.nexusmods.com/oblivion/mods/34611'
       - 'https://www.nexusmods.com/oblivion/mods/43444'
+# No source
+  - name: 'bbClothesFinal.esp'
+    url: [ '' ]
   - name: 'BetterBedroll.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/2524' ]
+# No source
+  - name: 'Better Unique Items.esp'
+    url: [ '' ]
   - name: 'Belles Bouteilles.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/11956' ]
   - name: 'BlackGlovesEng.esp'
@@ -312,8 +552,23 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/35544' ]
   - name: 'BisPainBringer.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/16838' ]
+# No source
+  - name: 'BladeofWoe.esp'
+    url: [ '' ]
+# No source
+  - name: 'javbs_mod.esp'
+    url: [ '' ]
   - name: 'Blades Ceremonial Armour.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/2878' ]
+# No source
+  - name: 'Banes Archer Paradox.esp'
+    url: [ '' ]
+# No source
+  - name: 'BlackPuppetLight.esp'
+    url: [ '' ]
+# No source
+  - name: 'BlackPuppetUltraLight.esp'
+    url: [ '' ]
   - name: 'Brigand''s Gear.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/10314' ]
   - name: 'BrivasArmor.esp'
@@ -338,6 +593,9 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/27376' ]
   - name: 'crimson dagger.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/17043' ]
+# No source
+  - name: 'crusadercg.esp'
+    url: [ '' ]
   - name: 'CV - Kilij.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/36457' ]
   - name: 'Daedric Healer Robes.esp'
@@ -364,8 +622,17 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/3150' ]
   - name: 'daedric sky armor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/6785' ]
+# No source
+  - name: 'DamascusGlamdring.esp'
+    url: [ '' ]
+# No source
+  - name: 'Dark BrotherHood Hood Replacer V1.2.esp'
+    url: [ '' ]
   - name: 'Dark Crusader Armor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/7844' ]
+# No source
+  - name: 'replace_glass.esp'
+    url: [ '' ]
   - name: 'DarkIllusionArmor.esp'
     url:
       - 'https://www.nexusmods.com/oblivion/mods/12785'
@@ -374,10 +641,22 @@
     url: [ 'http://tesalliance.org/forums/index.php?/files/file/8-dark-katana' ]
   - name: 'DarkLeatherArmor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/2392' ]
+# No source
+  - name: 'Dark Mithril Armour.esp'
+    url: [ '' ]
   - name: 'DFSLChina.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/21941' ]
+# No source
+  - name: 'Dress WBBW DMRA+.esp'
+    url: [ '' ]
+# No source
+  - name: 'dwr.esp'
+    url: [ '' ]
   - name: 'Deceiver''s Armour.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/11421' ]
+# No source
+  - name: 'dragon weapons.esp'
+    url: [ '' ]
   - name: 'Dynasty Armor DM-BBB.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/43341' ]
   - name: 'doofdillas_potions_recolored_unsorted_v0_2_1.esp'
@@ -386,12 +665,39 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/3834' ]
   - name: 'doofdillas_potions_recolored_sorted_v0_3_1.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/3834' ]
+# No source
+  - name: 'Emperor''s Heavy War Armor.esp'
+    url: [ '' ]
+# No source
+  - name: 'Elven Weapon Replacements.esp'
+    url: [ '' ]
   - name: 'Emarion Equipment.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/3468' ]
+# No source
+  - name: 'EmpressRobes.esp'
+    url: [ '' ]
+# No source
+  - name: 'Fable Swords.esp'
+    url: [ '' ]
   - name: 'FalxMod.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/20853' ]
   - name: 'Fantasy Mod.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/10416' ]
+# No source
+  - name: 'FB_Dark_Crusader_01.esp'
+    url: [ '' ]
+# No source
+  - name: 'FB_DC_Mega_Pack_OMOD.esp'
+    url: [ '' ]
+# No source
+  - name: 'Female Helmet Replacer.esp'
+    url: [ '' ]
+# No source
+  - name: 'Female Helmet Replacer_KotN.esp'
+    url: [ '' ]
+# No source
+  - name: 'Female Outfits by Koutetsu.esp'
+    url: [ '' ]
   - name: 'Fighters Guild Scalemail Full.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/14195' ]
   - name: 'FlameGlassEquipment.esp'
@@ -402,26 +708,60 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/42902' ]
   - name: 'Full Metal Bikini Mark II.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/38579' ]
+# No source
+  - name: 'Garak''s Staff Replacer Artefacts.esp'
+    url: [ '' ]
+# No source
+  - name: 'Garak''s Staff Replacer Blood&Lightning.esp'
+    url: [ '' ]
+# No source
+  - name: 'Garak''s Staff Replacer Fire&Ice.esp'
+    url: [ '' ]
+# No source
+  - name: 'Garak''s Staff Replacer Grab, Hold&Decay.esp'
+    url: [ '' ]
+# No source
+  - name: 'GGBDDCW.esp'
+    url: [ '' ]
   - name: 'Griffon Fortress 0.3.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/14830' ]
   - name: 'Griffon Fortress 0.4.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/24752' ]
   - name: 'Growlfs Hot Clothes.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/17209' ]
+# No source
+  - name: 'GruntsSigilStones.esp'
+    url: [ '' ]
+# No source
+  - name: 'HaroK Arrow Forge Revisited.esp'
+    url: [ '' ]
   - name: 'Heretic Robe Replacer.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/30331' ]
   - name: 'HiddenSkulls.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/18648' ]
   - name: 'HTBUnholyChapelShop.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/41755' ]
+# No source
+  - name: 'IP_Magerobes.esp'
+    url: [ '' ]
+# No source
+  - name: 'Iron Maiden - Jo''s Rest.esp'
+    url: [ '' ]
   - name: 'JBlades!.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/18529' ]
   - name: 'JBladesVol2.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/30577' ]
   - name: 'JCapesBonus.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/17525' ]
+# No source
   - name: 'JediLightsabersWithSheathFIX.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/27621' ]
+# No source
+  - name: 'JG Elven.esp'
+    url: [ '' ]
+# No source
+  - name: 'Jos3006''s Japenese Weapons.esp'
+    url: [ '' ]
   - name: 'KDCirclets.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/10380' ]
   - name: 'KDClothCirclets.esp'
@@ -430,14 +770,65 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/23393' ]
   - name: 'Knight of Skeleton.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/29527' ]
+# No source
+  - name: 'KohdiBladesofAnkewan Delayer.esp'
+    url: [ '' ]
+# No source
+  - name: 'KohdiArmoryofAnsephaer Delayer.esp'
+    url: [ '' ]
+# No source
+  - name: 'Kohdi Ankewan-Anesphar Delayer.esp'
+    url: [ '' ]
+# No source
+  - name: 'Kohdi Ankewan-Anesphar Delayer v2.esp'
+    url: [ '' ]
   - name: 'Kurese Recolours.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/25721' ]
   - name: 'Kusanagi.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/26221' ]
+# No source
+  - name: 'Lady Dark.esp'
+    url: [ '' ]
+# No source
+  - name: 'LadyDeath.esp'
+    url: [ '' ]
+# No source
+  - name: 'Lady Dress.esp'
+    url: [ '' ]
+# No source
+  - name: 'Lady INDI.esp'
+    url: [ '' ]
+# No source
+  - name: 'Lady Rappelz.esp'
+    url: [ '' ]
+# No source
+  - name: 'Lady Rogue.esp'
+    url: [ '' ]
+# No source
+  - name: 'Lady Sexy.esp'
+    url: [ '' ]
+# No source
+  - name: 'Lady Sexy EV.esp'
+    url: [ '' ]
+# No source
+  - name: 'Lady Vamp.esp'
+    url: [ '' ]
+# No source
+  - name: 'Lady Bat.esp'
+    url: [ '' ]
+# No source
+  - name: 'Lady Witch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Lady Witch EV.esp'
+    url: [ '' ]
   - name: 'LaserGun_v1.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/37147' ]
   - name: 'Legion Shield Replacer.esp'
     url: [ 'http://tesalliance.org/forums/index.php?/files/file/748-legion-shield-replacer' ]
+# No source
+  - name: 'Leviathan Daikatana.esp'
+    url: [ '' ]
   - name: 'Lightning Sword.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/29590' ]
   - name: 'LootableLichHelm_Lt.esp'
@@ -446,6 +837,9 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/7036' ]
   - name: 'LSBSkullWeapons.1.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/21863' ]
+# No source
+  - name: 'LSB Skull Weapons.esp'
+    url: [ '' ]
   - name: 'LSB Skull Weapons (Clean).esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/21863' ]
   - name: 'M&BAxes.esp'
@@ -460,6 +854,9 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/23371' ]
   - name: 'MDMM.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/45320' ]
+# No source
+  - name: 'MODArnTemplar.esp'
+    url: [ '' ]
   - name: 'Morrigan Swords Axes and Shield by Jojjo v1_1.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/15885' ]
   - name: 'Wearable GS and DS armor.esp'
@@ -470,12 +867,27 @@
       - 'https://www.nexusmods.com/oblivion/mods/43029'
   - name: 'mnp Nighteye Goggles.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/7791' ]
+# No source
+  - name: 'MotoDualGoldbrandEbony.esp'
+    url: [ '' ]
   - name: 'MC_Staff_Pack.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/5591' ]
   - name: 'MC_Staff_Pack_NoLL.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/5591' ]
   - name: 'Nature''s_bounty.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/21618' ]
+# No source
+  - name: 'Neck Seam Concealers Expanded LL Amulets Only.esp'
+    url: [ '' ]
+# No source
+  - name: 'Neck Seam Concealers Expanded LL Amulets & Tail Slot.esp'
+    url: [ '' ]
+# No source
+  - name: 'Neck Seam Concealers Expanded LL Amulets Only SI.esp'
+    url: [ '' ]
+# No source
+  - name: 'Neck Seam Concealers Expanded LL Amulets & Tail Slot SI.esp'
+    url: [ '' ]
   - name: 'New Frostmourne Sword by Jojjo v1_0.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/17032' ]
   - name: 'NexonsArmoryENG.esp'
@@ -484,6 +896,12 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/47910' ]
   - name: 'Nicoroshi Creations DW heavy.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/47910' ]
+# No source
+  - name: 'NorseWeapons.esp'
+    url: [ '' ]
+# No source
+  - name: 'Obsidian armor.esp'
+    url: [ '' ]
   - name: 'Oddbasket Glass Replace(RU)?( NoEnch)?( ALT)?\.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/6770' ]
   - name: 'pale_rider''s Armor of Dragon''s Nightmare.esp'
@@ -502,10 +920,22 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/4949' ]
   - name: 'PinkGlassArmor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/5274' ]
+# No source
+  - name: 'Potion Belt.esp'
+    url: [ '' ]
   - name: 'RavenousEleganceRoberts.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/34026' ]
+# No source
+  - name: 'RedgardWeaponsMod.esp'
+    url: [ '' ]
+# No source
+  - name: 'Retma Dresses.esp'
+    url: [ '' ]
   - name: 'Robe Replacer2.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/12943' ]
+# No source
+  - name: 'ROHJ2.esp'
+    url: [ '' ]
   - name: 'RomanLegion.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/39906' ]
   - name: 'royal garb.esp'
@@ -522,6 +952,12 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/31753' ]
   - name: 'Ryk_Sandals_RHH.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/42177' ]
+# No source
+  - name: 'Saint Hiryu''s Artifacts.esp'
+    url: [ '' ]
+# No source
+  - name: 'Santa Babe.esp'
+    url: [ '' ]
   - name: 'Sauron_Armor_Chest.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/7690' ]
   - name: 'SDHeartbreaker.esp'
@@ -538,6 +974,9 @@
     url:
       - 'https://www.nexusmods.com/oblivion/mods/8445'
       - 'https://www.nexusmods.com/oblivion/mods/14911'
+# No source
+  - name: 'Shivering Armor Variety - Test.esp'
+    url: [ '' ]
   - name: 'Shrouded Armor X.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/26499' ]
   - name: 'SilverwareWeapons.esp'
@@ -552,18 +991,48 @@
       - 'https://www.nexusmods.com/oblivion/mods/9247'
   - name: 'SK_Berserk_v0.6.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/17532' ]
+# No source
+  - name: 'Slof''s Giger Armour.esp'
+    url: [ '' ]
+# No source
+  - name: 'Kit Rae Weaponry v0_2.esp'
+    url: [ '' ]
   - name: 'Kit Rae Weaponry.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/21108' ]
+# No source
+  - name: 'Kit Rae Weaponry v0_4.esp'
+    url: [ '' ]
   - name: 'SpeechcraftEnhanced.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/25531' ]
   - name: 'SnowySignatureOutfit.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/20275' ]
   - name: 'Spell Breaker Replacer.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/21847' ]
+# No source
+  - name: 'Spellbreaker Replacer With Tweak With Reflection.esp'
+    url: [ '' ]
+# No source
+  - name: 'Spellbreaker Replacer With Tweak No Reflection.esp'
+    url: [ '' ]
+# No source
+  - name: 'Spellbreaker Replacer No Tweak With Reflection.esp'
+    url: [ '' ]
+# No source
+  - name: 'Spellbreaker Replacer No Tweak No Reflection.esp'
+    url: [ '' ]
   - name: 'spartanspears.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/10170' ]
+# No source
+  - name: 'SG010 Compilation.esp'
+    url: [ '' ]
   - name: 'Shaun''s Weapon Replacers.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/34589' ]
+# No source
+  - name: 'Star''s Fury.esp'
+    url: [ '' ]
+# No source
+  - name: 'sting.esp'
+    url: [ '' ]
   - name: 'strotisNewFood.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/41324' ]
   - name: 'Silverlight Armor by Jojjo.esp'
@@ -582,6 +1051,12 @@
     url: [ 'http://tesalliance.org/forums/index.php?/files/file/580-the-arsenal' ]
   - name: 'Conan Swords - Atlantean 2Hand Fur Scabbard.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/14111' ]
+# No source
+  - name: 'The Little Weapon Pack OB.esp'
+    url: [ '' ]
+# No source
+  - name: 'The SilverDragonArmorQuest.esp'
+    url: [ '' ]
   - name: 'Thori''Dal, The Stars'' Furyl - Legends of Azeroth Armory.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/42677' ]
   - name: 'Town Guard Armor Replacers.esp'
@@ -592,14 +1067,26 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/10376' ]
   - name: 'TT-EquipableBeardsLEVELEDLIST.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/10870' ]
+# No source
+  - name: 'UK47_LOTR_Weapons_Merged.esp'
+    url: [ '' ]
   - name: 'Unique Enticing Skill Books.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/34330' ]
+# No source
+  - name: 'UU! Female Undies.esp'
+    url: [ '' ]
+# No source
+  - name: 'UU! Female Undies NPCs.esp'
+    url: [ '' ]
   - name: 'VA_GlamdringSword.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/16344' ]
   - name: 'Vampire Cuirass NPC.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/22043' ]
   - name: 'wands.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/41398' ]
+# No source
+  - name: 'WarriorBandages_V2.0.esp'
+    url: [ '' ]
   - name: 'witchkingsword.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/4543' ]
   - name: 'XiaValentinesDayGift07.esp'
@@ -610,6 +1097,33 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/26975' ]
   - name: 'MEQ_NakakitaPatch.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/45748' ]
+# No source
+  - name: 'All Manly.esp'
+    url: [ '' ]
+# No source
+  - name: 'Armor-Clothing-Weapons Merger.esp'
+    url: [ '' ]
+# No source
+  - name: 'Babarized AleanneGlass.esp'
+    url: [ '' ]
+# No source
+  - name: 'Babarized CompleteMagePack.esp'
+    url: [ '' ]
+# No source
+  - name: 'Babarized DiverseImperialArmor.esp'
+    url: [ '' ]
+# No source
+  - name: 'Babarized GlassArmorPack.esp'
+    url: [ '' ]
+# No source
+  - name: 'Babarized Loths.esp'
+    url: [ '' ]
+# No source
+  - name: 'Babarized Loths2.esp'
+    url: [ '' ]
+# No source
+  - name: 'Babarized RegionalLegionSoldiers.esp'
+    url: [ '' ]
   - name: 'Bloodrayne Armor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/20623' ]
   - name: 'Chrome Amazon Armor.esp'
@@ -636,10 +1150,22 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/28288' ]
   - name: 'DMRA  Skimpy Armor Expanded.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/28912' ]
+# No source
+  - name: 'DMRA Skimpy Clothing Replacer.esp'
+    url: [ '' ]
   - name: 'DMRA Stock Robe Skimpy Replacer.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/28650' ]
   - name: 'Dollparts'' Wild Flower Corsets of Cyrodiil.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/38431' ]
+# No source
+  - name: 'Dragon Princess.esp'
+    url: [ '' ]
+# No source
+  - name: 'Fairy Wings Darkness.esp'
+    url: [ '' ]
+# No source
+  - name: 'FF7 Swords 02 core apocalypse.esp'
+    url: [ '' ]
   - name: 'GoddessArmor_Exnem.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/11025' ]
   - name: 'HGEC_AmazonArmor.esp'
@@ -656,16 +1182,49 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/2474' ]
   - name: 'IndigoArmor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/16645' ]
+# No source
+  - name: 'Lady Style.esp'
+    url: [ '' ]
+# No source
+  - name: 'LC-Compilation-Exnem.esp'
+    url: [ '' ]
+# No source
+  - name: 'LC-Legion-Exnem.esp'
+    url: [ '' ]
+# No source
+  - name: 'LC-Dragon-Exnem.esp'
+    url: [ '' ]
   - name: 'LexMiscClothesII.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/37202' ]
+# No source
+  - name: 'MW  Dremora Armor.esp'
+    url: [ '' ]
+# No source
+  - name: 'New Exnem Compatible Armors.esp'
+    url: [ '' ]
   - name: 'R18PN - Lingeries.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/23589' ]
+# No source
+  - name: 'Roberts Armamentium female.esp'
+    url: [ '' ]
+# No source
+  - name: 'Sack of Pants.esp'
+    url: [ '' ]
+# No source
+  - name: 'Sack of PantsRU.esp'
+    url: [ '' ]
   - name: 'Sexy Ghost Armor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/35631' ]
+# No source
+  - name: 'Slof''s Brighter Arena Raiments.esp'
+    url: [ '' ]
   - name: 'StockClothingArmorBBBHGEC_Standard_ECupLBotPPN.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/16750' ]
   - name: 'StockClothingArmor-forExnems.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/11824' ]
+# No source
+  - name: 'StockClothingArmorHGECnormalD.esp'
+    url: [ '' ]
   - name: 'StockClothingArmorHGECFighterD.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/16750' ]
   - name: 'UFF Amazon Armor.esp'
@@ -680,18 +1239,42 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/35182' ]
   - name: 'Dark_Mistress.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/19744' ]
+# No source
+  - name: '1SI_Horses.esp'
+    url: [ '' ]
+# No source
+  - name: 'a4sFlamingNightmare.esp'
+    url: [ '' ]
   - name: 'a4sFlamingNightmare3.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/35219' ]
   - name: 'Athletics While Riding.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/37432' ]
+# No source
+  - name: 'CDM-Horses.esp'
+    url: [ '' ]
   - name: 'MigHorseArmor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/43037' ]
   - name: 'Slof''s Horses Base.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/48925' ]
+# No source
+  - name: 'Slof''s Horses Essential.esp'
+    url: [ '' ]
+# No source
+  - name: 'Slof''s Horses HA Essential.esp'
+    url: [ '' ]
   - name: 'Slof''s Extra Horses.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/48925' ]
   - name: 'Slof''s Black Unicorn.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/48112' ]
+# No source
+  - name: 'Slof''s Nightmare.esp'
+    url: [ '' ]
+# No source
+  - name: 'HS-Horse.esp'
+    url: [ '' ]
+# No source
+  - name: 'HS-Horse-Unicorn.esp'
+    url: [ '' ]
   - name: 'HRMHorseArmor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/46657' ]
   - name: 'HRMHorseArmorSlofsHorsesPatch.esp'
@@ -704,6 +1287,39 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/12767' ]
   - name: 'brownclydesdale.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/28006' ]
+# No source
+  - name: 'DLCHorseArmor_SlofBase.esp'
+    url: [ '' ]
+# No source
+  - name: 'DLCHorseArmor_SlofNightmare.esp'
+    url: [ '' ]
+# No source
+  - name: 'DLCHorseArmor_SlofEssential.esp'
+    url: [ '' ]
+# No source
+  - name: 'DLCHorseArmor_SlofNightmareEssential.esp'
+    url: [ '' ]
+# No source
+  - name: 'DLCHorseArmor+Qarl''sHarvest+ArmoredImperialHorses.esp'
+    url: [ '' ]
+# No source
+  - name: 'DLCHorseArmor+Qarl''sHarvest+Slof''sBase+Accessories.esp'
+    url: [ '' ]
+# No source
+  - name: 'DLCHorseArmor+SBLite+QarlsHarvest.esp'
+    url: [ '' ]
+# No source
+  - name: 'DLCHorseArmor+SBLite.esp'
+    url: [ '' ]
+# No source
+  - name: 'DLCHorseArmor+Slof''sBase+Accessories.esp'
+    url: [ '' ]
+# No source
+  - name: 'DLCHorseArmor+ArmoredImperialSlofsHorses.esp'
+    url: [ '' ]
+# No source
+  - name: 'DLCHorseArmor+Accessories.esp'
+    url: [ '' ]
   - name: 'Shadow Steed.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/8050' ]
   - name: 'TJ_HorseNames.esp'
@@ -712,16 +1328,46 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/3352' ]
   - name: 'Mounted_Spellcasting.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/8962' ]
+# No source
+  - name: 'NV Imperial Guard Horse Armour.esp'
+    url: [ '' ]
   - name: 'Horse Management.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/46021' ]
   - name: 'qazHorseCommand -horsearmor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/7481' ]
+# No source
+  - name: 'MD_FasterHorseTurning.esp'
+    url: [ '' ]
+# No source
+  - name: 'Faster_Turning_Horses.esp'
+    url: [ '' ]
+# No source
+  - name: 'HorsesTurnFaster.esp'
+    url: [ '' ]
   - name: 'HorseTurnSpeed-Faster.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/27967' ]
   - name: 'HorseTurnSpeed-Fast.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/27967' ]
   - name: 'HorseTurnSpeed-Fastest.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/27967' ]
+# No source
+  - name: '974-Faster Turning Horses-TESSource.esp'
+    url: [ '' ]
+# No source
+  - name: 'Legion''s Horses Armored With Slof''s Horse Bases.esp'
+    url: [ '' ]
+# No source
+  - name: 'Ride_Wild_Horses_2.0.esp'
+    url: [ '' ]
+# No source
+  - name: 'Rund ums Pferd.esp'
+    url: [ '' ]
+# No source
+  - name: 'Rund ums Streitross.esp'
+    url: [ '' ]
+# No source
+  - name: 'Faster Horses.esp'
+    url: [ '' ]
   - name: 'RealBanditsAndHighwaymen.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/30860' ]
   - name: 'RealBanditsAndHighwaymenHigherlevel.esp'
@@ -744,26 +1390,98 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/9412' ]
   - name: 'Slof''s Oblivion Robe Trader.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/48973' ]
+# No source
+  - name: 'Cobl Main RUS.esp'
+    url: [ '' ]
+# No source
+  - name: 'OC+COBL Luggage Patch.esp'
+    url: [ '' ]
   - name: 'FF_Real_Thirst, Cobl.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/15168' ]
   - name: 'COBL-FransCre.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/17603' ]
   - name: 'COBL-FransNewCre.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/17603' ]
+# No source
+  - name: 'GM-PISC.esp'
+    url: [ '' ]
+# No source
+  - name: 'Cheat Bob''s Armory Oblivion.esp'
+    url: [ '' ]
+# No source
+  - name: 'Loth''s Blunt Weapons(- Mobs)?\.esp'
+    url: [ '' ]
   - name: 'Oblivion WarCry.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/45570' ]
+# No source
+  - name: 'OOO-DaedricLord_Quests.esp'
+    url: [ '' ]
+# No source
+  - name: 'OOO-Thief_Guild_Difficult.esp'
+    url: [ '' ]
+# No source
+  - name: 'OOO132RC3Hotfixes.esp'
+    url: [ '' ]
+# No source
+  - name: 'OOO132RC3MapMarkers.esp'
+    url: [ '' ]
+# No source
+  - name: 'OOO-LightOfDawnFlamesWhenDrawnOBSE.esp'
+    url: [ '' ]
+# No source
+  - name: 'OOO-LightOfDawnAlwaysFlames.esp'
+    url: [ '' ]
+# No source
+  - name: 'a4sFlamingNightmare-OOO.esp'
+    url: [ '' ]
+# No source
+  - name: 'Alluring Potion Bottles.esp'
+    url: [ '' ]
+# No source
+  - name: 'Alluring Potion Bottles v2.esp'
+    url: [ '' ]
+# No source
+  - name: 'Alluring Potion Bottles v3OOO.esp'
+    url: [ '' ]
   - name: 'Gold Smelting.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/28935' ]
+# No source
+  - name: 'Hemingweys FCOM NPC Capes Improved IC Guards.esp'
+    url: [ '' ]
+# No source
+  - name: 'RealitySpectreStars2HeavenBetterPotionsOOOEffects.esp'
+    url: [ '' ]
+# No source
+  - name: 'AGEHA Tortured Souls OOO.esp'
+    url: [ '' ]
+# No source
+  - name: 'C&C&EQR - OOO.esp'
+    url: [ '' ]
+# No source
+  - name: 'DEJ Harvest - Containers [Combo] v0.99.08.esp'
+    url: [ '' ]
   - name: 'MTCDirtierBandits.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/30144' ]
   - name: 'Choices and Consequences - MMM.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/14560' ]
+# No source
+  - name: 'C&C&EQR - MMM.esp'
+    url: [ '' ]
+# No source
+  - name: 'MMM - UberhulkParalyzeFix.esp'
+    url: [ '' ]
+# No source
+  - name: 'Gems and Gem Dusts - MMM.esp'
+    url: [ '' ]
   - name: 'OblivionDurzogs.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/22239' ]
   - name: 'Diverse Wisps - for Vanilla.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/25001' ]
   - name: 'VASE - Vanilla Cyrodiil.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/28186' ]
+# No source
+  - name: 'Spiders Addon.esp'
+    url: [ '' ]
   - name: 'Arachnophobia-2343.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/2343' ]
   - name: 'RTSNoZombies.esp'
@@ -782,6 +1500,27 @@
     url:
       - 'https://www.nexusmods.com/oblivion/mods/36260'
       - 'https://www.nexusmods.com/oblivion/mods/39202'
+# No source
+  - name: 'OWC - VanillaPotion.esp'
+    url: [ '' ]
+# No source
+  - name: 'OWC - SignModel.esp'
+    url: [ '' ]
+# No source
+  - name: 'OWC - SignModelwon.esp'
+    url: [ '' ]
+# No source
+  - name: 'OWC - ArenaItems.esp'
+    url: [ '' ]
+# No source
+  - name: 'OWC - VanillaRaceNPC.esp'
+    url: [ '' ]
+# No source
+  - name: 'OWC - FenektoKhajiit.esp'
+    url: [ '' ]
+# No source
+  - name: 'OWC - KelbQuenitoArgonian.esp'
+    url: [ '' ]
   - name: 'TamrielTravellers.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/4387' ]
   - name: 'TamrielTravellers4MMM.esp'
@@ -806,14 +1545,53 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/16407' ]
   - name: 'Choices and Consequences - FCOM - Diverse Guards.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/14560' ]
+# No source
+  - name: 'Cobl Patch - MMM Gems and Gem Dust.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC - ItemLootFix4v1.0bTIE.esp'
+    url: [ '' ]
   - name: 'AFK_Tweaks.esp'
     url: [ 'https://www.afkmods.com/index.php?/files/file/533-afk_tweaks' ]
   - name: 'T.I.E4MODS.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/18138' ]
   - name: 'T.I.E4MODSOOO+FCOM.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/18138' ]
+# No source
+  - name: 'TIE In - FranLeveledItems.esp'
+    url: [ '' ]
+# No source
+  - name: 'TIE In - WarCry.esp'
+    url: [ '' ]
+# No source
+  - name: 'TIE In - OOO.esp'
+    url: [ '' ]
+# No source
+  - name: 'TIE In - FCOM Modular.esp'
+    url: [ '' ]
+# No source
+  - name: 'TIE In - MMM.esp'
+    url: [ '' ]
+# No source
+  - name: 'TIE In - Archery.esp'
+    url: [ '' ]
+# No source
+  - name: 'TIE In - Armors.esp'
+    url: [ '' ]
+# No source
+  - name: 'TIE In - Weapons.esp'
+    url: [ '' ]
+# No source
+  - name: 'TIE In - Armory.esp'
+    url: [ '' ]
+# No source
+  - name: 'TIE In - Game Settings.esp'
+    url: [ '' ]
   - name: 'TIE Cats.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/34872' ]
+# No source
+  - name: 'Brasher''s Oblivion Overhaul.esp'
+    url: [ '' ]
   - name: 'Oblivion Intensity.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/49578' ]
   - name: 'Choices and Consequences - FCOM.esp'
@@ -828,20 +1606,113 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/2335' ]
   - name: 'Legion Shield Replacer - OOO.esp'
     url: [ 'http://tesalliance.org/forums/index.php?/files/file/748-legion-shield-replacer' ]
+# No source
+  - name: 'Jade Dishes for MMM - HnC.esp'
+    url: [ '' ]
+# No source
+  - name: 'LoadingScreens_OOO.esp'
+    url: [ '' ]
   - name: 'KDCircletsOOOOptimized - Loot Only.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/10670' ]
   - name: 'RustyItems for OOO.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/13302' ]
+# No source
+  - name: 'OOOPekImperialHorseArmor.esp'
+    url: [ '' ]
+# No source
+  - name: 'MMM Goblin Assassin Fix.esp'
+    url: [ '' ]
   - name: 'BladesSmithySTANDARD.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/8950' ]
+# No source
+  - name: 'OOO_ThievesGuildFix.esp'
+    url: [ '' ]
   - name: 'OOO-Lockfix.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/12847' ]
+# No source
+  - name: 'HGEC_special_armor_repl_for_OOO.esp'
+    url: [ '' ]
   - name: 'Diverse Imperial Armor v1.1.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/6452' ]
   - name: 'Adventurers_1.0.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/4025' ]
   - name: 'un-leveled-shops.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/3507' ]
+# No source
+  - name: 'WAC - ItemLootFix4v1\.0b(Fran|OOO|MMM|MMMorFCOM|OWCND|VNT)?\.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC - ItemLootFix4v1.0bOWCND.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC OgrePatch.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC v1 BulkyMonsters.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC Giants Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC GiantPatch plus.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC BM plus.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC MinotaurPatch plus.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC - OverSpawn4OOO.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC - OverSpawn4v1.0bOWCND.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC - OverSpawn4v1.0bOWCND ILF.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC HorsePath v1.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC - TCOS Invent only.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC - TCOSFix.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC - Legion_FemaleFix.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC - QuietFeet.esp'
+    url: [ '' ]
+# No source
+  - name: 'WACESM_MiscItemsRebal.esp'
+    url: [ '' ]
+# No source
+  - name: 'WACESM_Ingredients_Rebalance.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC-OOO.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC - Cat Crash Fix.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC - Female Armor Refine -No Low Body.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC - Female Armor Refine.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC - HGEC Equipment Replacer.esp'
+    url: [ '' ]
+# No source
+  - name: 'beardy.esp'
+    url: [ '' ]
+# No source
+  - name: 'FCOM 300_Resource.esp'
+    url: [ '' ]
   - name: 'Skyrimesque Counts and Countesses.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/43420' ]
   - name: 'CNRP Brumav02.esp'
@@ -854,6 +1725,15 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/21628' ]
   - name: 'CNRP DB.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/28027' ]
+# No source
+  - name: 'CNPR DB for OOO.esp'
+    url: [ '' ]
+# No source
+  - name: 'CNRP DB for OOO.esp'
+    url: [ '' ]
+# No source
+  - name: 'CNRP FB for OOO.esp'
+    url: [ '' ]
   - name: 'CNRP Cheydinhal.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/24509' ]
   - name: 'CNRP Cheydinhal4OOO.esp'
@@ -862,6 +1742,9 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/22884' ]
   - name: 'CNRP FightersGuild4OOO.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/22884' ]
+# No source
+  - name: 'CNRP.esp'
+    url: [ '' ]
   - name: 'DrI_Poisons.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/18667' ]
   - name: 'dangerous wilderness.esp'
@@ -878,8 +1761,14 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/29161' ]
   - name: 'IABaneOils (Wimpy|1000|500|250|100)\.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/21620' ]
+# No source
+  - name: 'Modified Bandits.esp'
+    url: [ '' ]
   - name: 'Morrowind_ob.esp'
     url: [ 'http://morroblivion.com/forums/morroblivion/mods/753' ]
+# No source
+  - name: 'Morroblivion_Chargen_And_Transport_Mod_v6.esp'
+    url: [ '' ]
   - name: 'Morroblivion item rebalance.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/39710' ]
   - name: 'Enhanced Quest Roleplaying.esp'
@@ -888,6 +1777,15 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/30827' ]
   - name: 'Suliin V1.2.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/42749' ]
+# No source
+  - name: 'Quelldorf 1.5.esp'
+    url: [ '' ]
+# No source
+  - name: 'Quelldorf ohne Schiff1.5.esp'
+    url: [ '' ]
+# No source
+  - name: 'KvatchAftermath.esp'
+    url: [ '' ]
   - name: '(DC) Kvatch Watch Towers.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/19691' ]
   - name: 'Halcyon Island_LowConflict.esp'
@@ -900,6 +1798,9 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/4520' ]
   - name: 'cyrodiil transportation network 1.3 wz.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/4520' ]
+# No source
+  - name: 'Ivellon.esp'
+    url: [ '' ]
   - name: 'Cyrodiil Border Regions 1.2.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/12246' ]
   - name: 'TalosBridgeGateHouse.esp'
@@ -908,10 +1809,16 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/39255' ]
   - name: '001_LM_ElvenGardenRetreat.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/31772' ]
+# No source
+  - name: '007 Market district fps boost.esp'
+    url: [ '' ]
   - name: '00RBScribeSupplies Intensive.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/7155' ]
   - name: '00RBScribeSupplies02, read summary.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/7155' ]
+# No source
+  - name: '2HFluch.esp'
+    url: [ '' ]
   - name: '300_Artifacts.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/2732' ]
   - name: '7roads.esp'
@@ -930,16 +1837,55 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/13257' ]
   - name: 'AdenseEpicDungeon.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/27520' ]
+# No source
+  - name: 'AdenseEpicDungeon1_1.esp'
+    url: [ '' ]
+# No source
+  - name: 'AdenseEpicDungeon1_2.esp'
+    url: [ '' ]
+# No source
+  - name: 'AdenseEpicDungeon1_3.esp'
+    url: [ '' ]
+# No source
+  - name: 'AdenseEpicDungeon1_4.esp'
+    url: [ '' ]
+# No source
+  - name: 'AdenseEpicDungeon1_5.esp'
+    url: [ '' ]
   - name: 'Aetheric Cuteblade.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/41246' ]
   - name: 'A Family Problem.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/36773' ]
+# No source
+  - name: 'AGC-TARDISoutside.esp'
+    url: [ '' ]
+# No source
+  - name: 'AGC-TARDISinside.esp'
+    url: [ '' ]
   - name: 'Akiviri Imports MOBS.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/13924' ]
+# No source
+  - name: 'AkavirLegendsREs.esp'
+    url: [ '' ]
+# No source
+  - name: 'AkavirLegends - Patch & Fix.esp'
+    url: [ '' ]
   - name: 'Alastus.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/42282' ]
+# No source
+  - name: 'Alexis_Magiergilde.esp'
+    url: [ '' ]
+# No source
+  - name: 'Albae+Gefährten.esp'
+    url: [ '' ]
   - name: 'Ald-Khull.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/38009' ]
+# No source
+  - name: 'Alkwynd.esp'
+    url: [ '' ]
+# No source
+  - name: 'All New House.esp'
+    url: [ '' ]
   - name: 'Astralis.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/41311' ]
   - name: 'AlchemistsCave-COBL.esp'
@@ -950,14 +1896,38 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/29834' ]
   - name: 'allinonebasement(_COBLnoCM)?\.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/29834' ]
+# No source
+  - name: 'AyleidQuest.esp'
+    url: [ '' ]
   - name: 'Amajor7 Imperial Furniture.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/4703' ]
   - name: 'Alternative Entrances.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/37848' ]
+# No source
+  - name: 'Amen''thalas for Cobl, for SI.esp'
+    url: [ '' ]
+# No source
+  - name: 'Amen''thalas for Cobl, non-SI.esp'
+    url: [ '' ]
+# No source
+  - name: 'Amen''thalas non-Cobl, for SI.esp'
+    url: [ '' ]
+# No source
+  - name: 'Amen''thalas non-Cobl, non-SI.esp'
+    url: [ '' ]
+# No source
+  - name: 'AmVampireRing.esp'
+    url: [ '' ]
   - name: 'Ancient Ruins - Ayleid Edition.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/31734' ]
+# No source
+  - name: 'AnavirsPool.esp'
+    url: [ '' ]
   - name: 'AnvilBayExpansion.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/10080' ]
+# No source
+  - name: 'AnvilBayMisteryHouse.esp'
+    url: [ '' ]
   - name: 'Anvil_MorningGloryBetterCities_(Blue|Orange|Purple|Mixed)\.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/19039' ]
   - name: 'Aqua_City_01.esp'
@@ -966,16 +1936,31 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/30962' ]
   - name: 'Archer Shop Ver. 4.2.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/28608' ]
+# No source
+  - name: 'ArchersLodge.esp'
+    url: [ '' ]
   - name: 'ArchersLodge1.1.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/27763' ]
   - name: 'Arkshtrumz.esp'
     url: [ 'http://www.theassimilationlab.com/forums/files/file/1451-arkshtrumz-ev' ]
   - name: 'Armageddon.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/37487' ]
+# No source
+  - name: 'Artifacts of the Ancestors.esp'
+    url: [ '' ]
   - name: 'Artefacts of the Ancestors.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/7079' ]
   - name: 'Artefakte der Ahnen.esp'
     url: [ 'https://www.elderscrollsportal.de/ressourcen/artefakte-der-ahnen.249' ]
+# No source
+  - name: 'ArtifactsforArmaComplete.esp'
+    url: [ '' ]
+# No source
+  - name: 'Artifacts for ArmaComplete.esp'
+    url: [ '' ]
+# No source
+  - name: 'dmra_bbb_artifacts.esp'
+    url: [ '' ]
   - name: 'DMRA BBB Artifacts Complete.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/42417' ]
   - name: 'AraenyaRealm.esp'
@@ -990,6 +1975,9 @@
     url:
       - 'https://www.nexusmods.com/oblivion/mods/27730'
       - 'https://www.nexusmods.com/oblivion/mods/28558'
+# No source
+  - name: 'AuriCloudRulerAddons.esp'
+    url: [ '' ]
   - name: 'Automagicon.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/31543' ]
   - name: 'Automagicon_Cobl.esp'
@@ -1012,12 +2000,48 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/47300' ]
   - name: 'Benirus Manor Remade.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/12715' ]
+# No source
+  - name: 'Better Abandoned House - Interior Only.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Abandoned House - Complete.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Benirus Manor - Complete - AN-II Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Benirus Manor for Cobl - Complete - AN-II Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Benirus Manor - Interior Only - AN-II Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Benirus Manor for Cobl - Interior Only - AN-II Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Black_ocean.esp'
+    url: [ '' ]
   - name: 'BladeOfTheHaunted.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/33089' ]
+# No source
+  - name: 'BladeOfTheHauntedDV.esp'
+    url: [ '' ]
+# No source
+  - name: 'Blade Of Shai''tan.esp'
+    url: [ '' ]
   - name: 'BladeSong.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/49657' ]
+# No source
+  - name: 'BD&R - Laughing Maw.esp'
+    url: [ '' ]
+# No source
+  - name: 'BD&R - Deepgrave.esp'
+    url: [ '' ]
   - name: 'Bjornheim.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/6480' ]
+# No source
+  - name: 'Blacktache''s Secrets 3.esp'
+    url: [ '' ]
   - name: 'BossPhaitCrab.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/38965' ]
   - name: 'BossPhaitDismal.esp'
@@ -1028,6 +2052,12 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/10126' ]
   - name: 'HackdirtTheDeepOnes.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/36224' ]
+# No source
+  - name: 'DeepHackdairt.esp'
+    url: [ '' ]
+# No source
+  - name: 'Bullock.esp'
+    url: [ '' ]
   - name: 'BuryCorpse.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/43134' ]
   - name: 'Butcher.esp'
@@ -1044,8 +2074,17 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/27926' ]
   - name: 'Castle Arpenia - Colovian Highlands.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/26709' ]
+# No source
+  - name: 'Castle.bedwyr 0.9.1.esp'
+    url: [ '' ]
   - name: 'CastleInTheMountain.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/9408' ]
+# No source
+  - name: 'CaveOfLostSouls V1.esp'
+    url: [ '' ]
+# No source
+  - name: 'Chateau_Domrose_V.1.2.1-Fr.esp'
+    url: [ '' ]
   - name: 'Castle_Dunkerlore_V1.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/6507' ]
   - name: 'CastleLegacy_V2.esp'
@@ -1062,6 +2101,9 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/8722' ]
   - name: 'Comp_Cecilia.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/9252' ]
+# No source
+  - name: 'ConLoGnollkuppeMod.esp'
+    url: [ '' ]
   - name: 'The Contented Prisoner V 2.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/17498' ]
   - name: 'TCP Silence remover.esp'
@@ -1088,12 +2130,24 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/6875' ]
   - name: 'CompleteMagePack.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/8385' ]
+# No source
+  - name: 'Companion Gate.esp'
+    url: [ '' ]
+# No source
+  - name: 'Companion Gate_Load.esp'
+    url: [ '' ]
   - name: 'CV - Templar Fortress.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/36364' ]
   - name: 'Daedric Armor of Darkness.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/29152' ]
+# No source
+  - name: 'Daemonengruft.esp'
+    url: [ '' ]
   - name: 'DarelothFrontDoorFix.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/33119' ]
+# No source
+  - name: 'Dark Brotherhood Outpost v2.esp'
+    url: [ '' ]
   - name: 'Dark Brotherhood Outpost v3.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/13277' ]
   - name: 'DarkQuest.esp'
@@ -1110,8 +2164,17 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/38017' ]
   - name: 'DibellaTempleWillowLakeVillagev1.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/13285' ]
+# No source
+  - name: 'Delivery Job - BC.esp'
+    url: [ '' ]
   - name: 'DJ Markov Manor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/5313' ]
+# No source
+  - name: 'DMwardropemerged.esp'
+    url: [ '' ]
+# No source
+  - name: 'DMwardropemergednoenchant.esp'
+    url: [ '' ]
   - name: 'DragonInvasion.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/13453' ]
   - name: 'DruidsTree.esp'
@@ -1124,6 +2187,15 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/6886' ]
   - name: 'Dwarven Mines.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/22268' ]
+# No source
+  - name: 'dungeon.esp'
+    url: [ '' ]
+# No source
+  - name: 'Dungeons.esp'
+    url: [ '' ]
+# No source
+  - name: '[Keias]Dungeon Of Chaos.esp'
+    url: [ '' ]
   - name: 'Edhildils Underdark.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/37671' ]
   - name: 'Eggs of History.esp'
@@ -1136,6 +2208,12 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/14862' ]
   - name: '_Faithless_EV.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/41068' ]
+# No source
+  - name: 'FHWS.esp'
+    url: [ '' ]
+# No source
+  - name: 'Fort Ferrion.esp'
+    url: [ '' ]
   - name: 'FiveBlindMiceBeta.esp'
     url:
       - 'https://www.nexusmods.com/oblivion/mods/24580'
@@ -1156,8 +2234,17 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/33984' ]
   - name: 'Gift of Kynareth.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/7825' ]
+# No source
+  - name: 'Giskards Tales From the Tomb.esp'
+    url: [ '' ]
+# No source
+  - name: 'Gold Coast''s Hillsborough Estate.esp'
+    url: [ '' ]
   - name: 'GoldenCrest.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/33626' ]
+# No source
+  - name: 'HauntedHouse v1.3.esp'
+    url: [ '' ]
   - name: 'HauntedHouse v1.4.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/16879' ]
   - name: 'Haunted_House_v1.5.esp'
@@ -1168,26 +2255,53 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/12004' ]
   - name: 'HauntedHouse.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/13699' ]
+# No source
+  - name: 'Hentai ManiaC.esp'
+    url: [ '' ]
+# No source
+  - name: 'Hentai Mania addon Break Undies.esp'
+    url: [ '' ]
   - name: 'OOO_Hentai Mania.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/33339' ]
   - name: 'MMM_Hentai Mania.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/33339' ]
   - name: 'FCOM_Hentai Mania.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/33339' ]
+# No source
+  - name: 'Hentai_mania_statuetki.esp'
+    url: [ '' ]
   - name: 'HilltopLodge.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/42119' ]
   - name: 'Holy Cathedral.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/25312' ]
+# No source
+  - name: 'SB IC Palace Tower Light Mod v1.1 - Constant Yellow Light.esp'
+    url: [ '' ]
+# No source
+  - name: 'SB IC Palace Tower Light Mod v1.1 - Flicker Yellow Light.esp'
+    url: [ '' ]
+# No source
+  - name: 'SB IC Palace Tower Light Mod v1.1 - Pulse Yellow Light.esp'
+    url: [ '' ]
   - name: 'Imperial_City_Cave_House-9473.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/9473' ]
   - name: 'Imperial City Manor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/27818' ]
+# No source
+  - name: 'ImpeREAL Empire - Unique Castles.esp'
+    url: [ '' ]
   - name: 'IC Market District  malachi delacot.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/29449' ]
   - name: 'ImpeREAL City Unique Districts - .*\.esp'  # Over 40 plugin variations, so favouring brevity over specificity.
     url: [ 'https://www.nexusmods.com/oblivion/mods/19589' ]
   - name: 'ImpeREAL City Unique Districts - All the Districts - Merged.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/19589' ]
+# No source
+  - name: 'ImprovedChorrol.esp'
+    url: [ '' ]
+# No source
+  - name: 'Improved Skingrad.esp'
+    url: [ '' ]
   - name: 'IC Atmospheric Shops Mod.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/27973' ]
   - name: 'Dirtier Waterfront.esp'
@@ -1196,6 +2310,9 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/4212' ]
   - name: 'Improved dungeons.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/29378' ]
+# No source
+  - name: 'In Sachen Ayleiden.esp'
+    url: [ '' ]
   - name: 'Insomonias Ruins.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/38426' ]
   - name: 'JADICMothPriests.esp'
@@ -1209,18 +2326,51 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/3868' ]
   - name: 'Jail Break Escape Routes.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/39385' ]
+# No source
+  - name: 'JolardHome.esp'
+    url: [ '' ]
+# No source
+  - name: 'JQ-AssassinQuest.esp'
+    url: [ '' ]
   - name: 'Jade_Manor V1.26.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/17455' ]
+# No source
+  - name: 'kingdomofAlmar.esp'
+    url: [ '' ]
   - name: 'Knights abode.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/36095' ]
+# No source
+  - name: '300_White Stallion+SB23.esp'
+    url: [ '' ]
+# No source
+  - name: 'Feudal Empire 300.esp'
+    url: [ '' ]
   - name: '300 Feudal Empire.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/22678' ]
+# No source
+  - name: 'Kvatch Rebuilt - Leveled Guards - FCOM.esp'
+    url: [ '' ]
+# No source
+  - name: 'All Natural - Kvatch Rebuilt Weather Patch.esp'
+    url: [ '' ]
   - name: 'KvatchCastleMakeover.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/23566' ]
+# No source
+  - name: 'KvatchRising.esp'
+    url: [ '' ]
+# No source
+  - name: 'Gold Road Cottage - Classy.esp'
+    url: [ '' ]
+# No source
+  - name: 'Gold Road Cottage - Rugged.esp'
+    url: [ '' ]
   - name: 'EiAmod.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/21816' ]
   - name: 'Lady Stone Villa.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/39113' ]
+# No source
+  - name: 'Lady Stone Villa ULCompatable.esp'
+    url: [ '' ]
   - name: 'Legacy of Faran.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/42883' ]
   - name: 'Legends - Baleful Eye.esp'
@@ -1233,14 +2383,35 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/8235' ]
   - name: 'LetThePeopleDrink.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/10223' ]
+# No source
+  - name: 'LetThePeopleDrink-Cobl.esp'
+    url: [ '' ]
+# No source
+  - name: 'LetThePeopleDrink-fountainonly.esp'
+    url: [ '' ]
+# No source
+  - name: 'LetThePeopleDrink-fountainonly-Cobl.esp'
+    url: [ '' ]
+# No source
+  - name: 'LeyawiinPort-AlphaRelease.esp'
+    url: [ '' ]
   - name: 'Litterbug.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/39121' ]
   - name: 'Locked Doors and Knocking v1.02.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/24218' ]
+# No source
+  - name: 'Lost_Happ.esp'
+    url: [ '' ]
   - name: 'LostSwordOfTheAylied.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/20184' ]
+# No source
+  - name: 'Lycanmoon.esp'
+    url: [ '' ]
   - name: 'Lycanthrope.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/23599' ]
+# No source
+  - name: 'Lycanthrope v1.0.esp'
+    url: [ '' ]
   - name: 'Lycanthrope 2.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/23597' ]
   - name: 'MasterQuestUltimateDungeon.esp'
@@ -1255,18 +2426,27 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/40378' ]
   - name: 'Mage''sSkyHouse.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/35097' ]
+# No source
+  - name: 'Martin.esp'
+    url: [ '' ]
   - name: 'Mag1cWind0w_The_Imperial_Water.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/25804' ]
   - name: 'The Imperial Water.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/25804' ]
   - name: 'The Imperial Water - BETTER CITIES.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/25804' ]
+# No source
+  - name: 'Mansion of Champions.esp'
+    url: [ '' ]
   - name: 'MapleoakRetreat.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/35741' ]
   - name: 'marodan_osdakal.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/45272' ]
   - name: 'Mimics!.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/17254' ]
+# No source
+  - name: 'MisticheskijOsobnyak.esp'
+    url: [ '' ]
   - name: 'MountainShackR12.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/22846' ]
   - name: 'MountainShackR121.esp'
@@ -1281,36 +2461,126 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/7593' ]
   - name: 'Your_Personal_Museum_Updated-9300.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/9300' ]
+# No source
+  - name: 'Malamath.esp'
+    url: [ '' ]
+# No source
+  - name: 'MvCQuellArkadiensEV.esp'
+    url: [ '' ]
   - name: 'mystery of mausoleum.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/31610' ]
   - name: 'Mysterious Bear''s Ramshackle Armory.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/38136' ]
+# No source
+  - name: 'Myths and Legends.esp'
+    url: [ '' ]
+# No source
+  - name: 'Nagrons Berg-Pagode.esp'
+    url: [ '' ]
   - name: 'Nanaelas Heartbreak.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/13687' ]
   - name: 'NecromancerHunting.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/29562' ]
+# No source
+  - name: 'New Anvil Flora.esp'
+    url: [ '' ]
+# No source
+  - name: 'New Imperial City.esp'
+    url: [ '' ]
   - name: 'New_Sheoth_Palace_LOD_fix-10076.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/10076' ]
+# No source
+  - name: 'NEW SHEOTH PALACE LOD FIX-TESSource.esp'
+    url: [ '' ]
+# No source
+  - name: 'NewMGQuests.esp'
+    url: [ '' ]
+# No source
+  - name: 'Niflheim.esp'
+    url: [ '' ]
   - name: 'NordRuins.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/40621' ]
   - name: 'Northern Front.esp'
     url:
       - 'https://www.nexusmods.com/oblivion/mods/33127'
       - 'https://www.nexusmods.com/oblivion/mods/41461'
+# No source
+  - name: 'NNWARE2.esp'
+    url: [ '' ]
+# No source
+  - name: 'NNWARE Series 1.esp'
+    url: [ '' ]
+# No source
+  - name: 'NNWAREAyleidDungeons_Series1EV.esp'
+    url: [ '' ]
+# No source
+  - name: 'NNWARE01EV-Sercen.esp'
+    url: [ '' ]
+# No source
+  - name: 'NNWARE02EV-Trumbe.esp'
+    url: [ '' ]
+# No source
+  - name: 'NNWARE03EV-Piukanda.esp'
+    url: [ '' ]
+# No source
+  - name: 'NNWARE04EV-Veyond.esp'
+    url: [ '' ]
+# No source
+  - name: 'NNWARE05EV-Bawn.esp'
+    url: [ '' ]
+# No source
+  - name: 'NNWARE01-Sercen.esp'
+    url: [ '' ]
+# No source
+  - name: 'NNWARE02-Trumbe.esp'
+    url: [ '' ]
+# No source
+  - name: 'NNWARE03-Piukanda.esp'
+    url: [ '' ]
+# No source
+  - name: 'NNWARE04-Veyond.esp'
+    url: [ '' ]
+# No source
+  - name: 'NNWARE05-Bawn.esp'
+    url: [ '' ]
+# No source
+  - name: 'Gates To Aesgaard Weather Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'GTAesgaard 1and2 Delayer.esp'
+    url: [ '' ]
+# No source
+  - name: 'GTAesgaard I-II Delayer.esp'
+    url: [ '' ]
   - name: 'OgramiradsUnmarkedPlaces.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/21359' ]
   - name: 'OMPexample.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/5246' ]
+# No source
+  - name: 'Order of the Virtuous Blood Expanded v0.1.esp'
+    url: [ '' ]
   - name: 'ThePaleAdventurer.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/27480' ]
   - name: 'Passwall Adventurers Club.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/34103' ]
+# No source
+  - name: 'Pats Business Mod---Shop Version 1.6.esp'
+    url: [ '' ]
+# No source
+  - name: 'Pats Business Mod---Shop Version 2.0.esp'
+    url: [ '' ]
   - name: 'Pats Business Mod.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/9310' ]
   - name: 'PearlFarm.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/38032' ]
   - name: 'Pek_Halls_of_The_Phoenix_Order.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/6846' ]
+# No source
+  - name: 'Pine Lodge.esp'
+    url: [ '' ]
+# No source
+  - name: 'Princess Passwall Home.esp'
+    url: [ '' ]
   - name: 'Punk Stevo - Brutal Underground.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/39877' ]
   - name: 'Qaja''kar.esp'
@@ -1327,12 +2597,18 @@
     url: [ 'https://www.moddb.com/mods/the-chronicles-of-reeb-working-title/downloads/the-chronicles-of-reeb' ]
   - name: 'Quest For The Elements.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/6974' ]
+# No source
+  - name: 'Ravenrock.esp'
+    url: [ '' ]
   - name: 'Ranokoas City Stealth Exits.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/24894' ]
   - name: 'rebornaylieds.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/20121' ]
   - name: 'MTCVillages-LakeRumarePatch.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/42098' ]
+# No source
+  - name: 'RealmofRuun.esp'
+    url: [ '' ]
   - name: 'Return Of Shadows.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/29087' ]
   - name: 'Ricks CIP ICTalosPlaza.esp'
@@ -1359,28 +2635,55 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/32118' ]
   - name: 'Secrets-UL edition.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/32118' ]
+# No source
+  - name: 'SenTineL''s Legendary Weapons And Armors 1.0.esp'
+    url: [ '' ]
+# No source
+  - name: 'SenTineL''s Legendary Weapons And Armors_[AC][EU]\.esp'
+    url: [ '' ]
   - name: 'ShadowRose Manor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/42923' ]
   - name: 'CMWaterskin.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/32361' ]
+# No source
+  - name: 'Sheogoraths_Accords_of_Madness.esp'
+    url: [ '' ]
+# No source
+  - name: 'Silgrad_Tower.esp'
+    url: [ '' ]
   - name: 'Silvercliff.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/29420' ]
   - name: 'Skingrad Market 1.0.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/20684' ]
+# No source
+  - name: 'Skyrim Draugr Canyon.esp'
+    url: [ '' ]
+# No source
+  - name: 'Skyrim Draugr Canyon Deutsch.esp'
+    url: [ '' ]
   - name: 'SkyrimObservatory.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/36128' ]
   - name: 'Slappy''s Wigs v1.0.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/10155' ]
   - name: 'SocietyoftheAtronach.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/32677' ]
+# No source
+  - name: 'SoulGoddness.esp'
+    url: [ '' ]
   - name: 'Spirit''s Edge.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/17718' ]
   - name: 'sunk ships.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/13467' ]
   - name: 'Sins_of_the_Dream.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/28251' ]
+# No source
+  - name: 'SSS_1.0.esp'
+    url: [ '' ]
   - name: 'Steve - Hitman.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/25989' ]
+# No source
+  - name: 'stWorldMonsters.esp'
+    url: [ '' ]
   - name: 'Sylar_INNMergedCyrodillInnsRevisedV1.1.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/29333' ]
   - name: 'BetterInns + NewHomeOwners.esp'
@@ -1393,6 +2696,12 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/20105' ]
   - name: 'Tantrivaylia.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/29081' ]
+# No source
+  - name: 'templars.esp'
+    url: [ '' ]
+# No source
+  - name: 'TheAltadoonPuzzle.esp'
+    url: [ '' ]
   - name: 'TheHole.esp'
     url:
     - 'https://www.nexusmods.com/oblivion/mods/40950'
@@ -1411,16 +2720,34 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/40761' ]
   - name: 'The Temple of Medusa.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/37505' ]
+# No source
+  - name: 'The Temple of The Sleeper.esp'
+    url: [ '' ]
   - name: 'Templar Fighters Guild.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/40929' ]
+# No source
+  - name: 'Temple_Of_Zealots.esp'
+    url: [ '' ]
+# No source
+  - name: 'TempleOfZealots.esp'
+    url: [ '' ]
   - name: 'CDEP_FanaCeya.esp'
     url:
       - 'https://www.nexusmods.com/oblivion/mods/14036'
       - 'https://www.nexusmods.com/oblivion/mods/43005'
+# No source
+  - name: 'The Dragon Citadel.esp'
+    url: [ '' ]
+# No source
+  - name: 'All Natural - Real Lights - The Ayleid Steps Patch.esp'
+    url: [ '' ]
   - name: 'Ayleid Respawn v1.0 - For The Ayleid Steps.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/24416' ]
   - name: 'The Black Sacrament.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/21808' ]
+# No source
+  - name: 'The Crazy Scientist.esp'
+    url: [ '' ]
   - name: 'TheForgottenRealm.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/35696' ]
   - name: 'The forgotten Castle.esp'
@@ -1433,20 +2760,35 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/23970' ]
   - name: 'TLC2.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/31957' ]
+# No source
+  - name: 'TheElderCouncil_TempleOfTheOne.esp'
+    url: [ '' ]
   - name: 'TheForgottenShields.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/13707' ]
+# No source
+  - name: 'Thermae.esp'
+    url: [ '' ]
   - name: '__thermae_CustomVisitor.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/42709' ]
+# No source
+  - name: 'TheRunesOfThu''um.esp'
+    url: [ '' ]
   - name: 'TheStorytellersBrotherQuest.esp'
     url:
       - 'https://www.nexusmods.com/oblivion/mods/3415'
       - 'http://www.nexusmods.com/oblivion/mods/7809'
   - name: 'The Vertueux.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/36087' ]
+# No source
+  - name: 'TiansAyla_NNW.esp'
+    url: [ '' ]
   - name: 'ToiletMod.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/42472' ]
   - name: 'TolawaylAyleidCity_Quest.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/11526' ]
+# No source
+  - name: 'tomb-of-quintillus.esp'
+    url: [ '' ]
   - name: 'Tomb of the Unknown Knight.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/6935' ]
   - name: 'Tona''s_ModsStore.esp'
@@ -1463,12 +2805,24 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/25839' ]
   - name: 'Trails of Cyrodiil North Short Cut.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/35297' ]
+# No source
+  - name: 'Tramps.esp'
+    url: [ '' ]
+# No source
+  - name: 'TR_Stirk_v0.9.esp'
+    url: [ '' ]
   - name: 'TR_Stirk.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/22401' ]
   - name: 'Stirk_Compatibility_Patch.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/22401' ]
+# No source
+  - name: 'Stirk_Compatibility_Patch(removes ship from anvil harbor).esp'
+    url: [ '' ]
   - name: 'Trashdog''s SPB Heavy AB Shop.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/36546' ]
+# No source
+  - name: 'treasure maps v1.esp'
+    url: [ '' ]
   - name: 'Treasure Maps-UL edition.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/41987' ]
   - name: 'Treasure Maps compilation-UL edition.esp'
@@ -1485,16 +2839,25 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/41987' ]
   - name: 'Treasuresofthedeep.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/35044' ]
+# No source
+  - name: 'Torynwyll.esp'
+    url: [ '' ]
   - name: 'Unholy Cathedral.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/24565' ]
   - name: 'Unique Dungeons - Lichs Lair.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/19282' ]
   - name: 'Unique Dungeons - Lost Glory.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/21603' ]
+# No source
+  - name: 'Ushnar''s Re-Skinned Hound(-(Default|Atronach|Dog|Wolf))?\.esp'
+    url: [ '' ]
   - name: 'Valley_View_Estate.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/9324' ]
   - name: 'VaultsofCyrodiil.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/9357' ]
+# No source
+  - name: 'VRIceOrcMod.esp'
+    url: [ '' ]
   - name: 'Veldin.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/30670/' ]
   - name: 'Apachii_Goddess_Store.esp'
@@ -1503,14 +2866,35 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/22962' ]
   - name: 'Apachii_Wigs_MaleFemale.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/40774' ]
+# No source
+  - name: 'Vypers Arrow Spells-SI.esp'
+    url: [ '' ]
+# No source
+  - name: 'Vypers Arrow Spells.esp'
+    url: [ '' ]
   - name: 'Watchtower.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/13675' ]
+# No source
+  - name: 'Waterfront Shack.esp'
+    url: [ '' ]
   - name: 'WeaponsOfTheNine.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/7013/' ]
   - name: 'WellspringGrove.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/10407' ]
   - name: 'Witch''s Throne.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/25617' ]
+# No source
+  - name: 'Woodland-RangersDV.esp'
+    url: [ '' ]
+# No source
+  - name: 'Woodsman Home.esp'
+    url: [ '' ]
+# No source
+  - name: 'WOTFH_1.1.esp'
+    url: [ '' ]
+# No source
+  - name: 'WOTFH_1.2.esp'
+    url: [ '' ]
   - name: 'WOTFH_1.3.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/7633' ]
   - name: 'Windfall.esp'
@@ -1535,6 +2919,9 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/6369/' ]
   - name: 'Oblivion - ZOMBIE.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/13190' ]
+# No source
+  - name: '75barena.esp'
+    url: [ '' ]
   - name: 'Angel''s Arena Loot en.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/14163' ]
   - name: 'Angel''s Arena Loot rus.esp'
@@ -1547,10 +2934,19 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/13099' ]
   - name: 'Arena District Alive-JQ-FGU.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/33804' ]
+# No source
+  - name: 'Arena_BattlesV1.1.esp'
+    url: [ '' ]
+# No source
+  - name: 'Arena_BattlesV1.2.esp'
+    url: [ '' ]
   - name: 'Arena_BattlesV1.2EV.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/18113' ]
   - name: 'Arena_BattlesV1.2DV.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/18113' ]
+# No source
+  - name: 'IOM - Arena.esp'
+    url: [ '' ]
   - name: 'Visually Enhanced Arena.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/12141' ]
   - name: 'BattlehornCastleEnhanced.esp'
@@ -1561,6 +2957,18 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/42765' ]
   - name: 'sir_balin_mod.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/9140' ]
+# No source
+  - name: 'Ash''s DB Kah''Lil Quest.esp'
+    url: [ '' ]
+# No source
+  - name: 'Slof''s Oblivion Robe Trader - OOO Patch.esp'
+    url: [ '' ]
+# No Source
+  - name: 'Lynges_Thieves_Highway.esp'
+    url: [ '' ]
+# # No Source
+  - name: 'Lynges Thieves Highway.esp'
+    url: [ '' ]
   - name: 'DSoSFrostCragRebornExteriorStairsFix.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/38278' ]
   - name: 'DLCFrostcragReborn.esp'
@@ -1573,6 +2981,18 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/9769' ]
   - name: 'Knights - Book Jackets.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/27521' ]
+# No source
+  - name: 'Traduccion mejorada KoT9.esp'
+    url: [ '' ]
+# No source
+  - name: 'Oblivion_Deutsch_Patch_KotN.esp'
+    url: [ '' ]
+# No source
+  - name: 'DMRA BBB Knights of the Nine Replacer.esp'
+    url: [ '' ]
+# No source
+  - name: 'Knights_DMRA.esp'
+    url: [ '' ]
   - name: 'ROM Revised Oblivion Mod.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/33114' ]
   - name: 'ROM Patch - Knights.esp'
@@ -1585,16 +3005,28 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/33114' ]
   - name: 'ROM Patch - Bobs Armory.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/33114' ]
+# No source
+  - name: 'ROMu.esp'
+    url: [ '' ]
   - name: 'Cybiades.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/11755' ]
+# No source
+  - name: 'Cyb(Easier|Harder|Hardest)\.esp'
+    url: [ '' ]
   - name: 'Castle_Knightstone.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/11998' ]
   - name: 'TOTF.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/11598' ]
   - name: 'RTT.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/3027' ]
+# No source
+  - name: 'RTT RR Lake Rumare Patch.esp'
+    url: [ '' ]
   - name: 'Ruin.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/3027' ]
+# No source
+  - name: 'OCC-RTT-Patch.esp'
+    url: [ '' ]
   - name: 'MoreSuburbLife.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/16823/' ]
   - name: 'TOS - Prelude.esp'
@@ -1603,6 +3035,9 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/8798' ]
   - name: 'LostSpires_TheOrderofNibenay_patch.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/23657' ]
+# No source
+  - name: 'GuardsofCyrodiil.esp'
+    url: [ '' ]
   - name: 'GuardsofCyrodiilRedux.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/28586' ]
   - name: 'Mighty Umbra.esp'
@@ -1616,10 +3051,28 @@
       - 'https://www.nexusmods.com/oblivion/mods/12016'
       - 'http://www.planetoblivion.de/index.php?option=com_content&task=view&id=857&Itemid=73'
       - 'http://theelderscrolls.info/?go=dlfile&fileid=201'
+# No source
+  - name: 'Blood&Mud - EE patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'The Lost Spires_delayer.esp'
+    url: [ '' ]
+# No source
+  - name: 'Origin of the Mages Guild.esp'
+    url: [ '' ]
   - name: 'The Mystery of the Dulan cult.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/7663' ]
+# No source
+  - name: 'TheNecromancer.esp'
+    url: [ '' ]
+# No source
+  - name: 'Hoarfrost Raid.esp'
+    url: [ '' ]
   - name: 'AFK_Weye.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/22828' ]
+# No source
+  - name: 'Weye.esp'
+    url: [ '' ]
   - name: 'MannimarcoComplete.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/15251' ]
   - name: 'Shadowcrest_Vineyard.esp'
@@ -1636,18 +3089,69 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/30964' ]
   - name: 'Gaelendryl.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/6371' ]
+# No source
+  - name: '_LPDaedricWAR.esp'
+    url: [ '' ]
+# No source
+  - name: 'Enhanced Daedric Invasion for FCOM.esp'
+    url: [ '' ]
+# No source
+  - name: 'Enhanced Daedric Invasion for FranOOOMMM.esp'
+    url: [ '' ]
+# No source
+  - name: 'ElsweyrAnequina DV.esp'
+    url: [ '' ]
   - name: 'BetterMusicSystem(Elsweyr).esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/26892' ]
   - name: 'Elsweyr - HGEC RM Patch DV.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/30901' ]
+# No source
+  - name: 'ElsweyrMinotaurPatch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Enhanced Weather - Elsweyr Anequina Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'RimmenAN.esp'
+    url: [ '' ]
   - name: 'BeyondCyrodiil-Camps.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/21997' ]
+# No source
+  - name: 'Elsweyr - Valenwood Patch DV.esp'
+    url: [ '' ]
+# No source
+  - name: 'Improved Imperial Infrastructure.esp'
+    url: [ '' ]
+# No source
+  - name: 'LetThePeopleDrink-NRB patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Fort Akatosh.esp'
+    url: [ '' ]
+# No source
+  - name: 'FortAkatosh.esp'
+    url: [ '' ]
   - name: 'HeartoftheDead.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/21176' ]
+# No source
+  - name: 'OC-HOD-Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'OC_HOD_delayer.esp'
+    url: [ '' ]
+# No source
+  - name: 'HeartOftheDeadv6.3 Delayer.esp'
+    url: [ '' ]
   - name: 'Dschinni.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/25530' ]
+# No source
+  - name: 'TWMP_ProvinceHighRock.esp'
+    url: [ '' ]
   - name: 'TWMP_Azure_Palace.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/36996' ]
+# No source
+  - name: 'TWMP_Thir River.esp'
+    url: [ '' ]
   - name: 'ACharmingTown.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/42680' ]
   - name: 'Chichester Village.esp'
@@ -1672,10 +3176,22 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/28274' ]
   - name: 'SacredOak_Settlement.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/21140/' ]
+# No source
+  - name: 'Shezrie''s Villages.esp'
+    url: [ '' ]
+# No source
+  - name: 'ShezriesVillagesCOBL.esp'
+    url: [ '' ]
+# No source
+  - name: 'ShezriesTownsMaster.esp'
+    url: [ '' ]
   - name: 'Solace.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/9962' ]
   - name: 'StalhrimVillage.esp'
     url: [ 'http://tesalliance.org/forums/index.php?/files/file/730-stalhrim-village/' ]
+# No source
+  - name: 'Villages1.1.esp'
+    url: [ '' ]
   - name: 'WaterfrontMarket.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/22834' ]
   - name: 'WaterfrontMarketNoShack.esp'
@@ -1684,11 +3200,43 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/36896' ]
   - name: 'Wellspring Vale.esp'
     url: [ 'http://tesalliance.org/forums/index.php?/files/file/594-wellspring-vale/' ]
+# No source
+  - name: 'Chorrol Jewelry Company.esp'
+    url: [ '' ]
+# No source
+  - name: 'CUO_Bruma.esp'
+    url: [ '' ]
+# No source
+  - name: 'CUO_Chorrol.esp'
+    url: [ '' ]
+# No source
+  - name: 'CUO_Leyawiin.esp'
+    url: [ '' ]
+# No source
+  - name: 'xulBrenaRiverRavine02.esp'
+    url: [ '' ]
+# No source
+  - name: 'TheNecromancer-StendarrValley patch.esp'
+    url: [ '' ]
+# No source
   - name: 'Ravenpride-Stendarr patch.esp'
     url: [ '' ]
   - name: 'WindspearTower-StendarrValley compatibility patch.esp'
     url: [ '' ]
+# No source
+  - name: 'FCOM MWL-TheHeath patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'MMMMWL-TheHeath patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'ULFallenLeafEverglade.esp'
+    url: [ '' ]
+# No source
   - name: 'EtInArkay-ColovianHighlands patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'OWC - ND UL Colovian Highlands Patch.esp'
     url: [ '' ]
   - name: 'Trails of Cyrodiil - Colovian Highlands UL.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/44766' ]
@@ -1696,11 +3244,56 @@
     url: [ '' ]
   - name: 'MOEVampireClanRaelu-ChorrolHinterland patch.esp'
     url: [ '' ]
+# No source
+  - name: 'WAC-ULchorrolhinterland-patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Cybiades-Lost Coast patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'UL_BOC_LostCoast_1.0.esp'
+    url: [ '' ]
+# No source
+  - name: 'uniquelandscapes_beachesofcyrodiil_1.4.1.esp'
+    url: [ '' ]
+# No source
+  - name: 'VeronaHouseBloodlines-LostCoast fix.esp'
+    url: [ '' ]
+# No source
+  - name: 'Sousmarin-beaches fix.esp'
+    url: [ '' ]
   - name: 'Castle_Almgard-V2.esp'
+    url: [ '' ]
+# No source
+  - name: 'anvil bay+ul tweak.esp'
     url: [ '' ]
   - name: 'SutchReborn-LostCoast patch.esp'
     url: [ '' ]
   - name: 'Sutch reborn Lighthouse Fix UL.esp'
+    url: [ '' ]
+# No source
+  - name: 'NNWARE1_Dungeon05ULPatch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Cybiades - UL Beaches of Cyrodiil Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'WAC - xulBCLostCoast.esp'
+    url: [ '' ]
+# No source
+  - name: 'UL Beaches of Cyrodiil - DMwardrobe patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'HentaiMania2C.esp'
+    url: [ '' ]
+# No source
+  - name: 'HentaiMania2_Merged_Hell.esp'
+    url: [ '' ]
+# No source
+  - name: 'HentaiMania2_Merged_Nightmare.esp'
+    url: [ '' ]
+# No source
+  - name: 'T-HMO.esp'
     url: [ '' ]
   - name: 'LostSpires-BravilBarrowfields patch.esp'
     url: [ '' ]
@@ -1712,11 +3305,32 @@
     url: [ '' ]
   - name: 'Verwen Brewery UL_AY_AC Compatable.esp'
     url: [ '' ]
+# No source
+  - name: 'xulAncientYews 20x8 fix.esp'
+    url: [ '' ]
   - name: 'OldCrowInn-AncientRedwoods patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'PinePeakLodge-CloudtopMountains patch.esp'
     url: [ '' ]
   - name: 'HeartoftheDead-ArriusCreek patch.esp'
     url: [ '' ]
   - name: 'ColdstoneTown-ArriusCreek patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'OWCND - UL Arrius Creek Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Unique Landscapes - Rolling Hills DV - ohne Weizen.esp'
+    url: [ '' ]
+# No source
+  - name: 'Unique Landscapes - Rolling Hills DV.esp'
+    url: [ '' ]
+# No source
+  - name: 'FCOM MWL-RollingHills patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'MMMMWL-RollingHills patch.esp'
     url: [ '' ]
   - name: 'RedcourtCastle-UniqueLandscapes Merged patch.esp'
     url: [ '' ]
@@ -1734,13 +3348,34 @@
     url: [ '' ]
   - name: 'ImperialCitySuburbs-ImperialIsle patch.esp'
     url: [ '' ]
+# No source
+  - name: 'LetThePeopleDrink-ImperialIsle-NRB4 patch.esp'
+    url: [ '' ]
   - name: 'KvatchRebuilt-CheydinhalFalls patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Cardac-xulAspenWood-patch.esp'
     url: [ '' ]
   - name: 'OotD_UL_Jerall_Patch.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/45611' ]
+# No source
+  - name: 'ULII-Roads-Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'LtPD+NRB4+UL-II Patch.esp'
+    url: [ '' ]
   - name: 'OblivionCollectibleCards-UniqueLandscapes Merged patch.esp'
     url: [ '' ]
+# No source
+  - name: 'TrailsOfCyrodiil-UL merged patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'ImpeREAL Empire - Unique Forts - Black Rock - OOO FCOM plugin by Xtudo.esp'
+    url: [ '' ]
   - name: 'exhICMO.esp'
+    url: [ '' ]
+# No source
+  - name: 'ULSO+WestRoads Patch.esp'
     url: [ '' ]
   - name: 'Castle_Seaview.esp'
     url: [ '' ]
@@ -1752,11 +3387,26 @@
     url: [ '' ]
   - name: 'bartholm.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/5022' ]
+# No source
+  - name: 'Bartholm-Panther River Patch.esp'
+    url: [ '' ]
   - name: 'Cyrodiil Legion Addon.esp'
     url: [ '' ]
   - name: 'Legion Ranger Addon.esp'
     url: [ '' ]
   - name: 'VeronaHouseBloodlines-UL patches Merged.esp'
+    url: [ '' ]
+# No source
+  - name: 'Imperial City Waterfront Tunnel Entrance v(2\.1|3\.0)\.esp'
+    url: [ '' ]
+# No source
+  - name: 'Imperil_City_Tunnel.esp'
+    url: [ '' ]
+# No source
+  - name: 'IC Tunnel.esp'
+    url: [ '' ]
+# No source
+  - name: 'ICWaterfrontPassage.esp'
     url: [ '' ]
   - name: 'Waterfront Passage - Control of Goods.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/15974' ]
@@ -1770,6 +3420,9 @@
     url: [ '' ]
   - name: 'SPD-SailableRivers.esp'
     url: [ '' ]
+# No source
+  - name: 'Salmo WV, Cobl.esp'
+    url: [ '' ]
   - name: 'OotDPS-Necro-FAR-FotA-Patch.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/45611' ]
   - name: 'OotDPS-FAR-FotA-Patch.esp'
@@ -1782,11 +3435,17 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/45611' ]
   - name: 'OotD_FAR_Patch.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/45611' ]
+# No source
+  - name: 'OotD_ULJerall_TheNecromancer_Patch.esp'
+    url: [ '' ]
   - name: 'OBCBravil-Barrowfields patch.esp'
     url: [ '' ]
   - name: 'OBCBravilB&M-Barrowfields patch.esp'
     url: [ '' ]
   - name: 'BC+Vvardenfell Imports Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities.esp'
     url: [ '' ]
   - name: 'Open Cities + Cats & Rats.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/5276' ]
@@ -1802,6 +3461,105 @@
     url:
       - 'https://www.nexusmods.com/oblivion/mods/16360'
       - 'https://www.nexusmods.com/oblivion/mods/33003'
+# No source
+  - name: 'Open Cities Anvil.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Bravil.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Bravil Blood&Mud.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Bruma.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Cheydinhal.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Chorrol.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Leyawiin.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Leyawiin Reborn.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Skingrad.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Full.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Full + Bravil Blood&Mud.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open_Cities_Complete-Leyawiin_Reborn.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Full + Leyawiin Reborn.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Full + Bravil Blood & Mud + Leyawiin Reborn.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Reborn - Anvil.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Reborn - Bravil.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Reborn - Bruma.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Reborn - Cheydinhal.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Reborn - Chorrol.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Reborn - Leyawiin.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Reborn - Skingrad.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Reborn - Full Merge.esp'
+    url: [ '' ]
+# No source
+  - name: 'OCC-ABE-LC-Land Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'OCC-ABE-Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'OCC-Roads-Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'OCC-ULCH-Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'OCR+ULCH Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'OCLR+ULBWForest Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'OCC+Cheydinhal Falls Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'OCR+Cheydinhal Falls Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'OC+ULSkingradOutskirts Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'OC+ULSO+WestRoads Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Benirus Manor OC Patch.esp'
+    url: [ '' ]
   - name: 'DBOO - Open(Cities| Cities)(Full| Outer Districts|Full + Outer Districts)\.esp'
     url: [ '' ]
   - name: 'SB Open Cities Add-on - Total IC Isle v3.1.esp'
@@ -1811,6 +3569,9 @@
   - name: 'Better Abandoned House OC Cheydinhal.esp'
     url: [ '' ]
   - name: 'BarrowFields-Blood&Mud-Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'FightersGuildContracts.esp'
     url: [ '' ]
   - name: '(JQ) Fighters Guild United.esp'
     url: [ '' ]
@@ -1836,12 +3597,27 @@
     url: [ '' ]
   - name: 'RealisticFlora.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/8478' ]
+# No source
+  - name: 'RealisticFlora-DLCFrostcrag.esp'
+    url: [ '' ]
   - name: 'RealisticFlora - DLCFrostcrag.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/8478' ]
+# No source
+  - name: 'RealisticFlora-DLCVilelair.esp'
+    url: [ '' ]
   - name: 'RealisticFlora - DLCVileLair.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/8478' ]
   - name: 'Diseased Corpses.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/9758' ]
+# No source
+  - name: 'Real Lava.esp'
+    url: [ '' ]
+# No source
+  - name: 'Real Lava v1.1.esp'
+    url: [ '' ]
+# No source
+  - name: 'Real Lava 1.2.esp'
+    url: [ '' ]
   - name: 'Real Lava v1.2.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/6854' ]
   - name: '100%FloraHarvest.esp'
@@ -1876,6 +3652,9 @@
     url: [ '' ]
   - name: 'Book Placement v2.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/6262' ]
+# No source
+  - name: 'AutoBookPlacer_v2.esp'
+    url: [ '' ]
   - name: 'Axebane_Hunters25.esp'
     url: [ '' ]
   - name: 'betterArena.esp'
@@ -1912,6 +3691,9 @@
     url: [ '' ]
   - name: 'CaesarOneWithNature.esp'
     url: [ '' ]
+# No source
+  - name: 'CDM-Dogs.esp'
+    url: [ '' ]
   - name: 'CHILDREN ANNUAD.esp'
     url: [ '' ]
   - name: 'Cliff_BetterLetters.esp'
@@ -1946,7 +3728,25 @@
     url: [ '' ]
   - name: 'Cyrodiil City Guards.esp'
     url: [ '' ]
+# No source
+  - name: 'CUO_FightersGuildContracts_SAFE.esp'
+    url: [ '' ]
+# No source
+  - name: 'CUO_UnLeveledPotions.esp'
+    url: [ '' ]
+# No source
+  - name: 'CUO_NewFactionDialog_SAFE.esp'
+    url: [ '' ]
+# No source
+  - name: 'CUO_BadGuy_Specific_Loot_DIRTY.esp'
+    url: [ '' ]
+# No source
+  - name: 'CUO_UnleveledNpcs&Creatures.esp'
+    url: [ '' ]
   - name: 'DarkUI Fix.esp'
+    url: [ '' ]
+# No source
+  - name: 'DDJailShackles.esp'
     url: [ '' ]
   - name: 'Decorator Assistant.esp'
     url: [ '' ]
@@ -1961,6 +3761,9 @@
   - name: 'DS Portable Sorters.esp'
     url: [ '' ]
   - name: 'Dwemer_Rename.esp'
+    url: [ '' ]
+# No source
+  - name: 'DMRA Replacer OOO Collection.esp'
     url: [ '' ]
   - name: 'Dwarven-S.esp'
     url: [ '' ]
@@ -2115,6 +3918,12 @@
   - name: 'Oblivion grass overhaul.esp'
     url: [ '' ]
   - name: 'OriginalLeather.esp'
+    url: [ '' ]
+# No source
+  - name: 'omg-shadows-v1.esp'
+    url: [ '' ]
+# No source
+  - name: 'omg-shadows-v1-all-activated.esp'
     url: [ '' ]
   - name: 'OriginalLeatherSI.esp'
     url: [ '' ]
@@ -2332,6 +4141,15 @@
     url: [ '' ]
   - name: 'Tim_No_SI.esp'
     url: [ '' ]
+# No source
+  - name: 'Borderless Cyrodiil.esp'
+    url: [ '' ]
+# No source
+  - name: 'Borderless_Cyrodiil.esp'
+    url: [ '' ]
+# No source
+  - name: 'Borderless_Cyrodiil-3578.esp'
+    url: [ '' ]
   - name: 'Borderless Cyrodiil-3578.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/3578' ]
   - name: 'Border-Region-disabled.esp'
@@ -2352,8 +4170,14 @@
     url: [ '' ]
   - name: 'Alternative Start v1.2.esp'
     url: [ '' ]
+# No source
+  - name: 'IOM - Kvatch.esp'
+    url: [ '' ]
   - name: 'ROM Patch - Alternative Start.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/33114' ]
+# No source
+  - name: 'Skip Tutorial.esp'
+    url: [ '' ]
   - name: 'Addendum - Tired.esp'
     url: [ '' ]
   - name: 'Addendum - Hungry.esp'
@@ -2362,7 +4186,13 @@
     url: [ '' ]
   - name: 'Addendum - Thirsty.esp'
     url: [ '' ]
+# No source
+  - name: 'Natural Hunger v2_0 by QF.esp'
+    url: [ '' ]
   - name: 'pmQFNaturalHunger.esp'
+    url: [ '' ]
+# No source
+  - name: 'True Retroactive Health v2.2.esp'
     url: [ '' ]
   - name: 'ReneerKeyLockMod.esp'
     url: [ '' ]
@@ -2372,9 +4202,21 @@
     url: [ '' ]
   - name: 'MIVs Vampire Overhaul ENG.esp'
     url: [ '' ]
+# No source
+  - name: 'Twillith vampirism 1.7.esp'
+    url: [ '' ]
+# No source
+  - name: 'Twillith vampirism 1.71.esp'
+    url: [ '' ]
+# No source
+  - name: 'Vampisism Overhaul 2.esp'
+    url: [ '' ]
   - name: 'Drokk''s Vampire Mod.esp'
     url: [ '' ]
   - name: 'BloodIsEverything.esp'
+    url: [ '' ]
+# No source
+  - name: 'Ashes to Ashes & DP Nosferatu Class Vampires - Compatibility Patch.esp'
     url: [ '' ]
   - name: 'Ayleid Expansion.esp'
     url: [ '' ]
@@ -2430,6 +4272,15 @@
     url: [ '' ]
   - name: 'AgarVariedSpellSounds_SupremeMagicka.esp'
     url: [ '' ]
+# No source
+  - name: 'Midas SMHolyHeal.esp'
+    url: [ '' ]
+# No source
+  - name: 'Midas SMPoison.esp'
+    url: [ '' ]
+# No source
+  - name: 'OSPS-TalesftTomb-MidasMagic-Patch.esp'
+    url: [ '' ]
   - name: 'CALSUDG.esp'
     url: [ '' ]
   - name: 'ES4_Spell Names by Effect.esp'
@@ -2466,13 +4317,31 @@
     url: [ '' ]
   - name: 'Spell Failure Chance.esp'
     url: [ '' ]
+# No source
+  - name: 'Jpm''s Miniature Necromancy.esp'
+    url: [ '' ]
+# No source
+  - name: 'Jpm''s Miniature Necromancy RUS.esp'
+    url: [ '' ]
   - name: 'Miniature Necromancy Revised.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/47903' ]
   - name: 'TFE - Restore Cost.esp'
     url: [ '' ]
   - name: 'PMSneakySummons-ForVanilla.esp'
     url: [ '' ]
+# No source
+  - name: 'Cure Disease Overhaul - Extreme Diseases.esp'
+    url: [ '' ]
+# No source
+  - name: 'Cure Disease Overhaul - Deadly Diseases (OBSE).esp'
+    url: [ '' ]
+# No source
+  - name: 'Cure Disease Overhaul - Deadly Diseases (Non-OBSE).esp'
+    url: [ '' ]
   - name: 'Poisoned Apple Fix.esp'
+    url: [ '' ]
+# No source
+  - name: 'Poison Maker.esp'
     url: [ '' ]
   - name: 'Potion_Sorter-2081.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/2081' ]
@@ -2496,22 +4365,55 @@
     url: [ '' ]
   - name: 'pmSkoomaDeals.esp'
     url: [ '' ]
+# No source
+  - name: 'Attack & Hide.esp'
+    url: [ '' ]
+# No source
+  - name: 'attack and hide medium.esp'
+    url: [ '' ]
+# No source
+  - name: 'attack and hide v1.1.esp'
+    url: [ '' ]
+# No source
+  - name: 'attack and hide easier v2.0.esp'
+    url: [ '' ]
+# No source
+  - name: 'attack and hide medium v2.0.esp'
+    url: [ '' ]
+# No source
+  - name: 'attack and hide harder v2.0.esp'
+    url: [ '' ]
   - name: 'Deadlier Traps.esp'
     url: [ '' ]
   - name: 'Thievery_(Easy|Normal|Hard)(_Thrill)?\.esp'
     url: [ '' ]
   - name: 'Morrowind Lockpicking.esp'
     url: [ '' ]
+# No source
+  - name: 'OOO-OLC_Realistic_Detection.esp'
+    url: [ '' ]
   - name: 'BountyReductionOverTime(_standard|_unforgiving|_mostwanted)?.esp'
+    url: [ '' ]
+# No source
+  - name: 'No psychic guards v1.1.esp'
     url: [ '' ]
   - name: 'No psychic guards v1.2.esp'
     url: [ '' ]
   - name: 'RenGuardOverhaul.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/5977' ]
+# No source
+  - name: 'RenGuardOverhaulShiveringIsles.esp'
+    url: [ '' ]
   - name: 'TRN One of the Gang.esp'
     url: [ '' ]
   - name: 'Enhanced Grabbing - Debug.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/19847' ]
+# No source
+  - name: 'Adrenaline-Fuelled Combat.esp'
+    url: [ '' ]
+# No source
+  - name: 'Adrenaline Fuelled Archery- Bow Sway.esp'
+    url: [ '' ]
   - name: 'Push_Spin_Fly.esp'
     url: [ '' ]
   - name: 'Push_Shove_Die.esp'
@@ -2576,6 +4478,9 @@
     url: [ '' ]
   - name: 'humantouchNPC.esp'
     url: [ '' ]
+# No source
+  - name: 'CDM-CGO (Vanilla|Standard) Skill Levelling( Slower| Faster)?\.esp'
+    url: [ '' ]
   - name: 'ExperienceBasedTraining.esp'
     url: [ '' ]
   - name: 'Mercantile Leveling-Fixed.esp'
@@ -2586,7 +4491,37 @@
     url: [ '' ]
   - name: 'Sneaking Detection Recalibrated.esp'
     url: [ '' ]
+# No source
+  - name: 'SDR Compatibility Patches.esp'
+    url: [ '' ]
+# No source
+  - name: 'SDR_Core.esp'
+    url: [ '' ]
+# No source
+  - name: 'SDR_NPC Behavior.esp'
+    url: [ '' ]
+# No source
+  - name: 'SDR_ThievesArsenal_Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'SDR_Detect Life Shader Patch (Oblivion).esp'
+    url: [ '' ]
+# No source
+  - name: 'SDR_Detect Life Shader Patch (Nehrim).esp'
+    url: [ '' ]
   - name: 'Oblivion XP - Journal Mod Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'SDR Perks And Patches - Nehrim.esp'
+    url: [ '' ]
+# No source
+  - name: 'SDR_Perks And Patches (Nehrim).esp'
+    url: [ '' ]
+# No source
+  - name: 'SDR_Trip Wire Pressure Plate Patch [Oblivion].esp'
+    url: [ '' ]
+# No source
+  - name: 'SDR_Trip Wire Pressure Plate Patch [Nehrim].esp'
     url: [ '' ]
   - name: 'DMRequirements.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/23005' ]
@@ -3014,6 +4949,36 @@
     url: [ '' ]
   - name: 'LattamerV3_P-rrtyCure_Hair_Module.esp'
     url: [ '' ]
+# No source
+  - name: 'Beautiful People 2ch-Ed Sheogorath Eye.esp'
+    url: [ '' ]
+# No source
+  - name: 'Beautiful People 2ch-Ed Vanilla Race for RMV4.esp'
+    url: [ '' ]
+# No source
+  - name: 'Beautiful People 2ch-Ed Vanilla Race for TFF.esp'
+    url: [ '' ]
+# No source
+  - name: 'Beautiful People 2ch-Ed Vanilla Race for TFF&RMV4.esp'
+    url: [ '' ]
+# No source
+  - name: 'Beautiful People 2ch-Ed Merged Eye Modules No One-Eyed.esp'
+    url: [ '' ]
+# No source
+  - name: 'Beautiful People 2ch-Ed Merged Eye Modules No Glow-Eyes.esp'
+    url: [ '' ]
+# No source
+  - name: 'Beautiful People 2ch-Ed Merged Eye Modules No Glow-Eyes & One-Eyed.esp'
+    url: [ '' ]
+# No source
+  - name: 'Beautiful People 2ch-Ed Ashara''s Sirens and Tritons.esp'
+    url: [ '' ]
+# No source
+  - name: 'Beautiful People 2ch-Ed Cute Elves.esp'
+    url: [ '' ]
+# No source
+  - name: 'Beautiful People 2ch-Ed Nec Mystic High Elf Remake.esp'
+    url: [ '' ]
   - name: 'Lop-ears Elf.esp'
     url: [ '' ]
   - name: 'RANs_WildTabaxi_101.esp'
@@ -3037,6 +5002,9 @@
   - name: 'CCC.esp'
     url: [ '' ]
   - name: 'Energy - Beautiful Elves.esp'
+    url: [ '' ]
+# No source
+  - name: 'Demon Hunter.esp'
     url: [ '' ]
   - name: 'DesuChan''s Persocoms RELOADED.esp'
     url: [ '' ]
@@ -3126,6 +5094,9 @@
     url: [ '' ]
   - name: 'Ash Elves.esp'
     url: [ '' ]
+# No source
+  - name: 'Ancient Elven Sorcerer.esp'
+    url: [ '' ]
   - name: 'Ancient Elven Sorcerer - EV.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/21483' ]
   - name: 'Ancient Elven Sorcerer - DV.esp'
@@ -3153,6 +5124,30 @@
   - name: 'Wiedergaenger Race.esp'
     url: [ '' ]
   - name: 'KHStrangers.esp'
+    url: [ '' ]
+# No source
+  - name: 'X.Demon.Race.esp'
+    url: [ '' ]
+# No source
+  - name: 'X.Deus.Obscurus.esp'
+    url: [ '' ]
+# No source
+  - name: 'X.Nature.Elf.esp'
+    url: [ '' ]
+# No source
+  - name: 'X.Moon.Elf.esp'
+    url: [ '' ]
+# No source
+  - name: 'X.Night.Elf.esp'
+    url: [ '' ]
+# No source
+  - name: 'X.Night.Walker.esp'
+    url: [ '' ]
+# No source
+  - name: 'X.Vampire.esp'
+    url: [ '' ]
+# No source
+  - name: 'X.RC.RFM.esp'
     url: [ '' ]
   - name: 'Luchaire''s Dryad Race for MMM.esp'
     url: [ '' ]
@@ -3209,6 +5204,9 @@
   - name: 'CM Partners Extra NPCs.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/7819' ]
   - name: 'amQuests.esp'
+    url: [ '' ]
+# No source
+  - name: 'CM Partners Beasts.esp'
     url: [ '' ]
   - name: 'CM Partners Eileen.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/20203' ]
@@ -3430,6 +5428,9 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/14382' ]
   - name: 'DACompilation_GO_APN.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/33739' ]
+# No source
+  - name: 'OCOv2-BR.esp'
+    url: [ '' ]
   - name: 'Jjiinx_Long Ears.esp'
     url: [ '' ]
   - name: 'Head06 Replacer.esp'
@@ -3439,6 +5440,9 @@
   - name: 'MergedMouth.esp'
     url: [ '' ]
   - name: 'JoinedJaws.esp'
+    url: [ '' ]
+# No source
+  - name: 'TamrielTravellers Cosmetics Cobl or RBP.esp'
     url: [ '' ]
   - name: 'ZUAmberMadnessOverhaul.esp'
     url: [ '' ]
@@ -3456,11 +5460,16 @@
     url: [ '' ]
   - name: 'Recastable Summons.esp'
     url: [ '' ]
+# No source
   - name: 'bgBalancingEVOptionalNPCDiversity, for Wrye Bash.esp'
     url: [ '' ]
+# No source
   - name: 'bgBalancingOptionalFranAddition.esp'
     url: [ '' ]
   - name: 'k_HOD_RBP_patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'OCRAnvil+Integration Path Grid Fix.esp'
     url: [ '' ]
   - name: 'Integration faces revamped.esp'
     url: [ '' ]
@@ -3480,14 +5489,316 @@
     url: [ '' ]
   - name: 'RaceFix_1C.esp'
     url: [ '' ]
+# No source
+  - name: 'BC Skingrad Reduced - EV.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Full - B&M Edition FPS Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Skingrad FPS Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Leyawiin FPS Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Chorrol FPS Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Cheydinhal FPS Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Bruma FPS Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Bravil FPS Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Bravil - Blood & Mud FPS Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Anvil FPS Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Temple FPS Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Talos Plaza FPS Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Prison FPS Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Market FPS Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Green Emperor Way FPS Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Elven Gardens FPS Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Arena FPS Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Arcane University FPS Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Arboretum FPS Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities( Full)?( B&M)? - CUO Bravil( Patch)?\.esp'
+    url: [ '' ]
+# No source
+  - name: 'BCBravilFULL-Barrowfields patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities( Full)?( B&M)? - CUO Chorrol Patch\.esp'
+    url: [ '' ]
+# No source
+  - name: 'BCChorrol-ChorrolHinterland fix.esp'
+    url: [ '' ]
+# No source
+  - name: 'BCChorrol-ChorrolHinterland patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - Unique Landscape Chorrol Hinterland.esp'
+    url: [ '' ]
+# No source
+  - name: 'BCCheydinhal(FULL)?(B&M)?-CheydinhalFalls patch\.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities( Full)?( B&M)? - Unique Landscape Cheydinhal Falls\.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Full - CUO Bruma Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Full B&M - CUO Bruma Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'BCSkingrad-SkingradOutskirts patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - Unique Landscape Skingrad Outskirts.esp'
+    url: [ '' ]
   - name: 'BICDist_OotD_Patch.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/45611' ]
+  - name: 'Better Cities - OMG( Patch)?.*\.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Imperial City - OMG( Patch)?.*\.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - Stranded Light.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Districts.esp'
+    url: [ '' ]
+# No source
+  - name: 'BCAnvil-LostCoast Fix.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - Unique Landscape Lost Coast.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Full - City Defences.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - TESFU.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities ICMarket.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - ICMarket Additions.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - ICMarket FPS Improver.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - SKINGRAD Additions.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - Skingrad FPS Improver.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - Bravil FPS Improver.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - ANVIL Additions.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - Anvil FPS Improver.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - CHORROL Additions.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - Chorrol FPS Improver.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - CHEYDINHAL Additions.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - Cheydinhal FPS Improver.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - LEYAWIIN Additions.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - Leyawiin FPS Improver.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - Auriel''s Books.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - Blood&Mud.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - Full Additions.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - Lost Spires.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - B&M LS RTT TotF.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - B&M LS RTT.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - B&M LS ToTF RTT.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - B&M LS ToTF.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - B&M RTT.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - B&M ToTF RTT.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - B&M ToTF.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - Blood&Mud LostSpires.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - LS RTT TotF.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - LS RTT.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - LS TotF.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - RTT TotF.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - Bruma FPS Improver.esp'
+    url: [ '' ]
+# No source
+  - name: 'WBA Arboretum.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities - WBA FPS Improver.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities LEYAWIIN - No Flooding.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Full - LEYAWIIN No Flooding.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Full Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Full - B&M Edition Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Skingrad Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Leyawiin Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Chorrol Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Cheydinhal Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Bruma Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Bravil Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Bravil - Blood & Mud Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities Anvil Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Imperial City Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Temple Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Talos Plaza Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Prison Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Market Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Green Emperor Way Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Elven Gardens Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Arena Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Arcane University Patch.esp'
+    url: [ '' ]
+# No source
+  - name: 'Better Cities IC Arboretum Patch.esp'
+    url: [ '' ]
   - name: 'CRpatchForXULskingradOutskirts.esp'
     url: [ '' ]
   - name: 'CRpatchForBCskingrad.esp'
     url: [ '' ]
   - name: 'ROM Patch - Better Cities.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/33114' ]
+# No source
+  - name: 'HTSCl_bbc.esp'
+    url: [ '' ]
+# No source
+  - name: 'HTSCl_wac.esp'
+    url: [ '' ]
+# No source
+  - name: 'HTSCl_wac_ItemLootFix.esp'
+    url: [ '' ]
+# No source
+  - name: 'HTSCl_cuo.esp'
+    url: [ '' ]
+# No source
+  - name: 'HTSCl_cuo_inElderCouncil.esp'
+    url: [ '' ]
+# No source
+  - name: 'HTSCl_elsweyr.esp'
+    url: [ '' ]
+# No source
+  - name: 'Universitum Arcanorum.esp'
+    url: [ '' ]
   - name: 'Z 1 Hour respawn.esp'
     url: [ '' ]
   - name: 'ThingasTime 1-15 Scale.esp'
@@ -3548,7 +5859,16 @@
     url: [ '' ]
   - name: 'WNewShockFunnelEffects20.esp'
     url: [ '' ]
+# No source
+  - name: 'SDR_Perks And Patches [Oblivion].esp'
+    url: [ '' ]
+# No source
+  - name: 'SDR_Detect Life Shader Patch [Oblivion].esp'
+    url: [ '' ]
   - name: 'a4VnlObSI_HiResHGEC-BBB-Fems+RmMales.esp'
+    url: [ '' ]
+# No source
+  - name: 'Enhanced Economy - Soulgems.esp'
     url: [ '' ]
   - name: 'JazzJRKhajiitfeets.esp'
     url: [ '' ]
@@ -3566,5 +5886,44 @@
     url: [ '' ]
   - name: 'UnderdarkSaga.esp'
     url: [ '' ]
+# No source
+  - name: 'Open Cities Road Record.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Classic Road Record.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities LR Road Record.esp'
+    url: [ '' ]
+# No source
+  - name: 'Open Cities Reborn Road Record.esp'
+    url: [ '' ]
+# No source
+  - name: 'NRB4 OCLR Road Record.esp'
+    url: [ '' ]
+# No source
+  - name: 'Oscuro''s_Oblivion_Overhaul - Harvest Containers - SI.esp'
+    url: [ '' ]
+# No source
+  - name: 'The Big Merger.esp'
+    url: [ '' ]
+# No source
+  - name: 'SDR Perks and Patches [Oblivion].esp'
+    url: [ '' ]
   - name: 'Ahtata Arquamer spike4hair.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/20338' ]
+# No source
+  - name: 'LoversIdleForceReset.esp'
+    url: [ '' ]
+# No source
+  - name: 'ASTnehrimHotfixes01(EN).esp'
+    url: [ '' ]
+# No source
+  - name: 'SDR Perks And Patches - Oblivion.esp'
+    url: [ '' ]
+# No source
+  - name: 'SDR_Perks And Patches (Oblivion).esp'
+    url: [ '' ]
+# No source
+  - name: 'Realistic Sneak for NPCs.esp'
+    url: [ '' ]
