@@ -8,8 +8,6 @@
     url: [ '' ]
   - name: 'Oblivion.esp'
     url: [ '' ]
-  - name: 'TamRes.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/24822' ]
 # No source
   - name: 'Gold is now Gold.esp'
     url: [ '' ]
@@ -34,87 +32,27 @@
 # No source
   - name: 'MageGuild_simbol.esp'
     url: [ '' ]
-  - name: 'MeosPotionReplacer.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/29422' ]
-  - name: 'MigStatsCheck.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/44844' ]
 # No source
   - name: 'MONSTERGIRL-APOCALYPSE.esp'
     url: [ '' ]
 # No source
   - name: 'MONSTERGIRL-CoC.esp'
     url: [ '' ]
-  - name: 'More_Animals.esp'
-    url:
-      - 'https://www.nexusmods.com/oblivion/mods/18275'
-      - 'https://www.nexusmods.com/oblivion/mods/41777'
 # No source
   - name: 'More_Animals_1C.esp'
     url: [ '' ]
-  - name: 'More Drinks.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/5763' ]
 # No source
   - name: 'More_Vegetables.esp'
     url: [ '' ]
-  - name: 'BetterMusicSystem.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/26892' ]
-# No source
-  - name: 'Mud Crabs!(_(coMbO|MMM|OOO))?\.esp'
-    url: [ '' ]
-# No source
-  - name: 'Mud Crabs!_coMbO.esp'
-    url: [ '' ]
-  - name: 'NR500.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/35978' ]
-# No source
-  - name: 'New Potions by Tealpanda.esp'
-    url: [ '' ]
-  - name: 'New Potions.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/25822' ]
-# No source
-  - name: 'New_Potions_Fixed_Icons-25822.esp'
-    url: [ '' ]
-  - name: 'Oblivion Cats v0.22b.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/2912' ]
-  - name: 'Oblivion Collectible Cards.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/19140' ]
-  - name: 'Passion Fruit.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/14620' ]
-  - name: 'personality_idles4.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/14280' ]
 # No source
   - name: 'Personality Idles 4 - Cleanned version.esp'
     url: [ '' ]
-  - name: 'Personality Idles - Modified version.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/30829' ]
-  - name: 'personality_idles4_C.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/14280' ]
-  - name: 'personality_idles4_nnpc_C.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/14280' ]
-  - name: 'personality_idles4_nnpc.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/14280' ]
-  - name: 'personality_idles4_nopc.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/14280' ]
 # No source
   - name: 'personality_idles_custom.esp'
     url: [ '' ]
-  - name: 'P1DseeYouSleep.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/16005' ]
 # No source
   - name: 'P-Froggys Corpse Carry DV.esp'
     url: [ '' ]
-  - name: 'P-Froggys Corpse Carry EV.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/28987' ]
-  - name: 'pmRealTimeInteractions.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/39679' ]
-  - name: 'Portable Campsite.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/5684' ]
-  - name: 'Portable Campsite - Quickstart.esp'
-    url:
-      - 'https://www.nexusmods.com/oblivion/mods/5684'
-      - 'https://www.nexusmods.com/oblivion/mods/47787'
-  - name: 'Q - More and Moldy Ingredients v1.1.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/5065' ]
 # No source
   - name: 'Q - More and Moldy Ingredients v1.1 - DV.esp'
     url: [ '' ]
@@ -3101,8 +3039,6 @@
 # No source
   - name: 'ElsweyrAnequina DV.esp'
     url: [ '' ]
-  - name: 'BetterMusicSystem(Elsweyr).esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/26892' ]
   - name: 'Elsweyr - HGEC RM Patch DV.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/30901' ]
 # No source
