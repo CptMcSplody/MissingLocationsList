@@ -521,21 +521,6 @@
 # No source
   - name: 'FF7 Swords 02 core apocalypse.esp'
     url: [ '' ]
-
-  - name: 'HGEC_AmazonArmor.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/16499' ]
-  - name: 'HGEC_Companionmail.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/18405' ]
-  - name: 'HGEC Glass Replacement.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/28313' ]
-  - name: 'HGEC_Rogue01.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/18404' ]
-  - name: 'Imperial Armor Replace.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/6647' ]
-  - name: 'Imperial_Palace_Armor-2474.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/2474' ]
-  - name: 'IndigoArmor.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/16645' ]
 # No source
   - name: 'Lady Style.esp'
     url: [ '' ]
@@ -548,16 +533,12 @@
 # No source
   - name: 'LC-Dragon-Exnem.esp'
     url: [ '' ]
-  - name: 'LexMiscClothesII.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/37202' ]
 # No source
   - name: 'MW  Dremora Armor.esp'
     url: [ '' ]
 # No source
   - name: 'New Exnem Compatible Armors.esp'
     url: [ '' ]
-  - name: 'R18PN - Lingeries.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/23589' ]
 # No source
   - name: 'Roberts Armamentium female.esp'
     url: [ '' ]
@@ -567,59 +548,27 @@
 # No source
   - name: 'Sack of PantsRU.esp'
     url: [ '' ]
-  - name: 'Sexy Ghost Armor.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/35631' ]
 # No source
   - name: 'Slof''s Brighter Arena Raiments.esp'
     url: [ '' ]
-  - name: 'StockClothingArmorBBBHGEC_Standard_ECupLBotPPN.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/16750' ]
-  - name: 'StockClothingArmor-forExnems.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/11824' ]
 # No source
   - name: 'StockClothingArmorHGECnormalD.esp'
     url: [ '' ]
-  - name: 'StockClothingArmorHGECFighterD.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/16750' ]
-  - name: 'UFF Amazon Armor.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/13339' ]
-  - name: 'UFF & RM Gold and Silver Daedric Armor.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/15948' ]
-  - name: 'Velveteen_Armor_HGEC.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/25375' ]
-  - name: 'YAARM_Steel.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/33381' ]
-  - name: 'Zombie Slayer Armor.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/35182' ]
-  - name: 'Dark_Mistress.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/19744' ]
 # No source
   - name: '1SI_Horses.esp'
     url: [ '' ]
 # No source
   - name: 'a4sFlamingNightmare.esp'
     url: [ '' ]
-  - name: 'a4sFlamingNightmare3.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/35219' ]
-  - name: 'Athletics While Riding.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/37432' ]
 # No source
   - name: 'CDM-Horses.esp'
     url: [ '' ]
-  - name: 'MigHorseArmor.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/43037' ]
-  - name: 'Slof''s Horses Base.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/48925' ]
 # No source
   - name: 'Slof''s Horses Essential.esp'
     url: [ '' ]
 # No source
   - name: 'Slof''s Horses HA Essential.esp'
     url: [ '' ]
-  - name: 'Slof''s Extra Horses.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/48925' ]
-  - name: 'Slof''s Black Unicorn.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/48112' ]
 # No source
   - name: 'Slof''s Nightmare.esp'
     url: [ '' ]
@@ -629,18 +578,6 @@
 # No source
   - name: 'HS-Horse-Unicorn.esp'
     url: [ '' ]
-  - name: 'HRMHorseArmor.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/46657' ]
-  - name: 'HRMHorseArmorSlofsHorsesPatch.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/46657' ]
-  - name: 'HRMHorseArmorSlofsHorsesPatch20.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/46657' ]
-  - name: 'DappleClydesdaleupdate.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/12767' ]
-  - name: 'greyclydesdale.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/12767' ]
-  - name: 'brownclydesdale.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/28006' ]
 # No source
   - name: 'DLCHorseArmor_SlofBase.esp'
     url: [ '' ]
@@ -674,21 +611,9 @@
 # No source
   - name: 'DLCHorseArmor+Accessories.esp'
     url: [ '' ]
-  - name: 'Shadow Steed.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/8050' ]
-  - name: 'TJ_HorseNames.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/1831' ]
-  - name: 'Imperial Horse Armor.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/3352' ]
-  - name: 'Mounted_Spellcasting.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/8962' ]
 # No source
   - name: 'NV Imperial Guard Horse Armour.esp'
     url: [ '' ]
-  - name: 'Horse Management.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/46021' ]
-  - name: 'qazHorseCommand -horsearmor.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/7481' ]
 # No source
   - name: 'MD_FasterHorseTurning.esp'
     url: [ '' ]
@@ -698,12 +623,6 @@
 # No source
   - name: 'HorsesTurnFaster.esp'
     url: [ '' ]
-  - name: 'HorseTurnSpeed-Faster.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/27967' ]
-  - name: 'HorseTurnSpeed-Fast.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/27967' ]
-  - name: 'HorseTurnSpeed-Fastest.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/27967' ]
 # No source
   - name: '974-Faster Turning Horses-TESSource.esp'
     url: [ '' ]
@@ -722,20 +641,6 @@
 # No source
   - name: 'Faster Horses.esp'
     url: [ '' ]
-  - name: 'RealBanditsAndHighwaymen.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/30860' ]
-  - name: 'RealBanditsAndHighwaymenHigherlevel.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/30860' ]
-  - name: 'SIRMS.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/46092' ]
-  - name: 'The Last Queen Of The Ayleids.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/20528' ]
-  - name: 'Ranokoas Organized Potions.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/24128' ]
-  - name: 'Potion Sorter-2081.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/2081' ]
-  - name: 'ORM-TamriellicGlassDLC7.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/40308' ]
   - name: 'LuckBasedLootForFrans.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/14212' ]
   - name: 'KDCircletsOOOOptimized - NPC Equip.esp'
@@ -752,10 +657,6 @@
     url: [ '' ]
   - name: 'FF_Real_Thirst, Cobl.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/15168' ]
-  - name: 'COBL-FransCre.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/17603' ]
-  - name: 'COBL-FransNewCre.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/17603' ]
 # No source
   - name: 'GM-PISC.esp'
     url: [ '' ]
@@ -816,8 +717,6 @@
     url: [ '' ]
   - name: 'MTCDirtierBandits.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/30144' ]
-  - name: 'Choices and Consequences - MMM.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/14560' ]
 # No source
   - name: 'C&C&EQR - MMM.esp'
     url: [ '' ]
@@ -846,8 +745,6 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/1969' ]
   - name: 'Master-Crafting-1.1-MMM.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/19846' ]
-  - name: 'Choices and Consequences - MMM - Looting NPCs & Creatures.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/14560' ]
   - name: 'OWC - Seaworld.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/39202' ]
   - name: 'OWC - New Dimension.esp'
@@ -897,8 +794,6 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/4387' ]
   - name: 'TamrielTravellersHorseTextures.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/16407' ]
-  - name: 'Choices and Consequences - FCOM - Diverse Guards.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/14560' ]
 # No source
   - name: 'Cobl Patch - MMM Gems and Gem Dust.esp'
     url: [ '' ]
@@ -948,8 +843,6 @@
     url: [ '' ]
   - name: 'Oblivion Intensity.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/49578' ]
-  - name: 'Choices and Consequences - FCOM.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/14560' ]
   - name: 'Dangerous_Overhaul_v0.2.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/3129' ]
   - name: 'Balance fixes.esp'
@@ -1118,13 +1011,6 @@
 # No source
   - name: 'Modified Bandits.esp'
     url: [ '' ]
-  - name: 'Morrowind_ob.esp'
-    url: [ 'http://morroblivion.com/forums/morroblivion/mods/753' ]
-# No source
-  - name: 'Morroblivion_Chargen_And_Transport_Mod_v6.esp'
-    url: [ '' ]
-  - name: 'Morroblivion item rebalance.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/39710' ]
   - name: 'Enhanced Quest Roleplaying.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/6488' ]
   - name: 'Roleplaying_Expansion.esp'
@@ -2305,8 +2191,6 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/12141' ]
   - name: 'BattlehornCastleEnhanced.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/13853' ]
-  - name: 'ORM-TamriellicGlassDLC6.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/40308' ]
   - name: 'Falkreath.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/42765' ]
   - name: 'sir_balin_mod.esp'
@@ -2805,14 +2689,6 @@
     url: [ 'https://www.nexusmods.com/oblivion/mods/5276' ]
   - name: 'Open Cities + Cats & Rats for Francescos.esp'
     url: [ 'https://www.nexusmods.com/oblivion/mods/5276' ]
-  - name: 'Open Cities New Sheoth.esp'
-    url:
-      - 'https://www.nexusmods.com/oblivion/mods/16360'
-      - 'https://www.nexusmods.com/oblivion/mods/33003'
-  - name: 'Open Cities Bartholm.esp'
-    url:
-      - 'https://www.nexusmods.com/oblivion/mods/16360'
-      - 'https://www.nexusmods.com/oblivion/mods/33003'
 # No source
   - name: 'Open Cities Anvil.esp'
     url: [ '' ]
@@ -3279,8 +3155,6 @@
     url: [ '' ]
   - name: 'OriginalLeatherSI.esp'
     url: [ '' ]
-  - name: 'ORM-TamriellicGlassCORE.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/40308' ]
   - name: 'Passive Mudcrabs 1.esp'
     url: [ '' ]
   - name: 'pmNPCServices.esp'
