@@ -10,7 +10,9 @@
     url: [ '' ]
 # Restore
   - name: 'Ivellon.esp'
-    url: [ 'https://www.nexusmods.com/oblivion/mods/13714' ]
+    url:
+      - 'https://www.nexusmods.com/oblivion/mods/13714'
+      - 'https://www.planetoblivion.de/index.php?option=com_content&task=view&id=1011&Itemid=116'
     msg:
       - type: say
         content: 'Border regions must be turned off for OOO compatibility. Change bBorderRegionsEnabled to 0 in Oblivion.ini or use Wrye Bash bashed patch tweak.'
@@ -844,7 +846,7 @@
   - name: 'handk.esp'
     url: [ '' ]
   - name: 'SeductiveIdles.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/11105' ]
   - name: 'DMC Stylish - Specialanims.esp'
     url: [ '' ]
   - name: 'jhul_animations_specialanims.esp'
@@ -1118,11 +1120,11 @@
   - name: 'PaganRaces.esp'
     url: [ '' ]
   - name: 'Moonshadow Elves - Sc.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/30707' ]
   - name: 'Moonshadow-Elves_Sc_DV.esp'
     url: [ '' ]
   - name: 'Moonshadow Elves - NoSc.esp'
-    url: [ '' ]
+    url: [ 'https://www.nexusmods.com/oblivion/mods/30707' ]
   - name: 'Moonshadow-Elves_NoSc_DV.esp'
     url: [ '' ]
   - name: 'MSE Hairs And Eyes 03.esp'
